@@ -1,0 +1,63 @@
+/* ---------- Sarkari mode: a typical government portal. Same data, same honest charts. ---------- */
+html[data-theme="sarkari"] {
+  --paper: #FFFFFF; --line: #999999; --line-soft: #FFFFFF; --blue: #0B3D91; --navy: #0B3D91; --violet: #6A1B9A;
+  --red: #B00020; --ink: #000000; --muted: #444444;
+  --sans: Arial, Helvetica, sans-serif; --serif: 'Times New Roman', Times, serif; --hand: 'Times New Roman', Times, serif;
+}
+html[data-theme="sarkari"] body { background: #D9E1EC; font-size: 13px; }
+html[data-theme="sarkari"] .gov-only { display: block; }
+html[data-theme="sarkari"] .frame { background: #fff; border-left: 1px solid #777; border-right: 1px solid #777; padding-top: 0; padding-bottom: 8px; max-width: 1100px; }
+html[data-theme="sarkari"] .gov-chrome { margin: 0; overflow: hidden; }
+
+.tricolour { height: 6px; background: linear-gradient(to right, #FF9933 33.3%, #fff 33.3%, #fff 66.6%, #138808 66.6%); }
+.gov-util { display: flex; justify-content: flex-end; gap: 10px; padding: 3px 14px; background: #EDEDED; border-bottom: 1px solid #bbb; font: 11px Arial, sans-serif; color: #333; }
+.gov-banner { display: flex; align-items: center; gap: 14px; padding: 8px 14px; background: #FFF7E6; border-bottom: 2px solid #0B3D91; }
+.gov-title { flex: 1; text-align: center; font: bold 24px 'Times New Roman', serif; color: #0B3D91; }
+.gov-title small { display: block; font: 12px Arial, sans-serif; color: #444; font-weight: normal; }
+.slot { border: 1px dashed #666; background-color: #f4f4f4; background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; text-align: center; font: 10.5px Arial, sans-serif; color: #666; }
+.slot span { background: rgba(255,255,255,.7); padding: 1px 3px; }
+.slot-logo { width: 70px; height: 70px; background-image: url('photos/logo.png'); }
+.slot1 { width: 70px; height: 70px; background-image: url('photos/slot1.jpg'); }
+.slot2 { background-image: url('photos/slot2.jpg'); } .slot3 { background-image: url('photos/slot3.jpg'); } .slot4 { background-image: url('photos/slot4.jpg'); }
+.gov-nav { display: flex; gap: 22px; background: #0B3D91; color: #fff; padding: 7px 14px; font: 13px Arial, sans-serif; }
+.gov-carousel { display: grid; grid-template-columns: 1fr 1fr 1fr auto; gap: 6px; padding: 6px 14px; background: #f7f7f7; border-bottom: 1px solid #ccc; }
+.gov-carousel .slot { height: 74px; }
+.gov-count { align-self: center; font: 11px Arial, sans-serif; color: #444; padding-left: 6px; }
+.gov-ticker { background: #FFF3CD; border-bottom: 1px solid #d9b84a; padding: 3px 0; overflow: hidden; white-space: nowrap; font: 12px Arial, sans-serif; color: #7a1f00; }
+.gov-ticker span { display: inline-block; padding-left: 100%; animation: marquee 32s linear infinite; }
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-100%); } }
+
+html[data-theme="sarkari"] .head { border-bottom: 1px solid #0B3D91; padding: 8px 0; }
+html[data-theme="sarkari"] .head h1 { font: bold 17px 'Times New Roman', serif; color: #0B3D91; }
+html[data-theme="sarkari"] .head p { font-size: 12px; }
+html[data-theme="sarkari"] .toggle { background: #FFF3CD; border-color: #b38f00; }
+html[data-theme="sarkari"] .controls { border-bottom: 1px solid #999; background: #F3F6FB; padding: 8px 10px; }
+html[data-theme="sarkari"] .omr .r-in { border-radius: 0; border-color: #0B3D91; }
+html[data-theme="sarkari"] .omr label.selected .r-in { background: #0B3D91; border-color: #0B3D91; }
+html[data-theme="sarkari"] .nav { border: none; background: #0B3D91; margin-top: 6px; }
+html[data-theme="sarkari"] .tabs { gap: 0; }
+html[data-theme="sarkari"] .tabs label.dash-options-list-option { padding: 7px 14px; border-bottom: none; border-right: 1px solid #3a63b0; margin: 0; }
+html[data-theme="sarkari"] .tabs .r-lab { color: #fff; font-size: 13px; }
+html[data-theme="sarkari"] .tabs label.selected { background: #FF9933; }
+html[data-theme="sarkari"] .tabs label.selected .r-lab { color: #000; font-weight: bold; }
+html[data-theme="sarkari"] .subs label.dash-options-list-option { border-radius: 0; background: #E8EEF8; border-color: #0B3D91; }
+html[data-theme="sarkari"] .subs .r-lab { color: #0B3D91; }
+html[data-theme="sarkari"] .subs label.selected { background: #0B3D91; }
+html[data-theme="sarkari"] .subs label.selected .r-lab { color: #fff; }
+
+html[data-theme="sarkari"] .sheet { border: 1px solid #999; }
+html[data-theme="sarkari"] .margin { border-right: 1px solid #999; background: #FFFBEA; padding: 10px 12px; }
+html[data-theme="sarkari"] .margin::before { content: "Note"; display: block; font: bold 12px Arial, sans-serif; color: #B00020; margin-bottom: 6px; border-bottom: 1px solid #B00020; }
+html[data-theme="sarkari"] .remark { font-size: 13px; line-height: 1.5; }
+html[data-theme="sarkari"] .canvas { background-image: none; padding: 8px 10px; }
+html[data-theme="sarkari"] .tbl th { background: #0B3D91; color: #fff; border-bottom: none; }
+html[data-theme="sarkari"] .tbl tbody tr:nth-child(even) td { background: #EEF2F8; }
+html[data-theme="sarkari"] .tbl td { border: 1px solid #ccc; }
+html[data-theme="sarkari"] .slip { border: 2px solid #0B3D91; }
+html[data-theme="sarkari"] .slip-title { font: bold 22px 'Times New Roman', serif; color: #0B3D91; }
+html[data-theme="sarkari"] .stamp { border-color: #B00020; color: #B00020; }
+html[data-theme="sarkari"] .slip-hand { font-weight: bold; font-size: 16px; }
+html[data-theme="sarkari"] .slip-links button, html[data-theme="sarkari"] .viva-next, html[data-theme="sarkari"] .viva-btn { border-radius: 0; background: #E8EEF8; border: 1px solid #0B3D91; color: #0B3D91; }
+html[data-theme="sarkari"] .foot { background: #0B3D91; color: #fff; padding: 6px 10px; margin-top: 12px; }
+html[data-theme="sarkari"] .gov-only.foot, html[data-theme="sarkari"] .foot .gov-only { display: block; }
+html[data-theme="sarkari"] .tree { background: #f7f7f7; }

@@ -1,0 +1,23 @@
+area,step,count,detail,decision
+missing,empty cells in NIRF scores and the OpenAlex window counts,0,"checked tlr, rpc, go, oi, pr, pubs_own, cites_received, pubs_lineage",nothing to impute
+missing,OpenAlex yearly count empty (structural),5321,5311 are years before 2010 (OpenAlex's own yearly counts start in 2010) and 10 are future years; none inside any 3-year window,"ignore, outside every window"
+missing,institution-years that vanish from the next year's top 100,90,mean rank 81.1 for those that vanish vs 46.7 for those that stay (permutation p = 0.0001),"missingness depends on the observed rank, so it is MAR (not MCAR; MNAR cannot be ruled out): keep observed rows only, no imputation, conclusions apply to institutions inside the top 100"
+missing,perception score recorded as exactly 0.0,7,all at ranks 67-97; mean rank 79 vs 50 for the rest (p = 0.006),"kept as published (a 0 is a valid NIRF value or an unreported one - cannot tell); perception is not used in the main result, so no effect on it"
+outliers,"institution-years flagged by at least one method (IQR, modified z, Mahalanobis)",7,7 different institutions; see interim/outliers file for each,none removed: flagged rows are real institutions or an identified boundary problem; sensitivity run without flagged rows is in the Spearman table (excl_flagged)
+outliers,"  of which: very few papers: a management or specialist institute, genuine",4,,
+outliers,"  of which: very many papers: a large research university, genuine",3,,
+duplicates,same institution twice in one year,0,after step 2,none
+duplicates,two NIRF institutions pointing at the same OpenAlex id,0,,none
+duplicates,pairs of different institutions with very similar names (>=0.92),8,listed in interim/near_duplicates; e.g. the IIT campuses and AIIMS sites differ only by city,"reviewed by eye: distinct institutions, kept separate"
+duplicates,NIRF name vs OpenAlex name similarity below 0.6 (cross-source check),15,"upes -> University of Petroleum and Energy Studies; shanmugha arts science technology and research academy -> SASTRA University; kalinga institute of industrial technology -> KIIT University; bharath institute of higher education and research -> Bharath University; college of engineering pune -> COEP Technological University; saveetha institute of medical and technical sciences -> Saveetha University; indian institute of crop processing technology -> National Institute of Food Technology, Entrepreneurship and Management - Thanjavur; nitte -> Nitte University","each checked against ROR city and type: renamed or abbreviated institutions, not mismatches (verify this list once by eye)"
+before_after,NIRF rows,901,901 after cleaning,none dropped
+before_after,distinct NIRF ids in the raw scrape,342,164 distinct institutions after cleaning (2017 ids differ in format),
+before_after,distinct institution name strings,231,164 after cleaning,one name per institution
+before_after,distinct location strings,106,92 after cleaning,spelling variants merged
+before_after,"papers in the 2025 window, lineage count vs own count (all 100 institutions)",662956,642584 own (3.1% fewer after using own),own count used as the main measure
+before_after,institutions in 2025 whose lineage count was >5% above own count,9,"banaras hindu university, manipal academy of higher education manipal, university of delhi, birla institute of technology and science pilani, homi bhabha national institute, s r m institute of science and technology, amity university, university of kashmir",fixed by using own count
+from_step_2,2017 rows matched to a later id by name,85,of which via alias: 9,
+from_step_2,placeholder ids (institution not matched in later years),15,15 institutions,
+from_step_2,display name fixed by hand,2,{'C-41593': 'college of engineering pune'},
+from_step_2,location label standardised,43,raw label kept in location_raw,
+storage,SQLite round trip of the joined table,1,"shape, values, missing cells identical; dtype differences: none","SQLite chosen: one file, SQL queries, standard library; CSVs kept for the dashboard"

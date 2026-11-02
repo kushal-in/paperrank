@@ -1,0 +1,10 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+pandas>=1.5
+numpy>=1.23
+scipy>=1.10
+dash>=2.9
+plotly>=5.18
+dash-bootstrap-components>=1.5
+jupyter>=1.0

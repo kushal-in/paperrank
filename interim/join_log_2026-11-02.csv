@@ -1,0 +1,10 @@
+step,count,detail
+crosswalk rows,164,openalex ids shared by 2+ institutions: 0
+NIRF rows without an OpenAlex id,0,should be 0
+NIRF rows with no OpenAlex window counts,0,should be 0
+rows with any missing citation value inside window,0,should be 0
+rows whose window has fewer than 3 years of data,0,should be 0
+flag_lineage_inflated,88,institution-years
+flag_oa_disagree,4,institution-years
+flag_aiims_merged,4,institution-years
+flag_any,96,institution-years

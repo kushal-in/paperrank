@@ -1,0 +1,902 @@
+score,rank,year,location,id_new,name_new
+87.59,1,2017,Bengaluru,U-0220,indian institute of science
+72.6,2,2017,Chennai,U-0456,indian institute of technology madras
+78.14,3,2017,Mumbai,U-0306,indian institute of technology bombay
+70.46,4,2017,Kharagpur,U-0573,indian institute of technology kharagpur
+68.48,5,2017,New Delhi,I-1074,indian institute of technology delhi
+33.96,6,2017,New Delhi,U-0109,jawaharlal nehru university
+62.14,7,2017,Kanpur,I-1075,indian institute of technology kanpur
+47.46,8,2017,Guwahati,U-0053,indian institute of technology guwahati
+56.6,9,2017,Roorkee,U-0560,indian institute of technology roorkee
+49.96,10,2017,Varanasi,U-0500,banaras hindu university
+51.93,11,2017,Bengaluru,X-0011,jawaharlal nehru centre for advanced scientific research
+54.09,12,2017,Kolkata,U-0575,jadavpur university
+54.58,13,2017,Chennai,U-0439,anna university
+42.77,14,2017,Hyderabad,U-0042,university of hyderabad
+56.61,15,2017,Delhi,U-0120,university of delhi
+39.49,16,2017,Coimbatore,U-0436,amrita vishwa vidyapeetham
+13.85,17,2017,Ahmedabad,X-0004,indian institute of management ahmedabad
+35.03,18,2017,Pune,U-0323,savitribai phule pune university
+36.2,19,2017,Aligarh,U-0496,aligarh muslim university
+27.99,20,2017,New Delhi,U-0108,jamia millia islamia
+31.26,21,2017,Pilani,U-0391,birla institute of technology and science pilani
+42.87,22,2017,Vellore,U-0490,vellore institute of technology
+33.6,23,2017,New Delhi,U-0101,indian agricultural research institute
+32.43,24,2017,Indore,U-0273,indian institute of technology indore
+12.47,25,2017,Bengaluru,X-0005,indian institute of management bangalore
+28.02,26,2017,Hyderabad,U-0013,indian institute of technology hyderabad
+44.1,27,2017,Kolkata,U-0570,calcutta university
+12.56,28,2017,Coimbatore,U-0485,tamil nadu agricultural university
+28.43,29,2017,Pune,U-0305,indian institute of science education and research pune
+29.31,30,2017,Manipal,U-0234,manipal academy of higher education manipal
+25.23,31,2017,Santiniketan,U-0589,visva bharati
+24.68,32,2017,Rupnagar,U-0378,indian institute of technology ropar
+17.17,33,2017,Bhubaneswar,U-0363,siksha o anusandhan
+31.32,34,2017,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+8.75,35,2017,Mumbai,U-0304,homi bhabha national institute
+23.12,35,2017,Chennai,U-0446,bharath institute of higher education and research
+16.43,37,2017,Mandi,U-0184,indian institute of technology mandi
+20.56,38,2017,Hyderabad,U-0027,osmania university
+6.04,39,2017,Kolkata,S-8972,indian institute of management calcutta
+16.51,40,2017,Ludhiana,U-0381,punjab agricultural university
+36.82,41,2017,Mumbai,U-0308,institute of chemical technology
+27.86,42,2017,New Delhi,U-0107,jamia hamdard
+16.84,43,2017,Guwahati,U-0052,gauhati university
+27.13,44,2017,Mohanpur,U-0572,indian institute of science education and research kolkata
+35.58,45,2017,Coimbatore,U-0447,bharathiar university
+34.18,46,2017,Rourkela,U-0357,national institute of technology rourkela
+14.62,47,2017,Thiruvananthapuram,U-0260,kerala university
+28.83,48,2017,Tezpur,U-0056,tezpur university
+6.59,49,2017,Mumbai,U-0331,tata institute of social sciences
+31.09,50,2017,Thanjavur,U-0476,shanmugha arts science technology and research academy
+6.94,51,2017,Lucknow,X-0007,indian institute of management lucknow
+17.55,52,2017,Mohali,U-0377,indian institute of science education and research mohali
+34.27,53,2017,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+40.79,54,2017,Chandigarh,U-0078,panjab university
+25.07,55,2017,Chennai,U-0473,s r m institute of science and technology
+11.63,56,2017,Thiruvananthapuram,X-0010,indian institute of space science and technology
+20.1,57,2017,Mysuru,U-0235,mysore university
+14.3,58,2017,Hyderabad,X-0013,national institute of pharmaceutical education and research hyderabad
+26.33,59,2017,Puducherry,U-0369,pondicherry university
+6.36,60,2017,Chennai,U-0487,tamil nadu veterinary and animal sciences university
+14.1,61,2017,Chennai,I-1486,sri ramachandra institute of higher education and research
+5.89,62,2017,Anand,U-0123,anand agricultural university
+1.38,63,2017,Udaipur,X-0009,indian institute of management udaipur
+29.26,64,2017,Chennai,I-1357,university of madras
+21.43,65,2017,Surathkal,U-0237,national institute of technology karnataka surathkal
+20.92,66,2017,Bhubaneswar,U-0355,indian institute of technology bhubaneswar
+1.09,67,2017,Tiruchirappalli,X-0008,indian institute of management tiruchirappalli
+24.43,68,2017,Tirupati,U-0037,sri venkateswara university
+18.59,69,2017,Visakhapatnam,U-0006,andhra university visakhapatnam
+19.35,70,2017,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+1.47,71,2017,Kashipur,X-0006,indian institute of management kashipur
+22.17,72,2017,Chennai,U-0474,sathyabama institute of science and technology
+27.57,73,2017,Howrah,U-0584,indian institute of engineering science and technology shibpur
+10.32,74,2017,Mysuru,U-0222,jss academy of higher education and research
+29.05,75,2017,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+4.9,76,2017,Pune,I-1110,dr d y patil vidyapeeth
+11.83,77,2017,Shillong,U-0341,north eastern hill university
+17.34,78,2017,Gandhinagar,U-0139,indian institute of technology gandhinagar
+12.75,79,2017,Bhubaneswar,U-0356,kalinga institute of industrial technology
+14.02,80,2017,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+10.08,81,2017,Ludhiana,X-0002,guru angad dev veterinary and animal sciences university
+17.53,82,2017,Warangal,U-0025,national institute of technology warangal
+19.13,83,2017,Patna,U-0064,indian institute of technology patna
+4.39,84,2017,Solan,X-0001,dr y s parmar university of horticulture and forestry
+6.11,85,2017,Kozhikode,S-8909,indian institute of management kozhikode
+23.36,86,2017,Gautam Buddha Nagar,U-0497,amity university
+1.56,87,2017,Thanjavur,X-0003,indian institute of crop processing technology
+14.34,88,2017,Coimbatore,C-37013,psg college of technology
+9.99,89,2017,Banasthali,U-0389,banasthali vidyapith
+12.95,90,2017,Pune,I-1361,bharati vidyapeeth
+11.81,91,2017,Chennai,I-1441,saveetha institute of medical and technical sciences
+26.87,92,2017,Annamalainagar,X-0000,annamalai university
+8.81,93,2017,Malappuram,U-0251,calicut university
+5.27,94,2017,Aizawl,U-0345,mizoram university
+13.44,95,2017,Kurukshetra,X-0012,kurukshetra university
+9.43,96,2017,Gautam Buddha Nagar,U-0642,shiv nadar university
+8.92,97,2017,Pune,U-0329,symbiosis international
+18.21,98,2017,Bhopal,U-0272,indian institute of science education and research bhopal
+1.89,99,2017,Shillong,X-0014,rajiv gandhi indian institute of management
+4.9,100,2017,Belagavi,U-0225,kle academy of higher education and research
+91.08,1,2018,Bengaluru,U-0220,indian institute of science
+81.42,2,2018,Chennai,U-0456,indian institute of technology madras
+85.59,3,2018,Mumbai,U-0306,indian institute of technology bombay
+78.67,4,2018,New Delhi,I-1074,indian institute of technology delhi
+74.57,5,2018,Kharagpur,U-0573,indian institute of technology kharagpur
+42.6,6,2018,New Delhi,U-0109,jawaharlal nehru university
+68.63,7,2018,Kanpur,I-1075,indian institute of technology kanpur
+61.59,8,2018,Roorkee,U-0560,indian institute of technology roorkee
+50.76,9,2018,Varanasi,U-0500,banaras hindu university
+60.76,10,2018,Chennai,U-0439,anna university
+45.34,11,2018,Hyderabad,U-0042,university of hyderabad
+52.13,12,2018,Guwahati,U-0053,indian institute of technology guwahati
+57.07,13,2018,Kolkata,U-0575,jadavpur university
+58.16,14,2018,Delhi,U-0120,university of delhi
+43.56,15,2018,Coimbatore,U-0436,amrita vishwa vidyapeetham
+43.64,16,2018,Pune,U-0323,savitribai phule pune university
+36.87,17,2018,Aligarh,U-0496,aligarh muslim university
+44.15,18,2018,Manipal,U-0234,manipal academy of higher education manipal
+33.21,19,2018,New Delhi,U-0108,jamia millia islamia
+41.7,20,2018,Coimbatore,U-0447,bharathiar university
+50.26,21,2018,Kolkata,U-0570,calcutta university
+35.33,22,2018,Hyderabad,U-0013,indian institute of technology hyderabad
+29.71,23,2018,Lucknow,U-0523,king george s medical university
+47.42,24,2018,Vellore,U-0490,vellore institute of technology
+35.6,25,2018,Mohanpur,U-0572,indian institute of science education and research kolkata
+35.56,26,2018,Pilani,U-0391,birla institute of technology and science pilani
+44.24,27,2018,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+48.53,28,2018,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+33.4,29,2018,Chennai,I-1357,university of madras
+48.52,30,2018,Mumbai,U-0308,institute of chemical technology
+34.41,31,2018,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+33.04,32,2018,Pune,U-0305,indian institute of science education and research pune
+44.75,33,2018,Chandigarh,U-0078,panjab university
+14.54,34,2018,Kolkata,S-8972,indian institute of management calcutta
+29.22,35,2018,Chennai,U-0446,bharath institute of higher education and research
+25.12,36,2018,Visakhapatnam,U-0006,andhra university visakhapatnam
+32.29,37,2018,New Delhi,U-0107,jamia hamdard
+23.4,38,2018,Bhubaneswar,U-0363,siksha o anusandhan
+27.29,39,2018,Gandhinagar,U-0139,indian institute of technology gandhinagar
+12.99,40,2018,Coimbatore,U-0485,tamil nadu agricultural university
+14.18,41,2018,Mumbai,U-0304,homi bhabha national institute
+41.93,42,2018,Rourkela,U-0357,national institute of technology rourkela
+22.27,43,2018,Karaikudi,U-0435,alagappa university
+35.5,44,2018,Howrah,U-0584,indian institute of engineering science and technology shibpur
+25.9,45,2018,Hyderabad,U-0027,osmania university
+30.54,46,2018,Tezpur,U-0056,tezpur university
+19.8,47,2018,Thiruvananthapuram,U-0260,kerala university
+27.44,48,2018,Santiniketan,U-0589,visva bharati
+9.77,49,2018,Mumbai,U-0331,tata institute of social sciences
+34.97,50,2018,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+28.14,51,2018,Bhubaneswar,U-0355,indian institute of technology bhubaneswar
+22.89,52,2018,Kottayam,U-0262,mahatma gandhi university kottayam
+15.04,52,2018,Pantnagar,U-0554,g b pant universtiy of agriculture and technology
+34.57,54,2018,Thanjavur,U-0476,shanmugha arts science technology and research academy
+21.34,55,2018,Mohali,U-0377,indian institute of science education and research mohali
+26.6,56,2018,Bhopal,U-0272,indian institute of science education and research bhopal
+29.51,57,2018,Surathkal,U-0237,national institute of technology karnataka surathkal
+20.45,58,2018,Thiruvananthapuram,U-0254,indian institute of science education and research thiruvananthapuram
+17.24,59,2018,Mysuru,U-0222,jss academy of higher education and research
+19.35,60,2018,Ludhiana,U-0381,punjab agricultural university
+19.8,61,2018,Guwahati,U-0052,gauhati university
+19.5,62,2018,Chennai,I-1486,sri ramachandra institute of higher education and research
+28.54,63,2018,Chennai,U-0473,s r m institute of science and technology
+16.92,64,2018,Coimbatore,C-37013,psg college of technology
+22.53,65,2018,Bhubaneswar,U-0356,kalinga institute of industrial technology
+29.45,66,2018,Ranchi,U-0202,birla institute of technology
+12.46,67,2018,Pune,U-0329,symbiosis international
+29.43,68,2018,Chennai,U-0474,sathyabama institute of science and technology
+25.42,69,2018,Patna,U-0064,indian institute of technology patna
+18.67,70,2018,Chennai,I-1441,saveetha institute of medical and technical sciences
+20.08,71,2018,Srinagar,U-0196,university of kashmir
+12.55,72,2018,Gautam Buddha Nagar,U-0642,shiv nadar university
+20.31,73,2018,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+25.94,74,2018,Tirupati,U-0037,sri venkateswara university
+2.12,75,2018,Coimbatore,C-45515,psg institute of medical sciences and research
+8.04,76,2018,Hisar,U-0159,chaudhary charan singh haryana agricultural university
+18.9,77,2018,Jammu,U-0195,university of jammu
+22.73,78,2018,Warangal,U-0025,national institute of technology warangal
+8.25,79,2018,Pune,I-1110,dr d y patil vidyapeeth
+30.1,80,2018,Gautam Buddha Nagar,U-0497,amity university
+28.03,81,2018,Madurai,U-0463,madurai kamaraj university
+12.61,82,2018,Mumbai,N-10,svkm s narsee monjee institute of management studies
+15.23,83,2018,Vaddeswaram,U-0020,koneru lakshmaiah education foundation university (k l college of engineering)
+11.37,84,2018,Belagavi,U-0225,kle academy of higher education and research
+2.64,85,2018,Dharwad,U-0246,university of agricultural sciences
+26.49,86,2018,Puducherry,U-0369,pondicherry university
+31.78,86,2018,Amritsar,U-0376,guru nanak dev university
+13.43,88,2018,Shillong,U-0341,north eastern hill university
+3.0,89,2018,Tirupati,U-0036,sri venkateswara institute of medical sciences
+5.05,90,2018,Agra,U-0507,dayalbagh educational institute
+14.16,91,2018,Banasthali,U-0389,banasthali vidyapith
+7.95,92,2018,Chennai,U-0487,tamil nadu veterinary and animal sciences university
+16.06,93,2018,Pune,I-1361,bharati vidyapeeth
+29.21,94,2018,Tiruchirappalli,U-0448,bharathidasan university
+19.19,95,2018,Madurai,C-26794,thiagarajar college of engineering
+17.22,96,2018,Pune,C-41593,college of engineering pune
+5.83,97,2018,Puducherry,C-47762,mahatma gandhi medical college and research institute
+13.77,98,2018,Goa,U-0121,goa university
+24.36,99,2018,Cochin,U-0253,cochin university of science and technology
+24.12,100,2018,New Delhi,U-0098,delhi technological university
+83.53,1,2019,Chennai,U-0456,indian institute of technology madras
+89.24,2,2019,Bengaluru,U-0220,indian institute of science
+82.98,3,2019,New Delhi,I-1074,indian institute of technology delhi
+84.36,4,2019,Mumbai,U-0306,indian institute of technology bombay
+76.65,5,2019,Kharagpur,U-0573,indian institute of technology kharagpur
+69.61,6,2019,Kanpur,I-1075,indian institute of technology kanpur
+41.85,7,2019,New Delhi,U-0109,jawaharlal nehru university
+65.08,8,2019,Roorkee,U-0560,indian institute of technology roorkee
+56.58,9,2019,Guwahati,U-0053,indian institute of technology guwahati
+46.48,10,2019,Varanasi,U-0500,banaras hindu university
+43.78,11,2019,Hyderabad,U-0042,university of hyderabad
+47.1,12,2019,Kolkata,U-0570,calcutta university
+54.89,13,2019,Kolkata,U-0575,jadavpur university
+54.1,14,2019,Chennai,U-0439,anna university
+43.77,15,2019,Coimbatore,U-0436,amrita vishwa vidyapeetham
+38.31,16,2019,Manipal,U-0234,manipal academy of higher education manipal
+44.42,17,2019,Pune,U-0323,savitribai phule pune university
+35.38,18,2019,Aligarh,U-0496,aligarh muslim university
+32.04,19,2019,New Delhi,U-0108,jamia millia islamia
+53.79,20,2019,Delhi,U-0120,university of delhi
+45.04,21,2019,Coimbatore,U-0447,bharathiar university
+40.82,22,2019,Hyderabad,U-0013,indian institute of technology hyderabad
+42.05,23,2019,Pune,U-0305,indian institute of science education and research pune
+34.72,24,2019,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+50.98,25,2019,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+17.12,26,2019,Kolkata,S-8972,indian institute of management calcutta
+48.4,27,2019,Mumbai,U-0308,institute of chemical technology
+39.44,28,2019,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+23.16,29,2019,Visakhapatnam,U-0006,andhra university visakhapatnam
+25.24,30,2019,Mumbai,U-0304,homi bhabha national institute
+29.92,31,2019,New Delhi,U-0107,jamia hamdard
+47.63,32,2019,Vellore,U-0490,vellore institute of technology
+33.28,33,2019,Chennai,I-1357,university of madras
+44.82,34,2019,Chandigarh,U-0078,panjab university
+18.84,35,2019,Thiruvananthapuram,U-0260,kerala university
+36.74,36,2019,Howrah,U-0584,indian institute of engineering science and technology shibpur
+31.49,37,2019,Bhopal,U-0272,indian institute of science education and research bhopal
+45.65,38,2019,Rourkela,U-0357,national institute of technology rourkela
+34.14,39,2019,Pilani,U-0391,birla institute of technology and science pilani
+41.21,40,2019,Mohanpur,U-0572,indian institute of science education and research kolkata
+21.17,41,2019,Bhubaneswar,U-0363,siksha o anusandhan
+25.85,42,2019,Lucknow,U-0523,king george s medical university
+24.95,43,2019,Hyderabad,U-0027,osmania university
+28.36,44,2019,Mandi,U-0184,indian institute of technology mandi
+36.3,45,2019,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+32.91,46,2019,Bhubaneswar,U-0355,indian institute of technology bhubaneswar
+22.18,47,2019,Karaikudi,U-0435,alagappa university
+30.1,48,2019,Tezpur,U-0056,tezpur university
+26.97,49,2019,Kottayam,U-0262,mahatma gandhi university kottayam
+18.1,50,2019,Bhubaneswar,U-0356,kalinga institute of industrial technology
+31.43,51,2019,Gandhinagar,U-0139,indian institute of technology gandhinagar
+26.51,52,2019,Chennai,U-0473,s r m institute of science and technology
+32.27,53,2019,Surathkal,U-0237,national institute of technology karnataka surathkal
+16.57,54,2019,Chennai,I-1486,sri ramachandra institute of higher education and research
+15.74,55,2019,Mysuru,U-0222,jss academy of higher education and research
+9.97,56,2019,Mumbai,U-0331,tata institute of social sciences
+17.76,57,2019,Chennai,U-0446,bharath institute of higher education and research
+29.8,58,2019,Patna,U-0064,indian institute of technology patna
+26.07,59,2019,Santiniketan,U-0589,visva bharati
+15.49,60,2019,Pantnagar,U-0554,g b pant universtiy of agriculture and technology
+24.71,61,2019,Warangal,U-0025,national institute of technology warangal
+14.53,62,2019,Shillong,U-0341,north eastern hill university
+32.38,63,2019,Thanjavur,U-0476,shanmugha arts science technology and research academy
+27.15,64,2019,Chennai,U-0474,sathyabama institute of science and technology
+18.08,65,2019,Guwahati,U-0052,gauhati university
+25.27,66,2019,Mohali,U-0377,indian institute of science education and research mohali
+17.64,67,2019,Chennai,I-1441,saveetha institute of medical and technical sciences
+11.58,68,2019,Coimbatore,U-0485,tamil nadu agricultural university
+28.11,69,2019,Madurai,U-0463,madurai kamaraj university
+7.61,70,2019,Pune,I-1110,dr d y patil vidyapeeth
+24.33,71,2019,New Delhi,U-0098,delhi technological university
+26.63,72,2019,Puducherry,U-0369,pondicherry university
+23.6,72,2019,Tirupati,U-0037,sri venkateswara university
+19.07,74,2019,Vaddeswaram,U-0020,koneru lakshmaiah education foundation university (k l college of engineering)
+19.74,75,2019,Ludhiana,U-0381,punjab agricultural university
+12.61,76,2019,Coimbatore,C-37013,psg college of technology
+14.05,77,2019,Gautam Buddha Nagar,U-0642,shiv nadar university
+22.97,78,2019,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+18.33,79,2019,Srinagar,U-0196,university of kashmir
+18.15,80,2019,Mysuru,U-0235,mysore university
+29.38,81,2019,Amritsar,U-0376,guru nanak dev university
+9.43,82,2019,Pune,U-0329,symbiosis international
+11.68,83,2019,Mumbai,N-10,svkm s narsee monjee institute of management studies
+28.3,84,2019,Gautam Buddha Nagar,U-0497,amity university
+29.47,85,2019,Ranchi,U-0202,birla institute of technology
+29.05,86,2019,Tiruchirappalli,U-0448,bharathidasan university
+11.67,87,2019,Banasthali,U-0389,banasthali vidyapith
+11.42,88,2019,Pune,I-1361,bharati vidyapeeth
+6.91,89,2019,Hisar,U-0159,chaudhary charan singh haryana agricultural university
+16.46,90,2019,Malappuram,U-0251,calicut university
+20.52,91,2019,Pune,C-41593,college of engineering pune
+3.16,92,2019,Wardha,U-0295,datta meghe institute of higher education and research
+28.96,93,2019,Durgapur,U-0577,national institute of technology durgapur
+26.88,94,2019,Cochin,U-0253,cochin university of science and technology
+18.96,95,2019,New Delhi,U-0099,guru gobind singh indraprastha university
+12.25,96,2019,Anand,U-0123,anand agricultural university
+20.74,97,2019,Salem,U-0470,periyar university
+8.73,98,2019,Belagavi,U-0225,kle academy of higher education and research
+8.01,99,2019,Chennai,U-0487,tamil nadu veterinary and animal sciences university
+9.31,99,2019,Mangaluru,U-0239,nitte
+90.67,1,2020,Chennai,U-0456,indian institute of technology madras
+92.16,2,2020,Bengaluru,U-0220,indian institute of science
+87.16,3,2020,New Delhi,I-1074,indian institute of technology delhi
+86.46,4,2020,Mumbai,U-0306,indian institute of technology bombay
+79.73,5,2020,Kharagpur,U-0573,indian institute of technology kharagpur
+74.76,6,2020,Kanpur,I-1075,indian institute of technology kanpur
+63.55,7,2020,Guwahati,U-0053,indian institute of technology guwahati
+44.8,8,2020,New Delhi,U-0109,jawaharlal nehru university
+67.0,9,2020,Roorkee,U-0560,indian institute of technology roorkee
+44.89,10,2020,Varanasi,U-0500,banaras hindu university
+48.58,11,2020,Kolkata,U-0570,calcutta university
+52.96,12,2020,Kolkata,U-0575,jadavpur university
+52.11,13,2020,Coimbatore,U-0436,amrita vishwa vidyapeetham
+42.62,14,2020,Manipal,U-0234,manipal academy of higher education manipal
+42.93,15,2020,Hyderabad,U-0042,university of hyderabad
+38.3,16,2020,New Delhi,U-0108,jamia millia islamia
+48.99,17,2020,Hyderabad,U-0013,indian institute of technology hyderabad
+55.4,18,2020,Delhi,U-0120,university of delhi
+45.48,19,2020,Pune,U-0323,savitribai phule pune university
+48.61,20,2020,Chennai,U-0439,anna university
+46.47,21,2020,Coimbatore,U-0447,bharathiar university
+55.69,22,2020,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+47.56,23,2020,Indore,U-0273,indian institute of technology indore
+40.88,24,2020,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+45.05,25,2020,Pune,U-0305,indian institute of science education and research pune
+42.97,26,2020,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+40.72,27,2020,Pilani,U-0391,birla institute of technology and science pilani
+54.82,28,2020,Vellore,U-0490,vellore institute of technology
+38.92,29,2020,Mohanpur,U-0572,indian institute of science education and research kolkata
+30.44,30,2020,Mumbai,U-0304,homi bhabha national institute
+40.78,31,2020,Aligarh,U-0496,aligarh muslim university
+48.96,32,2020,Rourkela,U-0357,national institute of technology rourkela
+37.5,33,2020,Surathkal,U-0237,national institute of technology karnataka surathkal
+48.02,34,2020,Mumbai,U-0308,institute of chemical technology
+36.5,35,2020,Gandhinagar,U-0139,indian institute of technology gandhinagar
+25.99,36,2020,Visakhapatnam,U-0006,andhra university visakhapatnam
+28.48,37,2020,New Delhi,U-0107,jamia hamdard
+25.73,38,2020,Bhubaneswar,U-0363,siksha o anusandhan
+31.54,39,2020,Rupnagar,U-0378,indian institute of technology ropar
+30.91,40,2020,Bhopal,U-0272,indian institute of science education and research bhopal
+33.16,41,2020,Chennai,I-1357,university of madras
+19.03,42,2020,Thiruvananthapuram,U-0260,kerala university
+38.96,43,2020,Howrah,U-0584,indian institute of engineering science and technology shibpur
+42.83,44,2020,Chandigarh,U-0078,panjab university
+22.59,44,2020,Bhubaneswar,U-0356,kalinga institute of industrial technology
+30.19,46,2020,Warangal,U-0025,national institute of technology warangal
+19.55,47,2020,Mysuru,U-0235,mysore university
+35.91,48,2020,Thanjavur,U-0476,shanmugha arts science technology and research academy
+30.32,49,2020,Kottayam,U-0262,mahatma gandhi university kottayam
+26.47,50,2020,Lucknow,U-0523,king george s medical university
+16.92,51,2020,Chennai,I-1486,sri ramachandra institute of higher education and research
+38.79,51,2020,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+25.56,53,2020,Hyderabad,U-0027,osmania university
+32.37,54,2020,Patna,U-0064,indian institute of technology patna
+18.74,54,2020,Mysuru,U-0222,jss academy of higher education and research
+36.3,56,2020,Bhubaneswar,U-0355,indian institute of technology bhubaneswar
+11.4,57,2020,Mumbai,U-0331,tata institute of social sciences
+34.43,58,2020,Chennai,U-0473,s r m institute of science and technology
+29.98,59,2020,Mohali,U-0377,indian institute of science education and research mohali
+13.4,60,2020,Ahmedabad,U-0136,gujarat university
+30.41,61,2020,Chennai,U-0474,sathyabama institute of science and technology
+28.86,62,2020,New Delhi,U-0098,delhi technological university
+37.48,63,2020,Gautam Buddha Nagar,U-0497,amity university
+22.69,64,2020,Karaikudi,U-0435,alagappa university
+30.34,65,2020,Tezpur,U-0056,tezpur university
+24.29,66,2020,Chennai,I-1441,saveetha institute of medical and technical sciences
+30.81,67,2020,Mandi,U-0184,indian institute of technology mandi
+21.53,68,2020,Tirupati,U-0037,sri venkateswara university
+27.29,69,2020,Santiniketan,U-0589,visva bharati
+24.52,70,2020,Vaddeswaram,U-0020,koneru lakshmaiah education foundation university (k l college of engineering)
+33.25,71,2020,Jaipur,U-0410,malaviya national institute of technology
+17.04,72,2020,Guwahati,U-0052,gauhati university
+14.11,73,2020,Pune,U-0329,symbiosis international
+15.19,74,2020,Shillong,U-0341,north eastern hill university
+9.71,75,2020,Pune,I-1110,dr d y patil vidyapeeth
+17.39,76,2020,Malappuram,U-0251,calicut university
+28.38,77,2020,Tiruchirappalli,U-0448,bharathidasan university
+18.51,78,2020,Srinagar,U-0196,university of kashmir
+12.82,79,2020,Banasthali,U-0389,banasthali vidyapith
+26.45,80,2020,Thiruvananthapuram,U-0254,indian institute of science education and research thiruvananthapuram
+28.85,81,2020,Puducherry,U-0369,pondicherry university
+16.4,82,2020,Gautam Buddha Nagar,U-0642,shiv nadar university
+27.12,83,2020,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+26.14,84,2020,Madurai,U-0463,madurai kamaraj university
+28.71,85,2020,Ranchi,U-0202,birla institute of technology
+16.13,85,2020,Coimbatore,C-37013,psg college of technology
+18.56,87,2020,Chennai,U-0446,bharath institute of higher education and research
+30.06,88,2020,Amritsar,U-0376,guru nanak dev university
+27.78,89,2020,Cochin,U-0253,cochin university of science and technology
+16.33,90,2020,Jammu,U-0195,university of jammu
+4.93,91,2020,Jaipur,N-17,sawai man singh medical college
+12.44,92,2020,Mumbai,N-10,svkm s narsee monjee institute of management studies
+26.38,93,2020,Prayagraj,U-0530,motilal nehru national institute of technology
+28.42,94,2020,Silchar,U-0055,national institute of technology silchar
+20.84,95,2020,Mumbai,U-0318,mumbai university
+31.21,96,2020,Durgapur,U-0577,national institute of technology durgapur
+7.13,97,2020,Wardha,U-0295,datta meghe institute of higher education and research
+12.09,98,2020,Pune,I-1361,bharati vidyapeeth
+16.44,99,2020,Phagwara,U-0379,lovely professional university
+10.83,100,2020,Aizawl,U-0345,mizoram university
+13.0,100,2020,Bengaluru,U-0215,bangalore university
+92.51,1,2021,Chennai,U-0456,indian institute of technology madras
+91.48,2,2021,Bengaluru,U-0220,indian institute of science
+87.81,3,2021,Mumbai,U-0306,indian institute of technology bombay
+84.46,4,2021,New Delhi,I-1074,indian institute of technology delhi
+75.23,5,2021,Kanpur,I-1075,indian institute of technology kanpur
+76.23,6,2021,Kharagpur,U-0573,indian institute of technology kharagpur
+68.37,7,2021,Roorkee,U-0560,indian institute of technology roorkee
+66.25,8,2021,Guwahati,U-0053,indian institute of technology guwahati
+44.96,9,2021,New Delhi,U-0109,jawaharlal nehru university
+45.0,10,2021,Varanasi,U-0500,banaras hindu university
+43.92,11,2021,Kolkata,U-0570,calcutta university
+54.33,12,2021,Coimbatore,U-0436,amrita vishwa vidyapeetham
+43.43,13,2021,New Delhi,U-0108,jamia millia islamia
+51.72,14,2021,Kolkata,U-0575,jadavpur university
+48.17,15,2021,Manipal,U-0234,manipal academy of higher education manipal
+52.64,16,2021,Hyderabad,U-0013,indian institute of technology hyderabad
+40.74,17,2021,Hyderabad,U-0042,university of hyderabad
+40.86,18,2021,Aligarh,U-0496,aligarh muslim university
+54.23,19,2021,Delhi,U-0120,university of delhi
+42.77,20,2021,Pune,U-0323,savitribai phule pune university
+56.83,21,2021,Vellore,U-0490,vellore institute of technology
+47.45,22,2021,Coimbatore,U-0447,bharathiar university
+44.58,23,2021,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+45.58,24,2021,Pune,U-0305,indian institute of science education and research pune
+43.09,25,2021,Chennai,U-0439,anna university
+56.64,26,2021,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+55.82,27,2021,Mumbai,U-0308,institute of chemical technology
+47.41,28,2021,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+43.13,29,2021,Pilani,U-0391,birla institute of technology and science pilani
+49.25,30,2021,Indore,U-0273,indian institute of technology indore
+32.92,31,2021,Rupnagar,U-0378,indian institute of technology ropar
+41.74,32,2021,Surathkal,U-0237,national institute of technology karnataka surathkal
+37.15,33,2021,Gandhinagar,U-0139,indian institute of technology gandhinagar
+18.79,34,2021,Mysuru,U-0235,mysore university
+38.82,35,2021,Mohanpur,U-0572,indian institute of science education and research kolkata
+36.45,36,2021,Mumbai,U-0304,homi bhabha national institute
+29.92,37,2021,Bhubaneswar,U-0363,siksha o anusandhan
+40.86,38,2021,Chandigarh,U-0078,panjab university
+27.78,39,2021,Bhubaneswar,U-0356,kalinga institute of industrial technology
+31.86,40,2021,Mohali,U-0377,indian institute of science education and research mohali
+48.29,41,2021,Rourkela,U-0357,national institute of technology rourkela
+38.28,42,2021,Thanjavur,U-0476,shanmugha arts science technology and research academy
+43.27,43,2021,Gautam Buddha Nagar,U-0497,amity university
+19.93,43,2021,Thiruvananthapuram,U-0260,kerala university
+42.26,45,2021,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+38.99,46,2021,Howrah,U-0584,indian institute of engineering science and technology shibpur
+31.82,47,2021,Chennai,I-1357,university of madras
+25.59,48,2021,Visakhapatnam,U-0006,andhra university visakhapatnam
+34.28,49,2021,Chennai,I-1441,saveetha institute of medical and technical sciences
+30.9,50,2021,Bhopal,U-0272,indian institute of science education and research bhopal
+37.02,51,2021,Patna,U-0064,indian institute of technology patna
+34.73,52,2021,Kottayam,U-0262,mahatma gandhi university kottayam
+39.07,53,2021,Chennai,U-0473,s r m institute of science and technology
+37.31,54,2021,Nagpur,U-0334,visvesvaraya national institute of technology nagpur
+29.82,54,2021,New Delhi,U-0098,delhi technological university
+19.39,56,2021,Mysuru,U-0222,jss academy of higher education and research
+27.32,57,2021,Karaikudi,U-0435,alagappa university
+37.83,58,2021,Bhubaneswar,U-0355,indian institute of technology bhubaneswar
+31.04,59,2021,Warangal,U-0025,national institute of technology warangal
+27.23,60,2021,Lucknow,U-0523,king george s medical university
+34.0,61,2021,Chennai,U-0474,sathyabama institute of science and technology
+28.16,62,2021,Hyderabad,U-0027,osmania university
+15.7,62,2021,Ahmedabad,U-0136,gujarat university
+27.62,64,2021,New Delhi,U-0107,jamia hamdard
+29.63,65,2021,Cochin,U-0253,cochin university of science and technology
+14.23,66,2021,Banasthali,U-0389,banasthali vidyapith
+19.05,67,2021,Guwahati,U-0052,gauhati university
+18.5,68,2021,Pune,U-0329,symbiosis international
+30.78,69,2021,Vaddeswaram,U-0020,koneru lakshmaiah education foundation university (k l college of engineering)
+12.32,70,2021,Mumbai,U-0331,tata institute of social sciences
+34.26,71,2021,Durgapur,U-0577,national institute of technology durgapur
+35.12,72,2021,Jaipur,U-0410,malaviya national institute of technology
+30.02,73,2021,Tezpur,U-0056,tezpur university
+21.81,74,2021,Srivilliputhur,U-0458,kalasalingam academy of research and education
+24.41,75,2021,Chennai,U-0446,bharath institute of higher education and research
+19.51,76,2021,Srinagar,U-0196,university of kashmir
+14.24,77,2021,Mohali,U-0747,chandigarh university
+25.23,78,2021,Jalandhar,U-0374,dr b r ambedkar national institute of technology jalandhar
+18.35,79,2021,Chennai,I-1486,sri ramachandra institute of higher education and research
+14.45,80,2021,Pune,I-1110,dr d y patil vidyapeeth
+27.51,81,2021,Phagwara,U-0379,lovely professional university
+30.59,82,2021,Mandi,U-0184,indian institute of technology mandi
+24.77,83,2021,Madurai,U-0463,madurai kamaraj university
+19.37,84,2021,Gautam Buddha Nagar,U-0642,shiv nadar university
+28.63,85,2021,Amritsar,U-0376,guru nanak dev university
+18.13,86,2021,Coimbatore,C-37013,psg college of technology
+30.1,87,2021,Puducherry,U-0369,pondicherry university
+28.49,88,2021,Prayagraj,U-0530,motilal nehru national institute of technology
+29.01,89,2021,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+16.31,90,2021,Shillong,U-0341,north eastern hill university
+29.92,90,2021,Tiruchirappalli,U-0448,bharathidasan university
+19.87,92,2021,Tirupati,U-0037,sri venkateswara university
+32.31,93,2021,Silchar,U-0055,national institute of technology silchar
+14.77,94,2021,Mumbai,N-10,svkm s narsee monjee institute of management studies
+16.64,95,2021,Malappuram,U-0251,calicut university
+19.08,96,2021,Mumbai,U-0318,mumbai university
+26.16,97,2021,Santiniketan,U-0589,visva bharati
+29.28,98,2021,Surat,U-0149,sardar vallabhbhai national institute of technology
+22.64,99,2021,New Delhi,U-0099,guru gobind singh indraprastha university
+10.35,100,2021,Wardha,U-0295,datta meghe institute of higher education and research
+91.98,1,2022,Chennai,U-0456,indian institute of technology madras
+87.45,2,2022,Bengaluru,U-0220,indian institute of science
+84.09,3,2022,Mumbai,U-0306,indian institute of technology bombay
+84.81,4,2022,New Delhi,I-1074,indian institute of technology delhi
+70.55,5,2022,Kanpur,I-1075,indian institute of technology kanpur
+75.66,6,2022,Kharagpur,U-0573,indian institute of technology kharagpur
+67.03,7,2022,Roorkee,U-0560,indian institute of technology roorkee
+63.54,8,2022,Guwahati,U-0053,indian institute of technology guwahati
+60.39,9,2022,New Delhi,N-15,all india institute of medical sciences delhi
+45.55,10,2022,New Delhi,U-0109,jawaharlal nehru university
+43.91,11,2022,Varanasi,U-0500,banaras hindu university
+53.73,12,2022,Kolkata,U-0575,jadavpur university
+47.38,13,2022,New Delhi,U-0108,jamia millia islamia
+53.18,14,2022,Hyderabad,U-0013,indian institute of technology hyderabad
+40.85,15,2022,Kolkata,U-0570,calcutta university
+50.06,16,2022,Coimbatore,U-0436,amrita vishwa vidyapeetham
+51.07,17,2022,Manipal,U-0234,manipal academy of higher education manipal
+59.82,18,2022,Vellore,U-0490,vellore institute of technology
+43.04,19,2022,Aligarh,U-0496,aligarh muslim university
+40.18,20,2022,Hyderabad,U-0042,university of hyderabad
+45.71,21,2022,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+53.15,22,2022,Chennai,U-0439,anna university
+52.82,23,2022,Delhi,U-0120,university of delhi
+44.36,24,2022,Coimbatore,U-0447,bharathiar university
+41.64,25,2022,Pune,U-0323,savitribai phule pune university
+44.18,26,2022,Pune,U-0305,indian institute of science education and research pune
+45.14,27,2022,Surathkal,U-0237,national institute of technology karnataka surathkal
+50.58,28,2022,Mumbai,U-0308,institute of chemical technology
+50.31,29,2022,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+35.58,30,2022,Bhubaneswar,U-0363,siksha o anusandhan
+49.93,31,2022,Indore,U-0273,indian institute of technology indore
+46.74,32,2022,Pilani,U-0391,birla institute of technology and science pilani
+45.25,33,2022,Mumbai,U-0304,homi bhabha national institute
+30.2,34,2022,Bhubaneswar,U-0356,kalinga institute of industrial technology
+33.66,35,2022,Rupnagar,U-0378,indian institute of technology ropar
+45.28,36,2022,Chennai,U-0473,s r m institute of science and technology
+39.04,37,2022,Gandhinagar,U-0139,indian institute of technology gandhinagar
+54.66,38,2022,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+49.09,39,2022,Rourkela,U-0357,national institute of technology rourkela
+39.42,40,2022,Mohanpur,U-0572,indian institute of science education and research kolkata
+43.18,41,2022,Chandigarh,U-0078,panjab university
+47.89,42,2022,Gautam Buddha Nagar,U-0497,amity university
+37.25,43,2022,Mandi,U-0184,indian institute of technology mandi
+43.01,44,2022,Chennai,I-1441,saveetha institute of medical and technical sciences
+35.23,45,2022,Warangal,U-0025,national institute of technology warangal
+30.41,46,2022,Hyderabad,U-0027,osmania university
+32.08,47,2022,Mohali,U-0377,indian institute of science education and research mohali
+22.16,48,2022,Mohali,U-0747,chandigarh university
+38.23,49,2022,Thanjavur,U-0476,shanmugha arts science technology and research academy
+26.46,50,2022,Srivilliputhur,U-0458,kalasalingam academy of research and education
+36.16,51,2022,Kottayam,U-0262,mahatma gandhi university kottayam
+20.29,52,2022,Thiruvananthapuram,U-0260,kerala university
+32.63,53,2022,Karaikudi,U-0435,alagappa university
+26.11,54,2022,Puducherry,U-0368,jawaharlal institute of post graduate medical education and research
+36.63,54,2022,Vaddeswaram,U-0020,koneru lakshmaiah education foundation university (k l college of engineering)
+16.81,54,2022,Mysuru,U-0235,mysore university
+44.83,57,2022,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+34.71,58,2022,Phagwara,U-0379,lovely professional university
+39.31,59,2022,Patna,U-0064,indian institute of technology patna
+21.4,60,2022,Mysuru,U-0222,jss academy of higher education and research
+29.19,61,2022,Bhopal,U-0272,indian institute of science education and research bhopal
+17.8,62,2022,Pune,U-0329,symbiosis international
+32.46,63,2022,New Delhi,U-0098,delhi technological university
+21.66,64,2022,Guwahati,U-0052,gauhati university
+38.2,65,2022,Bhubaneswar,U-0355,indian institute of technology bhubaneswar
+39.35,66,2022,Howrah,U-0584,indian institute of engineering science and technology shibpur
+29.87,67,2022,Chennai,U-0474,sathyabama institute of science and technology
+39.28,68,2022,Nagpur,U-0334,visvesvaraya national institute of technology nagpur
+32.57,69,2022,Cochin,U-0253,cochin university of science and technology
+32.35,70,2022,Chennai,I-1357,university of madras
+25.8,71,2022,Visakhapatnam,U-0006,andhra university visakhapatnam
+35.16,72,2022,Durgapur,U-0577,national institute of technology durgapur
+18.38,73,2022,Ahmedabad,U-0136,gujarat university
+30.15,74,2022,New Delhi,U-0107,jamia hamdard
+26.31,75,2022,Lucknow,U-0523,king george s medical university
+19.22,76,2022,Pune,I-1110,dr d y patil vidyapeeth
+36.84,76,2022,Silchar,U-0055,national institute of technology silchar
+19.68,78,2022,Lucknow,U-0498,babasheb bhimrao ambedkar university
+15.51,79,2022,Kozhikode,S-8909,indian institute of management kozhikode
+28.73,80,2022,Amritsar,U-0376,guru nanak dev university
+22.52,81,2022,Mumbai,U-0318,mumbai university
+32.56,82,2022,Tiruchirappalli,U-0448,bharathidasan university
+17.07,83,2022,Chennai,I-1486,sri ramachandra institute of higher education and research
+21.23,84,2022,Srinagar,U-0196,university of kashmir
+27.88,85,2022,Jalandhar,U-0374,dr b r ambedkar national institute of technology jalandhar
+26.23,86,2022,Jodhpur,U-0689,all india institute of medical sciences jodhpur
+15.98,87,2022,Banasthali,U-0389,banasthali vidyapith
+24.04,88,2022,Madurai,U-0463,madurai kamaraj university
+17.66,89,2022,Mumbai,N-10,svkm s narsee monjee institute of management studies
+27.49,90,2022,Tezpur,U-0056,tezpur university
+38.69,91,2022,Jaipur,U-0410,malaviya national institute of technology
+23.54,92,2022,Wardha,U-0295,datta meghe institute of higher education and research
+19.12,93,2022,Jammu,U-0195,university of jammu
+20.75,94,2022,Gautam Buddha Nagar,U-0642,shiv nadar university
+23.15,95,2022,Chennai,U-0446,bharath institute of higher education and research
+30.69,96,2022,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+19.48,97,2022,Dehradun,U-0564,upes
+17.38,98,2022,Bengaluru,U-0215,bangalore university
+10.45,99,2022,Mumbai,U-0331,tata institute of social sciences
+27.28,100,2022,Belagavi,U-0249,visvesvaraya technological university
+89.88,1,2023,Chennai,U-0456,indian institute of technology madras
+88.45,2,2023,Bengaluru,U-0220,indian institute of science
+85.23,3,2023,New Delhi,I-1074,indian institute of technology delhi
+86.14,4,2023,Mumbai,U-0306,indian institute of technology bombay
+72.94,5,2023,Kanpur,I-1075,indian institute of technology kanpur
+67.75,6,2023,New Delhi,N-15,all india institute of medical sciences delhi
+72.25,7,2023,Kharagpur,U-0573,indian institute of technology kharagpur
+68.0,8,2023,Roorkee,U-0560,indian institute of technology roorkee
+66.98,9,2023,Guwahati,U-0053,indian institute of technology guwahati
+46.56,10,2023,New Delhi,U-0109,jawaharlal nehru university
+49.18,11,2023,Varanasi,U-0500,banaras hindu university
+49.83,12,2023,New Delhi,U-0108,jamia millia islamia
+53.66,13,2023,Kolkata,U-0575,jadavpur university
+55.13,14,2023,Hyderabad,U-0013,indian institute of technology hyderabad
+50.35,15,2023,Coimbatore,U-0436,amrita vishwa vidyapeetham
+54.02,16,2023,Manipal,U-0234,manipal academy of higher education manipal
+63.59,17,2023,Vellore,U-0490,vellore institute of technology
+64.24,18,2023,Chennai,U-0439,anna university
+46.88,19,2023,Aligarh,U-0496,aligarh muslim university
+44.54,20,2023,Hyderabad,U-0042,university of hyderabad
+48.55,21,2023,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+54.3,22,2023,Delhi,U-0120,university of delhi
+42.3,23,2023,Kolkata,U-0570,calcutta university
+43.13,24,2023,Gandhinagar,U-0139,indian institute of technology gandhinagar
+56.26,25,2023,Pilani,U-0391,birla institute of technology and science pilani
+40.1,26,2023,Bhubaneswar,U-0363,siksha o anusandhan
+52.18,27,2023,Chennai,I-1441,saveetha institute of medical and technical sciences
+52.71,28,2023,Indore,U-0273,indian institute of technology indore
+38.02,29,2023,Bhubaneswar,U-0356,kalinga institute of industrial technology
+49.45,30,2023,Mumbai,U-0304,homi bhabha national institute
+53.2,31,2023,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+47.02,32,2023,Chennai,U-0473,s r m institute of science and technology
+38.46,33,2023,Rupnagar,U-0378,indian institute of technology ropar
+43.72,34,2023,Pune,U-0305,indian institute of science education and research pune
+39.3,35,2023,Pune,U-0323,savitribai phule pune university
+43.77,36,2023,Coimbatore,U-0447,bharathiar university
+51.67,37,2023,Rourkela,U-0357,national institute of technology rourkela
+45.25,38,2023,Surathkal,U-0237,national institute of technology karnataka surathkal
+32.12,39,2023,Puducherry,U-0368,jawaharlal institute of post graduate medical education and research
+49.73,40,2023,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+49.6,41,2023,Mumbai,U-0308,institute of chemical technology
+54.93,42,2023,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+41.0,43,2023,Mohanpur,U-0572,indian institute of science education and research kolkata
+46.65,44,2023,Chandigarh,U-0078,panjab university
+25.22,45,2023,Mohali,U-0747,chandigarh university
+44.38,46,2023,Phagwara,U-0379,lovely professional university
+22.8,47,2023,Thiruvananthapuram,U-0260,kerala university
+30.87,48,2023,Srivilliputhur,U-0458,kalasalingam academy of research and education
+40.86,49,2023,Thanjavur,U-0476,shanmugha arts science technology and research academy
+40.74,50,2023,Vaddeswaram,U-0020,koneru lakshmaiah education foundation university (k l college of engineering)
+33.6,51,2023,Mohali,U-0377,indian institute of science education and research mohali
+38.86,52,2023,Kottayam,U-0262,mahatma gandhi university kottayam
+39.42,53,2023,Warangal,U-0025,national institute of technology warangal
+33.04,54,2023,Kozhikode,U-0263,national institute of technology calicut
+23.47,55,2023,Mysuru,U-0222,jss academy of higher education and research
+36.63,56,2023,Karaikudi,U-0435,alagappa university
+47.16,57,2023,Gautam Buddha Nagar,U-0497,amity university
+26.93,58,2023,Srinagar,U-0196,university of kashmir
+22.91,59,2023,Pune,U-0329,symbiosis international
+31.54,60,2023,Bhopal,U-0272,indian institute of science education and research bhopal
+35.77,61,2023,New Delhi,U-0098,delhi technological university
+42.78,62,2023,Jaipur,U-0410,malaviya national institute of technology
+34.36,63,2023,Cochin,U-0253,cochin university of science and technology
+31.24,64,2023,Hyderabad,U-0027,osmania university
+32.9,65,2023,Chennai,I-1357,university of madras
+38.83,66,2023,Howrah,U-0584,indian institute of engineering science and technology shibpur
+31.56,66,2023,Jodhpur,U-0395,indian institute of technology jodhpur
+42.86,66,2023,Patna,U-0064,indian institute of technology patna
+24.29,69,2023,Lucknow,U-0498,babasheb bhimrao ambedkar university
+36.39,70,2023,Tiruchirappalli,U-0448,bharathidasan university
+18.61,71,2023,Mysuru,U-0235,mysore university
+30.74,72,2023,Jalandhar,U-0374,dr b r ambedkar national institute of technology jalandhar
+37.36,73,2023,Mandi,U-0184,indian institute of technology mandi
+28.29,74,2023,Ludhiana,U-0381,punjab agricultural university
+32.85,75,2023,Wardha,U-0295,datta meghe institute of higher education and research
+25.74,76,2023,Visakhapatnam,U-0006,andhra university visakhapatnam
+26.63,77,2023,Lucknow,U-0523,king george s medical university
+32.49,78,2023,New Delhi,U-0107,jamia hamdard
+28.69,79,2023,Dehradun,U-0564,upes
+37.02,80,2023,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+20.55,81,2023,Pune,I-1110,dr d y patil vidyapeeth
+39.03,82,2023,Nagpur,U-0334,visvesvaraya national institute of technology nagpur
+42.81,83,2023,Silchar,U-0055,national institute of technology silchar
+35.72,84,2023,Chennai,U-0474,sathyabama institute of science and technology
+18.62,85,2023,Ahmedabad,U-0136,gujarat university
+29.68,86,2023,Rishikesh,U-0691,all india institute of medical sciences rishikesh
+27.23,87,2023,Amritsar,U-0376,guru nanak dev university
+21.34,88,2023,Mumbai,N-10,svkm s narsee monjee institute of management studies
+22.95,89,2023,Dehradun,U-0555,graphic era university
+34.57,90,2023,Durgapur,U-0577,national institute of technology durgapur
+37.34,91,2023,Bhubaneswar,U-0355,indian institute of technology bhubaneswar
+34.69,92,2023,Belagavi,U-0249,visvesvaraya technological university
+14.78,93,2023,Coimbatore,U-0485,tamil nadu agricultural university
+24.45,94,2023,Madurai,U-0463,madurai kamaraj university
+24.23,95,2023,Gautam Buddha Nagar,U-0642,shiv nadar university
+17.82,96,2023,Mumbai,U-0318,mumbai university
+17.72,97,2023,Banasthali,U-0389,banasthali vidyapith
+18.53,98,2023,Chennai,I-1486,sri ramachandra institute of higher education and research
+14.58,99,2023,Kolkata,S-8972,indian institute of management calcutta
+18.96,100,2023,Bengaluru,U-0217,christ university
+87.3,1,2024,Chennai,U-0456,indian institute of technology madras
+86.5,2,2024,Bengaluru,U-0220,indian institute of science
+82.35,3,2024,Mumbai,U-0306,indian institute of technology bombay
+86.23,4,2024,New Delhi,I-1074,indian institute of technology delhi
+69.09,5,2024,Kanpur,I-1075,indian institute of technology kanpur
+74.94,6,2024,Kharagpur,U-0573,indian institute of technology kharagpur
+71.26,7,2024,New Delhi,N-15,all india institute of medical sciences delhi
+70.48,8,2024,Roorkee,U-0560,indian institute of technology roorkee
+64.43,9,2024,Guwahati,U-0053,indian institute of technology guwahati
+45.27,10,2024,New Delhi,U-0109,jawaharlal nehru university
+51.01,11,2024,Varanasi,U-0500,banaras hindu university
+56.59,12,2024,Hyderabad,U-0013,indian institute of technology hyderabad
+49.28,13,2024,New Delhi,U-0108,jamia millia islamia
+55.94,14,2024,Manipal,U-0234,manipal academy of higher education manipal
+56.42,15,2024,Delhi,U-0120,university of delhi
+45.91,16,2024,Aligarh,U-0496,aligarh muslim university
+51.35,17,2024,Kolkata,U-0575,jadavpur university
+47.82,18,2024,Coimbatore,U-0436,amrita vishwa vidyapeetham
+61.95,19,2024,Vellore,U-0490,vellore institute of technology
+63.51,20,2024,Chennai,U-0439,anna university
+55.43,21,2024,Chennai,U-0473,s r m institute of science and technology
+60.87,22,2024,Chennai,I-1441,saveetha institute of medical and technical sciences
+57.83,23,2024,Pilani,U-0391,birla institute of technology and science pilani
+42.19,24,2024,Bhubaneswar,U-0363,siksha o anusandhan
+45.58,25,2024,Hyderabad,U-0042,university of hyderabad
+42.11,26,2024,Kolkata,U-0570,calcutta university
+52.45,27,2024,Mumbai,U-0304,homi bhabha national institute
+42.01,28,2024,Bhubaneswar,U-0356,kalinga institute of industrial technology
+41.53,29,2024,Gandhinagar,U-0139,indian institute of technology gandhinagar
+54.95,30,2024,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+48.14,31,2024,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+39.66,32,2024,Mohali,U-0747,chandigarh university
+50.91,33,2024,Indore,U-0273,indian institute of technology indore
+50.54,34,2024,Rourkela,U-0357,national institute of technology rourkela
+55.05,35,2024,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+32.12,36,2024,Mysuru,U-0222,jss academy of higher education and research
+39.17,37,2024,Pune,U-0323,savitribai phule pune university
+26.72,38,2024,Thiruvananthapuram,U-0260,kerala university
+33.47,39,2024,Puducherry,U-0368,jawaharlal institute of post graduate medical education and research
+41.54,40,2024,Vaddeswaram,U-0020,koneru lakshmaiah education foundation university (k l college of engineering)
+26.05,41,2024,Visakhapatnam,U-0006,andhra university visakhapatnam
+41.09,42,2024,Pune,U-0305,indian institute of science education and research pune
+43.36,43,2024,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+42.45,44,2024,Coimbatore,U-0447,bharathiar university
+49.75,45,2024,Phagwara,U-0379,lovely professional university
+43.41,46,2024,Surathkal,U-0237,national institute of technology karnataka surathkal
+37.64,47,2024,Thanjavur,U-0476,shanmugha arts science technology and research academy
+39.95,48,2024,Rupnagar,U-0378,indian institute of technology ropar
+50.31,49,2024,Gautam Buddha Nagar,U-0497,amity university
+32.36,50,2024,Srivilliputhur,U-0458,kalasalingam academy of research and education
+35.53,51,2024,Cochin,U-0253,cochin university of science and technology
+27.49,52,2024,Pune,U-0329,symbiosis international
+42.22,53,2024,Warangal,U-0025,national institute of technology warangal
+32.44,54,2024,Kozhikode,U-0263,national institute of technology calicut
+39.14,55,2024,Tiruchirappalli,U-0448,bharathidasan university
+45.68,56,2024,Mumbai,U-0308,institute of chemical technology
+24.11,57,2024,Guwahati,U-0052,gauhati university
+25.46,58,2024,Lucknow,U-0498,babasheb bhimrao ambedkar university
+41.19,59,2024,Dehradun,U-0564,upes
+42.01,60,2024,Chandigarh,U-0078,panjab university
+39.53,61,2024,Mohanpur,U-0572,indian institute of science education and research kolkata
+34.45,62,2024,New Delhi,U-0107,jamia hamdard
+26.12,63,2024,Pune,I-1110,dr d y patil vidyapeeth
+32.89,64,2024,Mohali,U-0377,indian institute of science education and research mohali
+38.5,64,2024,Chennai,I-1357,university of madras
+37.87,66,2024,New Delhi,U-0098,delhi technological university
+37.27,67,2024,Kottayam,U-0262,mahatma gandhi university kottayam
+34.91,68,2024,Jodhpur,U-0395,indian institute of technology jodhpur
+31.25,69,2024,Srinagar,U-0196,university of kashmir
+28.77,70,2024,Hyderabad,U-0027,osmania university
+38.33,71,2024,Wardha,U-0295,datta meghe institute of higher education and research
+38.39,72,2024,Mandi,U-0184,indian institute of technology mandi
+42.04,73,2024,Patna,U-0064,indian institute of technology patna
+35.35,74,2024,Rishikesh,U-0691,all india institute of medical sciences rishikesh
+32.99,75,2024,Kolkata,U-0574,indian statistical institute kolkata
+35.3,76,2024,Karaikudi,U-0435,alagappa university
+37.25,77,2024,Nagpur,U-0334,visvesvaraya national institute of technology nagpur
+31.99,78,2024,Bhopal,U-0272,indian institute of science education and research bhopal
+33.86,79,2024,Dehradun,U-0555,graphic era university
+32.43,80,2024,Ludhiana,U-0381,punjab agricultural university
+39.4,81,2024,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+42.66,82,2024,Jaipur,U-0410,malaviya national institute of technology
+33.93,83,2024,Jodhpur,U-0689,all india institute of medical sciences jodhpur
+24.83,84,2024,Mumbai,N-10,svkm s narsee monjee institute of management studies
+36.3,85,2024,Chennai,U-0474,sathyabama institute of science and technology
+19.35,86,2024,Mysuru,U-0235,mysore university
+23.43,87,2024,Jammu,U-0195,university of jammu
+27.45,88,2024,Lucknow,U-0523,king george s medical university
+39.24,89,2024,Solan,U-0190,shoolini university of biotechnology and management sciences
+22.05,90,2024,Bengaluru,U-0217,christ university
+22.62,91,2024,Chennai,U-0446,bharath institute of higher education and research
+43.7,92,2024,Silchar,U-0055,national institute of technology silchar
+32.74,93,2024,Durgapur,U-0577,national institute of technology durgapur
+17.53,94,2024,Ahmedabad,U-0136,gujarat university
+25.51,95,2024,Gautam Buddha Nagar,U-0642,shiv nadar university
+22.22,96,2024,Chennai,I-1486,sri ramachandra institute of higher education and research
+17.0,97,2024,Guntur,U-0003,acharya nagarjuna university
+15.83,98,2024,Mumbai,U-0331,tata institute of social sciences
+20.49,99,2024,Patna,U-0686,all india institute of medical sciences patna
+29.46,100,2024,Salem,U-0470,periyar university
+88.02,1,2025,Chennai,U-0456,indian institute of technology madras
+88.16,2,2025,Bengaluru,U-0220,indian institute of science
+83.05,3,2025,Mumbai,U-0306,indian institute of technology bombay
+86.67,4,2025,New Delhi,I-1074,indian institute of technology delhi
+72.12,5,2025,Kanpur,I-1075,indian institute of technology kanpur
+71.21,6,2025,Kharagpur,U-0573,indian institute of technology kharagpur
+72.05,7,2025,Roorkee,U-0560,indian institute of technology roorkee
+65.06,8,2025,New Delhi,N-15,all india institute of medical sciences delhi
+45.59,9,2025,New Delhi,U-0109,jawaharlal nehru university
+51.17,10,2025,Varanasi,U-0500,banaras hindu university
+67.16,11,2025,Guwahati,U-0053,indian institute of technology guwahati
+56.77,12,2025,Hyderabad,U-0013,indian institute of technology hyderabad
+50.03,13,2025,New Delhi,U-0108,jamia millia islamia
+61.76,14,2025,Manipal,U-0234,manipal academy of higher education manipal
+58.51,15,2025,Delhi,U-0120,university of delhi
+63.27,16,2025,Pilani,U-0391,birla institute of technology and science pilani
+51.06,17,2025,Coimbatore,U-0436,amrita vishwa vidyapeetham
+52.19,18,2025,Kolkata,U-0575,jadavpur university
+48.04,19,2025,Aligarh,U-0496,aligarh muslim university
+54.16,20,2025,Mumbai,U-0304,homi bhabha national institute
+59.53,21,2025,Vellore,U-0490,vellore institute of technology
+54.56,22,2025,Chennai,U-0473,s r m institute of science and technology
+56.28,23,2025,Chennai,I-1441,saveetha institute of medical and technical sciences
+46.15,24,2025,New Delhi,U-0101,indian agricultural research institute
+42.48,25,2025,Bhubaneswar,U-0363,siksha o anusandhan
+44.59,26,2025,Hyderabad,U-0042,university of hyderabad
+55.01,27,2025,Indore,U-0273,indian institute of technology indore
+43.99,27,2025,Bhubaneswar,U-0356,kalinga institute of industrial technology
+54.88,29,2025,Chennai,U-0439,anna university
+50.4,30,2025,Tiruchirappalli,U-0467,national institute of technology tiruchirappalli
+57.79,31,2025,Varanasi,U-0701,indian institute of technology (banaras hindu university) varanasi
+49.13,32,2025,Mohali,U-0747,chandigarh university
+54.65,33,2025,Chandigarh,U-0079,post graduate institute of medical education and research
+53.58,34,2025,Rourkela,U-0357,national institute of technology rourkela
+55.35,35,2025,Dhanbad,U-0205,indian institute of technology (indian school of mines)
+47.23,36,2025,Patna,U-0064,indian institute of technology patna
+55.83,37,2025,Gautam Buddha Nagar,U-0497,amity university
+35.68,38,2025,Mysuru,U-0222,jss academy of higher education and research
+41.27,39,2025,Gandhinagar,U-0139,indian institute of technology gandhinagar
+38.34,40,2025,Pune,U-0329,symbiosis international
+26.41,41,2025,Visakhapatnam,U-0006,andhra university visakhapatnam
+29.64,42,2025,Thiruvananthapuram,U-0260,kerala university
+33.76,43,2025,Puducherry,U-0368,jawaharlal institute of post graduate medical education and research
+45.12,44,2025,Patiala,I-1480,thapar institute of engineering and technology (deemed to be university)
+36.05,45,2025,Kozhikode,U-0263,national institute of technology calicut
+45.33,46,2025,Vaddeswaram,U-0020,koneru lakshmaiah education foundation university (k l college of engineering)
+37.24,47,2025,Kolkata,U-0570,calcutta university
+36.39,48,2025,Srivilliputhur,U-0458,kalasalingam academy of research and education
+49.4,49,2025,Phagwara,U-0379,lovely professional university
+39.25,50,2025,Cochin,U-0253,cochin university of science and technology
+36.5,51,2025,Thanjavur,U-0476,shanmugha arts science technology and research academy
+26.49,52,2025,Guwahati,U-0052,gauhati university
+27.86,53,2025,Hyderabad,U-0027,osmania university
+44.19,54,2025,Surathkal,U-0237,national institute of technology karnataka surathkal
+44.43,55,2025,Pune,U-0305,indian institute of science education and research pune
+42.3,56,2025,Rupnagar,U-0378,indian institute of technology ropar
+41.58,57,2025,Chandigarh,U-0078,panjab university
+41.59,58,2025,Mandi,U-0184,indian institute of technology mandi
+34.74,59,2025,Srinagar,U-0196,university of kashmir
+40.41,60,2025,Bengaluru,U-0236,national institute of mental health and neuro sciences bangalore
+40.81,61,2025,Tiruchirappalli,U-0448,bharathidasan university
+41.43,62,2025,New Delhi,U-0098,delhi technological university
+43.85,63,2025,Warangal,U-0025,national institute of technology warangal
+45.6,64,2025,Dehradun,U-0564,upes
+47.2,64,2025,Mumbai,U-0308,institute of chemical technology
+39.2,66,2025,Jodhpur,U-0395,indian institute of technology jodhpur
+40.58,67,2025,Mohanpur,U-0572,indian institute of science education and research kolkata
+35.08,68,2025,Chennai,I-1357,university of madras
+23.93,69,2025,Lucknow,U-0498,babasheb bhimrao ambedkar university
+34.68,70,2025,Mohali,U-0377,indian institute of science education and research mohali
+27.91,71,2025,Pune,I-1110,dr d y patil vidyapeeth
+41.01,72,2025,Dehradun,U-0555,graphic era university
+33.07,73,2025,Karaikudi,U-0435,alagappa university
+34.02,74,2025,New Delhi,U-0107,jamia hamdard
+33.71,75,2025,Bhopal,U-0272,indian institute of science education and research bhopal
+40.69,76,2025,Coimbatore,U-0447,bharathiar university
+45.57,77,2025,Jaipur,U-0410,malaviya national institute of technology
+34.73,78,2025,Rishikesh,U-0691,all india institute of medical sciences rishikesh
+34.03,79,2025,Kottayam,U-0262,mahatma gandhi university kottayam
+38.39,80,2025,Bhubaneswar,U-0355,indian institute of technology bhubaneswar
+37.6,81,2025,Ludhiana,U-0381,punjab agricultural university
+40.52,82,2025,Kalavakkam,C-16604,sri sivasubramaniya nadar college of engineering
+30.37,83,2025,Lucknow,U-0523,king george s medical university
+38.55,84,2025,Wardha,U-0295,datta meghe institute of higher education and research
+26.47,85,2025,Gautam Buddha Nagar,U-0642,shiv nadar university
+37.73,86,2025,Nagpur,U-0334,visvesvaraya national institute of technology nagpur
+24.66,87,2025,Jammu,U-0195,university of jammu
+19.42,88,2025,Coimbatore,U-0485,tamil nadu agricultural university
+34.96,89,2025,Hyderabad,U-0014,international institute of information technology hyderabad
+21.13,90,2025,Chennai,U-0446,bharath institute of higher education and research
+39.42,91,2025,Pune,U-0323,savitribai phule pune university
+19.54,92,2025,Mumbai,U-0318,mumbai university
+31.31,93,2025,Chennai,U-0474,sathyabama institute of science and technology
+26.15,94,2025,Srinagar,U-0200,sher e kashmir university of agricultural science and technology of kashmir
+26.72,95,2025,Mumbai,N-10,svkm s narsee monjee institute of management studies
+28.34,96,2025,Bengaluru,U-0217,christ university
+45.07,97,2025,Silchar,U-0055,national institute of technology silchar
+33.8,98,2025,Jaipur,U-0749,manipal university jaipur
+18.82,99,2025,Gorakhpur,U-0739,madan mohan malaviya university of technology
+25.45,100,2025,Khordha,U-0688,all india institute of medical sciences bhubaneswar

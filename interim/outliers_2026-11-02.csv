@@ -1,0 +1,8 @@
+year,id_new,name,rank,rpc,pubs_own,methods,flag_lineage_inflated,flag_oa_disagree,flag_aiims_merged,diagnosis
+2017,U-0220,indian institute of science,1,87.59,8940,Mahalanobis,False,False,False,"very many papers: a large research university, genuine"
+2017,X-0008,indian institute of management tiruchirappalli,67,1.09,34,IQR(log papers) + modified z>3.5 + Mahalanobis,False,False,False,"very few papers: a management or specialist institute, genuine"
+2017,X-0006,indian institute of management kashipur,71,1.47,63,IQR(log papers),False,False,False,"very few papers: a management or specialist institute, genuine"
+2017,X-0003,indian institute of crop processing technology,87,1.56,54,IQR(log papers),False,False,False,"very few papers: a management or specialist institute, genuine"
+2017,X-0014,rajiv gandhi indian institute of management,99,1.89,66,IQR(log papers),False,False,False,"very few papers: a management or specialist institute, genuine"
+2022,S-8909,indian institute of management kozhikode,79,15.51,337,IQR(log papers) + Mahalanobis,False,False,False,"very many papers: a large research university, genuine"
+2023,S-8972,indian institute of management calcutta,99,14.58,377,IQR(log papers) + Mahalanobis,False,False,False,"very many papers: a large research university, genuine"

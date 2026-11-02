@@ -1,0 +1,1281 @@
+id_new,rank_in_list,query,ror_id,ror_name,ror_city,status,types,name_score,city_match,score
+U-0220,1,indian institute of science,https://ror.org/04dese585,Indian Institute of Science Bangalore,Bengaluru,active,education;funder,0.844,True,0.924
+U-0220,2,indian institute of science,https://ror.org/05j873a45,Indian Institute of Soil Science,Bhopal,active,facility,0.915,False,0.915
+U-0220,3,indian institute of science,https://ror.org/01msc1703,Indian Institute of Astrophysics,Bengaluru,active,facility,0.746,True,0.826
+U-0220,4,indian institute of science,https://ror.org/00aggce03,Indian Institute of Packaging,Mumbai,active,government,0.821,False,0.821
+U-0220,5,indian institute of science,https://ror.org/01vj25w90,Indian Institute of Metals,Kolkata,active,facility,0.792,False,0.792
+U-0220,6,indian institute of science,https://ror.org/04gavx394,Indian Institute of Petroleum,Dehradun,active,facility;funder,0.786,False,0.786
+U-0220,7,indian institute of science,https://ror.org/05k37ht14,Indian Institute of Space Science and Technology,Thiruvananthapuram,active,education;funder,0.72,False,0.72
+U-0220,8,indian institute of science,https://ror.org/05npwe781,Indian Institute of Geomagnetism,Mumbai,active,education;funder,0.712,False,0.712
+U-0456,1,indian institute of technology madras,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,1.0,True,1.0
+U-0456,2,indian institute of technology madras,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.932,False,0.932
+U-0456,3,indian institute of technology madras,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.904,False,0.904
+U-0456,4,indian institute of technology madras,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.901,False,0.901
+U-0456,5,indian institute of technology madras,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,0.892,False,0.892
+U-0456,6,indian institute of technology madras,https://ror.org/01hhf7w52,Indian Institute of Technology Indore,Indore,active,education;funder,0.892,False,0.892
+U-0456,7,indian institute of technology madras,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.88,False,0.88
+U-0456,8,indian institute of technology madras,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.88,False,0.88
+U-0306,1,indian institute of technology bombay,https://ror.org/02qyf5152,Indian Institute of Technology Bombay,Mumbai,active,education;funder,1.0,True,1.0
+U-0306,2,indian institute of technology bombay,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.93,False,0.93
+U-0306,3,indian institute of technology bombay,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.904,False,0.904
+U-0306,4,indian institute of technology bombay,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.904,False,0.904
+U-0306,5,indian institute of technology bombay,https://ror.org/01kh5gc44,Indian Institute of Technology BHU,Varanasi,active,education;funder,0.901,False,0.901
+U-0306,6,indian institute of technology bombay,https://ror.org/02sscsx71,Indian Institute of Technology Bhilai,Bhilai,active,education;funder,0.892,False,0.892
+U-0306,7,indian institute of technology bombay,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.892,False,0.892
+U-0306,8,indian institute of technology bombay,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.88,False,0.88
+U-0573,1,indian institute of technology kharagpur,https://ror.org/03w5sq511,Indian Institute of Technology Kharagpur,Kharagpur,active,education;funder,1.0,True,1.0
+U-0573,2,indian institute of technology kharagpur,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,0.935,False,0.935
+U-0573,3,indian institute of technology kharagpur,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.897,False,0.897
+U-0573,4,indian institute of technology kharagpur,https://ror.org/03yacj906,Indian Institute of Technology Jodhpur,Jodhpur,active,education,0.897,False,0.897
+U-0573,5,indian institute of technology kharagpur,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.883,False,0.883
+U-0573,6,indian institute of technology kharagpur,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.872,False,0.872
+U-0573,7,indian institute of technology kharagpur,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.868,False,0.868
+U-0573,8,indian institute of technology kharagpur,https://ror.org/02f0vsw63,Indian Institute of Technology Jammu,Jammu,active,education,0.868,False,0.868
+I-1074,1,indian institute of technology delhi,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,1.0,True,1.0
+I-1074,2,indian institute of technology delhi,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.892,True,0.972
+I-1074,3,indian institute of technology delhi,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.917,False,0.917
+I-1074,4,indian institute of technology delhi,https://ror.org/02sscsx71,Indian Institute of Technology Bhilai,Bhilai,active,education;funder,0.904,False,0.904
+I-1074,5,indian institute of technology delhi,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.892,False,0.892
+I-1074,6,indian institute of technology delhi,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.892,False,0.892
+I-1074,7,indian institute of technology delhi,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.886,False,0.886
+I-1074,8,indian institute of technology delhi,https://ror.org/0022nd079,Indian Institute of Technology Guwahati,Guwahati,active,education;funder,0.88,False,0.88
+U-0109,1,jawaharlal nehru university,https://ror.org/0567v8t28,Jawaharlal Nehru University,New Delhi,active,education;funder,1.0,True,1.0
+U-0109,2,jawaharlal nehru university,https://ror.org/01zwh2149,Jawaharlal Nehru Krishi Vishwa Vidyalaya,Jabalpur,active,education,0.806,False,0.806
+U-0109,3,jawaharlal nehru university,https://ror.org/02nfebn65,Jawaharlal Nehru Memorial Fund,New Delhi,active,funder;other,0.667,True,0.747
+U-0109,4,jawaharlal nehru university,https://ror.org/010mp4b16,Jawaharlal Nehru College,Boko,active,education,0.706,False,0.706
+U-0109,5,jawaharlal nehru university,https://ror.org/05s9t8c95,"Jawaharlal Nehru Technological University, Kakinada",Kākināda,active,education,0.701,False,0.701
+U-0109,6,jawaharlal nehru university,https://ror.org/02rw39616,Jawaharlal Nehru Technological University Anantapur,Anantapur,active,education,0.692,False,0.692
+U-0109,7,jawaharlal nehru university,https://ror.org/002tchr49,"Jawaharlal Nehru Technological University, Hyderabad",Hyderabad,active,education;funder,0.692,False,0.692
+U-0109,8,jawaharlal nehru university,https://ror.org/02h7g1s38,Jawaharlal Nehru Architecture and Fine Arts University,Hyderabad,active,education,0.667,False,0.667
+I-1075,1,indian institute of technology kanpur,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,1.0,True,1.0
+I-1075,2,indian institute of technology kanpur,https://ror.org/03yacj906,Indian Institute of Technology Jodhpur,Jodhpur,active,education,0.907,False,0.907
+I-1075,3,indian institute of technology kanpur,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.904,False,0.904
+I-1075,4,indian institute of technology kanpur,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.904,False,0.904
+I-1075,5,indian institute of technology kanpur,https://ror.org/02f0vsw63,Indian Institute of Technology Jammu,Jammu,active,education,0.904,False,0.904
+I-1075,6,indian institute of technology kanpur,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.901,False,0.901
+I-1075,7,indian institute of technology kanpur,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.892,False,0.892
+I-1075,8,indian institute of technology kanpur,https://ror.org/01hhf7w52,Indian Institute of Technology Indore,Indore,active,education;funder,0.892,False,0.892
+U-0053,1,indian institute of technology guwahati,https://ror.org/0022nd079,Indian Institute of Technology Guwahati,Guwahati,active,education;funder,1.0,True,1.0
+U-0053,2,indian institute of technology guwahati,https://ror.org/00bb9ch64,Indian Institute of Information Technology Guwahati,Guwahati,active,education,0.867,True,0.947
+U-0053,3,indian institute of technology guwahati,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.904,False,0.904
+U-0053,4,indian institute of technology guwahati,https://ror.org/01xtkxh20,Indian Institute of Technology Tirupati,Tirupati,active,education;funder,0.897,False,0.897
+U-0053,5,indian institute of technology guwahati,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.88,False,0.88
+U-0053,6,indian institute of technology guwahati,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.88,False,0.88
+U-0053,7,indian institute of technology guwahati,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.868,False,0.868
+U-0053,8,indian institute of technology guwahati,https://ror.org/02sscsx71,Indian Institute of Technology Bhilai,Bhilai,active,education;funder,0.868,False,0.868
+U-0560,1,indian institute of technology roorkee,https://ror.org/00582g326,Indian Institute of Technology Roorkee,Roorkee,active,education;funder,1.0,True,1.0
+U-0560,2,indian institute of technology roorkee,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.919,False,0.919
+U-0560,3,indian institute of technology roorkee,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.889,False,0.889
+U-0560,4,indian institute of technology roorkee,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.865,False,0.865
+U-0560,5,indian institute of technology roorkee,https://ror.org/01kh5gc44,Indian Institute of Technology BHU,Varanasi,active,education;funder,0.861,False,0.861
+U-0560,6,indian institute of technology roorkee,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,0.853,False,0.853
+U-0560,7,indian institute of technology roorkee,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.853,False,0.853
+U-0560,8,indian institute of technology roorkee,https://ror.org/03yacj906,Indian Institute of Technology Jodhpur,Jodhpur,active,education,0.842,False,0.842
+U-0500,1,banaras hindu university,https://ror.org/04cdn2797,Banaras Hindu University,Varanasi,active,education;funder,1.0,True,1.0
+U-0500,2,banaras hindu university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.718,False,0.718
+U-0500,3,banaras hindu university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.7,False,0.7
+U-0500,4,banaras hindu university,https://ror.org/01kh5gc44,Indian Institute of Technology BHU,Varanasi,active,education;funder,0.608,True,0.688
+U-0500,5,banaras hindu university,https://ror.org/0563h0629,Mangalayatan University,Aligarh,active,education,0.681,False,0.681
+U-0500,6,banaras hindu university,https://ror.org/02j3w7f30,Madhya Pradesh Bhoj Open University,Bhopal,active,education,0.667,False,0.667
+U-0500,7,banaras hindu university,https://ror.org/00vadgf54,Kaziranga University,Jorhāt,active,education,0.636,False,0.636
+U-0500,8,banaras hindu university,https://ror.org/03y1hrs26,Kolhan University,Chāībāsa,active,education,0.634,False,0.634
+X-0011,1,jawaharlal nehru centre for advanced scientific research,https://ror.org/0538gdx71,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,active,facility;funder,1.0,True,1.0
+X-0011,2,jawaharlal nehru centre for advanced scientific research,https://ror.org/04m3mhq27,Centre for Advanced Bioenergy Research,Faridabad,active,facility,0.681,False,0.681
+X-0011,3,jawaharlal nehru centre for advanced scientific research,https://ror.org/05ta8jq17,Kashmir Advanced Scientific Research Centre,Srinagar,active,government,0.646,False,0.646
+X-0011,4,jawaharlal nehru centre for advanced scientific research,https://ror.org/00x9ph686,Jawaharlal Nehru Cancer Hospital and Research Centre,Bhopal,active,healthcare,0.593,False,0.593
+X-0011,5,jawaharlal nehru centre for advanced scientific research,https://ror.org/00hdf8e67,Jawaharlal Nehru Medical College,Ajmer,active,education,0.545,False,0.545
+X-0011,6,jawaharlal nehru centre for advanced scientific research,https://ror.org/01a4d6k20,Jawaharlal Nehru Medical College,Belagavi,active,education,0.545,False,0.545
+X-0011,7,jawaharlal nehru centre for advanced scientific research,https://ror.org/05w47ap08,Jawaharlal Nehru Tropical Botanic Garden and Research Institute,Thiruvananthapuram,active,facility,0.538,False,0.538
+X-0011,8,jawaharlal nehru centre for advanced scientific research,https://ror.org/010mp4b16,Jawaharlal Nehru College,Boko,active,education,0.535,False,0.535
+U-0575,1,jadavpur university,https://ror.org/02af4h012,Jadavpur University,Kolkata,active,education;funder,1.0,True,1.0
+U-0575,2,jadavpur university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.824,False,0.824
+U-0575,3,jadavpur university,https://ror.org/001x6y413,Palamuru University,Mahbūbnagar,active,education,0.789,False,0.789
+U-0575,4,jadavpur university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.778,False,0.778
+U-0575,5,jadavpur university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.765,False,0.765
+U-0575,6,jadavpur university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.757,False,0.757
+U-0575,7,jadavpur university,https://ror.org/057ap5t09,RK University,Rajkot,active,education,0.75,False,0.75
+U-0575,8,jadavpur university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.743,False,0.743
+U-0439,1,anna university,https://ror.org/01qhf1r47,"Anna University, Chennai",Chennai,active,education;funder,0.789,True,0.869
+U-0439,2,anna university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.867,False,0.867
+U-0439,3,anna university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.848,False,0.848
+U-0439,4,anna university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.839,False,0.839
+U-0439,5,anna university,https://ror.org/03y1hrs26,Kolhan University,Chāībāsa,active,education,0.812,False,0.812
+U-0439,6,anna university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.812,False,0.812
+U-0439,7,anna university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.812,False,0.812
+U-0439,8,anna university,https://ror.org/00vadgf54,Kaziranga University,Jorhāt,active,education,0.8,False,0.8
+U-0042,1,university of hyderabad,https://ror.org/04a7rxb17,University of Hyderabad,Hyderabad,active,education;funder,1.0,True,1.0
+U-0042,2,university of hyderabad,https://ror.org/03vrx7m55,University of Allahabad,Prayagraj,active,education;funder,0.826,False,0.826
+U-0042,3,university of hyderabad,https://ror.org/040dgqr26,National Institute of Pharmaceutical Education and Research,Hyderabad,active,education,0.737,True,0.817
+U-0042,4,university of hyderabad,https://ror.org/03ebghh63,Vignana Bharathi Institute of Technology,Hyderabad,active,education,0.703,True,0.783
+U-0042,5,university of hyderabad,https://ror.org/05f11g639,"International Institute of Information Technology, Hyderabad",Hyderabad,active,education,0.703,True,0.783
+U-0042,6,university of hyderabad,https://ror.org/032kth403,Rani Durgavati University,Jabalpur,active,education,0.756,False,0.756
+U-0042,7,university of hyderabad,https://ror.org/03sz2k744,"National Law University, Delhi",New Delhi,active,education,0.75,False,0.75
+U-0042,8,university of hyderabad,https://ror.org/04c2bsa70,University of Ladakh,Leh,active,education,0.744,False,0.744
+U-0120,1,university of delhi,https://ror.org/04gzb2213,University of Delhi,New Delhi,active,education;funder,1.0,False,1.0
+U-0120,2,university of delhi,https://ror.org/03sz2k744,"National Law University, Delhi",New Delhi,active,education,0.833,False,0.833
+U-0120,3,university of delhi,https://ror.org/0039wpa60,Ambedkar University Delhi,Delhi,active,education,0.727,True,0.807
+U-0120,4,university of delhi,https://ror.org/02v8pmx14,University of Southampton Delhi,Gurugram,active,education,0.76,False,0.76
+U-0120,5,university of delhi,https://ror.org/04d636x33,P.G.D.A.V. College (Evening),Delhi,active,education,0.594,True,0.674
+U-0120,6,university of delhi,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.643,False,0.643
+U-0120,7,university of delhi,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.643,False,0.643
+U-0120,8,university of delhi,https://ror.org/01hntha05,"Indian Statistical Institute, Delhi Centre",New Delhi,active,education,0.643,False,0.643
+U-0436,1,amrita vishwa vidyapeetham,https://ror.org/03am10p12,Amrita Vishwa Vidyapeetham,Coimbatore,active,education;funder,1.0,True,1.0
+U-0436,2,amrita vishwa vidyapeetham,https://ror.org/01zwh2149,Jawaharlal Nehru Krishi Vishwa Vidyalaya,Jabalpur,active,education,0.515,False,0.515
+U-0436,3,amrita vishwa vidyapeetham,https://ror.org/00k8bwh32,Amrita Therapeutics (India),Ahmedabad,active,company,0.51,False,0.51
+U-0436,4,amrita vishwa vidyapeetham,https://ror.org/05ahcwz21,Amrita Institute of Medical Sciences and Research Centre,Ernakulam,active,healthcare,0.439,False,0.439
+X-0004,1,indian institute of management ahmedabad,https://ror.org/02egcpy68,Indian Institute of Management Ahmedabad,Ahmedabad,active,education;funder,1.0,True,1.0
+X-0004,2,indian institute of management ahmedabad,https://ror.org/05q2acf12,Indian Institute of Management Mumbai,Mumbai,active,education;funder,0.883,False,0.883
+X-0004,3,indian institute of management ahmedabad,https://ror.org/008ztmr80,Indian Institute of Management Sambalpur,Sambalpur,active,education,0.875,False,0.875
+X-0004,4,indian institute of management ahmedabad,https://ror.org/02shpj718,Indian Institute of Management Jammu,Jammu,active,education,0.868,False,0.868
+X-0004,5,indian institute of management ahmedabad,https://ror.org/02nthw835,Indian Institute of Management Amritsar,Amritsar,active,education,0.861,False,0.861
+X-0004,6,indian institute of management ahmedabad,https://ror.org/001xs0312,Indian Institute of Management Udaipur,Udaipur,active,education,0.846,False,0.846
+X-0004,7,indian institute of management ahmedabad,https://ror.org/0039tsz33,Indian Institute of Management Kashipur,Kashipur,active,education,0.835,False,0.835
+X-0004,8,indian institute of management ahmedabad,https://ror.org/02zhewk16,Indian Institute of Management Calcutta,Kolkata,active,education;funder,0.835,False,0.835
+U-0323,1,savitribai phule pune university,https://ror.org/044g6d731,Savitribai Phule Pune University,Pune,active,education;funder,1.0,True,1.0
+U-0323,2,savitribai phule pune university,https://ror.org/039pa0a74,DES Pune University,Pune,active,education,0.667,True,0.747
+U-0323,3,savitribai phule pune university,https://ror.org/04hjqx874,"Sri Balaji University, Pune",Pune,active,education,0.586,True,0.666
+U-0323,4,savitribai phule pune university,https://ror.org/04jpwp546,Dr. P. A. Inamdar University,Pune,active,education,0.561,True,0.641
+U-0323,5,savitribai phule pune university,https://ror.org/02e3nay30,M.J.P. Rohilkhand University,Bareilly,active,education,0.64,False,0.64
+U-0323,6,savitribai phule pune university,https://ror.org/00mmq5f59,Mahatma Phule Krishi Vidyapeeth,Rāhuri,active,education,0.638,False,0.638
+U-0323,7,savitribai phule pune university,https://ror.org/058c3a641,JSPM University,Pune,active,education,0.553,True,0.633
+U-0323,8,savitribai phule pune university,https://ror.org/008128n17,COEP Technological University,Pune,active,education,0.452,True,0.532
+U-0496,1,aligarh muslim university,https://ror.org/03kw9gc02,Aligarh Muslim University,Aligarh,active,education;funder,1.0,True,1.0
+U-0496,2,aligarh muslim university,https://ror.org/001x6y413,Palamuru University,Mahbūbnagar,active,education,0.727,False,0.727
+U-0496,3,aligarh muslim university,https://ror.org/02d9d7j52,Thunchath Ezhuthachan Malayalam University,Malappuram,active,education,0.711,False,0.711
+U-0496,4,aligarh muslim university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.7,False,0.7
+U-0496,5,aligarh muslim university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.667,False,0.667
+U-0496,6,aligarh muslim university,https://ror.org/0563h0629,Mangalayatan University,Aligarh,active,education,0.583,True,0.663
+U-0496,7,aligarh muslim university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.651,False,0.651
+U-0496,8,aligarh muslim university,https://ror.org/05y8j9f75,Sarguja University,Ambikāpur,active,education,0.651,False,0.651
+U-0108,1,jamia millia islamia,https://ror.org/00pnhhv55,Jamia Millia Islamia,New Delhi,active,education;funder,1.0,True,1.0
+U-0108,2,jamia millia islamia,https://ror.org/03dwxvb85,Jamia Hamdard,New Delhi,active,education,0.545,True,0.625
+U-0108,3,jamia millia islamia,https://ror.org/02jf3sn72,"Islamia College of Science and Commerce, Srinagar",Srinagar,active,education,0.206,False,0.206
+U-0391,1,birla institute of technology and science pilani,https://ror.org/001p3jz28,"Birla Institute of Technology and Science, Pilani",Pilāni,active,education;funder,1.0,True,1.0
+U-0391,2,birla institute of technology and science pilani,https://ror.org/046sh6j17,"Birla Institute of Technology and Science, Pilani - Goa Campus",Sancoale,active,education,0.897,False,0.897
+U-0391,3,birla institute of technology and science pilani,https://ror.org/03h89t847,Loyola Institute of Technology and Science,Kanniyakumari,active,education,0.848,False,0.848
+U-0391,4,birla institute of technology and science pilani,https://ror.org/00hprb304,KCG College of Technology,Chennai,active,education,0.826,False,0.826
+U-0391,5,birla institute of technology and science pilani,https://ror.org/037tgdn13,Hindustan Institute of Technology and Science,Chennai,active,education,0.817,False,0.817
+U-0391,6,birla institute of technology and science pilani,https://ror.org/014ctt859,Birla Institute of Technology and Science - Hyderabad Campus,Hyderabad,active,education,0.811,False,0.811
+U-0391,7,birla institute of technology and science pilani,https://ror.org/028vtqb15,"Birla Institute of Technology, Mesra",Ranchi,active,education,0.747,False,0.747
+U-0391,8,birla institute of technology and science pilani,https://ror.org/0203yhg37,Birla Institute of Scientific Research,Jaipur,active,facility;funder,0.628,False,0.628
+U-0490,1,vellore institute of technology,https://ror.org/00qzypv28,Vellore Institute of Technology University,Vellore,active,education;funder,0.849,True,0.929
+U-0490,2,vellore institute of technology,https://ror.org/055hnsm41,Vemu Institute of Technology,Tirupati,active,education,0.881,False,0.881
+U-0490,3,vellore institute of technology,https://ror.org/04ytecw04,KLS Gogte Institute of Technology,Belagavi,active,education,0.867,False,0.867
+U-0490,4,vellore institute of technology,https://ror.org/05m169e78,PES University,Bengaluru,active,education,0.862,False,0.862
+U-0490,5,vellore institute of technology,https://ror.org/015egth93,T J Institute of Technology,Chennai,active,education,0.842,False,0.842
+U-0490,6,vellore institute of technology,https://ror.org/00j3qc684,Ansal University,Gurugram,active,education,0.833,False,0.833
+U-0490,7,vellore institute of technology,https://ror.org/00j0x4512,T.K.M Institute of Technology,Kollam,active,education,0.828,False,0.828
+U-0490,8,vellore institute of technology,https://ror.org/02zvs5a39,Rajeev Institute of Technology,Hassan,active,education,0.82,False,0.82
+U-0101,1,indian agricultural research institute,https://ror.org/01bzgdw81,Indian Agricultural Research Institute,New Delhi,active,facility;funder,1.0,True,1.0
+U-0101,2,indian agricultural research institute,https://ror.org/03kkevc75,Indian Agricultural Statistics Research Institute,New Delhi,active,facility,0.874,True,0.954
+U-0101,3,indian agricultural research institute,https://ror.org/02cc83x35,Nimbkar Agricultural Research Institute,Phaltan,active,facility,0.883,False,0.883
+U-0101,4,indian agricultural research institute,https://ror.org/01tk0cw08,Central Research Institute for Jute and Allied Fibres,Bārākpur,active,facility,0.865,False,0.865
+U-0101,5,indian agricultural research institute,https://ror.org/047q4fb87,Indian Institute of Natural Resins and Gums,Ranchi,active,facility,0.836,False,0.836
+U-0101,6,indian agricultural research institute,https://ror.org/04fw54a43,Indian Council of Agricultural Research,New Delhi,active,funder;government,0.727,True,0.807
+U-0101,7,indian agricultural research institute,https://ror.org/02jcfzc36,Indian Veterinary Research Institute,Bareilly,active,facility;funder,0.784,False,0.784
+U-0101,8,indian agricultural research institute,https://ror.org/04je37366,Indian Agricultural Universities Association,New Delhi,active,other,0.683,True,0.763
+U-0273,1,indian institute of technology indore,https://ror.org/01hhf7w52,Indian Institute of Technology Indore,Indore,active,education;funder,1.0,True,1.0
+U-0273,2,indian institute of technology indore,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.904,False,0.904
+U-0273,3,indian institute of technology indore,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.904,False,0.904
+U-0273,4,indian institute of technology indore,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.901,False,0.901
+U-0273,5,indian institute of technology indore,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,0.892,False,0.892
+U-0273,6,indian institute of technology indore,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.892,False,0.892
+U-0273,7,indian institute of technology indore,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.88,False,0.88
+U-0273,8,indian institute of technology indore,https://ror.org/03yacj906,Indian Institute of Technology Jodhpur,Jodhpur,active,education,0.88,False,0.88
+X-0005,1,indian institute of management bangalore,https://ror.org/02xxpjq61,Indian Institute of Management Bangalore,Bengaluru,active,education;funder,1.0,True,1.0
+X-0005,2,indian institute of management bangalore,https://ror.org/04dese585,Indian Institute of Science Bangalore,Bengaluru,active,education;funder,0.831,True,0.911
+X-0005,3,indian institute of management bangalore,https://ror.org/008ztmr80,Indian Institute of Management Sambalpur,Sambalpur,active,education,0.875,False,0.875
+X-0005,4,indian institute of management bangalore,https://ror.org/02nthw835,Indian Institute of Management Amritsar,Amritsar,active,education,0.861,False,0.861
+X-0005,5,indian institute of management bangalore,https://ror.org/05t1d6r64,Indian Institute of Management Ranchi,Ranchi,active,education;funder,0.857,False,0.857
+X-0005,6,indian institute of management bangalore,https://ror.org/05vqbh574,Indian Institute of Management Raipur,Raipur,active,education,0.857,False,0.857
+X-0005,7,indian institute of management bangalore,https://ror.org/001xs0312,Indian Institute of Management Udaipur,Udaipur,active,education,0.846,False,0.846
+X-0005,8,indian institute of management bangalore,https://ror.org/05gfjrx96,Indian Institute of Management Lucknow,Lucknow,active,education,0.846,False,0.846
+U-0013,1,indian institute of technology hyderabad,https://ror.org/01j4v3x97,Indian Institute of Technology Hyderabad,Sangāreddi,active,education,1.0,False,1.0
+U-0013,2,indian institute of technology hyderabad,https://ror.org/03ebghh63,Vignana Bharathi Institute of Technology,Hyderabad,active,education,0.844,True,0.924
+U-0013,3,indian institute of technology hyderabad,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.923,False,0.923
+U-0013,4,indian institute of technology hyderabad,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.897,False,0.897
+U-0013,5,indian institute of technology hyderabad,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.883,False,0.883
+U-0013,6,indian institute of technology hyderabad,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.868,False,0.868
+U-0013,7,indian institute of technology hyderabad,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.868,False,0.868
+U-0013,8,indian institute of technology hyderabad,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.865,False,0.865
+U-0570,1,University of Calcutta,https://ror.org/01e7v7w47,University of Calcutta,Kolkata,active,education;funder,1.0,True,1.0
+U-0570,2,University of Calcutta,https://ror.org/04r5d0y92,University of Kota,Kota,active,education,0.8,False,0.8
+U-0570,3,University of Calcutta,https://ror.org/032kth403,Rani Durgavati University,Jabalpur,active,education,0.773,False,0.773
+U-0570,4,University of Calcutta,https://ror.org/03sz2k744,"National Law University, Delhi",New Delhi,active,education,0.769,False,0.769
+U-0570,5,University of Calcutta,https://ror.org/02zhewk16,Indian Institute of Management Calcutta,Kolkata,active,education;funder,0.647,True,0.727
+U-0570,6,University of Calcutta,https://ror.org/053c26j59,"Modern School, Park Circus",Kolkata,active,education,0.591,True,0.671
+U-0570,7,University of Calcutta,https://ror.org/03rfycd69,Aliah University,Kolkata,active,education,0.538,True,0.618
+U-0570,8,University of Calcutta,https://ror.org/0044faa23,Indian Museum,Kolkata,active,archive,0.5,True,0.58
+U-0485,1,tamil nadu agricultural university,https://ror.org/04fs90r60,Tamil Nadu Agricultural University,Coimbatore,active,education;funder,1.0,True,1.0
+U-0485,2,tamil nadu agricultural university,https://ror.org/03me2hz15,Tamil Nadu Horticulture University,Coimbatore,active,education,0.882,True,0.962
+U-0485,3,tamil nadu agricultural university,https://ror.org/00b3mhg89,Tamil Nadu Dr. M.G.R. Medical University,Chennai,active,education,0.778,False,0.778
+U-0485,4,tamil nadu agricultural university,https://ror.org/04ayrfe72,Tamil Nadu Dr. J Jayalalitha Fisheries University,Nagapattinam,active,education,0.738,False,0.738
+U-0485,5,tamil nadu agricultural university,https://ror.org/013aqa754,Tamil Nadu Open University,Chennai,active,education,0.733,False,0.733
+U-0485,6,tamil nadu agricultural university,https://ror.org/011x6fh62,Tamil Nadu Dr. Ambedkar Law University,Chennai,active,education,0.732,False,0.732
+U-0485,7,tamil nadu agricultural university,https://ror.org/007qxz427,Tamil Nadu Teachers Education University,Chennai,active,education,0.676,False,0.676
+U-0485,8,tamil nadu agricultural university,https://ror.org/0534dba08,Tamil University,Thanjavur,active,education,0.64,False,0.64
+U-0305,1,indian institute of science education and research pune,https://ror.org/028qa3n13,Indian Institute of Science Education and Research Pune,Pune,active,education;funder,1.0,True,1.0
+U-0305,2,indian institute of science education and research pune,https://ror.org/02rb21j89,"Indian Institute of Science Education and Research, Bhopal",Bhopal,active,education;funder,0.929,False,0.929
+U-0305,3,indian institute of science education and research pune,https://ror.org/023vrr657,Indian Institute of Science Education and Research Berhampur,Brahmapur,active,education,0.922,False,0.922
+U-0305,4,indian institute of science education and research pune,https://ror.org/032d0e990,"Indian Institute of Science Education and Research, Tirupati",Tirupati,active,education;funder,0.912,False,0.912
+U-0305,5,indian institute of science education and research pune,https://ror.org/01vztzd79,Indian Institute of Science Education and Research Mohali,Mohali,active,education;funder,0.911,False,0.911
+U-0305,6,indian institute of science education and research pune,https://ror.org/00djv2c17,Indian Institute of Science Education and Research Kolkata,Kolkata,active,education;funder,0.903,False,0.903
+U-0305,7,indian institute of science education and research pune,https://ror.org/02r2k1c68,National Institute of Science Education and Research,Bhubaneswar,active,education;funder,0.879,False,0.879
+U-0305,8,indian institute of science education and research pune,https://ror.org/01pe3t004,Indian Institute of Science Education and Research Thiruvananthapuram,Thiruvananthapuram,active,education;funder,0.855,False,0.855
+U-0234,1,Manipal Academy of Higher Education,https://ror.org/02xzytt36,Manipal Academy of Higher Education,Manipal,active,education;funder,1.0,True,1.0
+U-0234,2,Manipal Academy of Higher Education,https://ror.org/00ssvzv66,Karpagam Academy of Higher Education,Coimbatore,active,education;funder,0.873,False,0.873
+U-0234,3,Manipal Academy of Higher Education,https://ror.org/00zkg1t31,Siddhartha Academy of Higher Education,Vijayawada,active,education,0.822,False,0.822
+U-0234,4,Manipal Academy of Higher Education,https://ror.org/05pc6yw33,Sri Siddhartha Academy of Higher Education,Tumakuru,active,education,0.779,False,0.779
+U-0234,5,Manipal Academy of Higher Education,https://ror.org/03aam9155,KLE Academy of Higher Education and Research,Belagavi,active,education,0.734,False,0.734
+U-0234,6,Manipal Academy of Higher Education,https://ror.org/04jdy5g59,Meenakshi Academy of Higher Education and Research,Chennai,active,education,0.729,False,0.729
+U-0234,7,Manipal Academy of Higher Education,https://ror.org/013x70191,JSS Academy of Higher Education and Research,Mysuru,active,education,0.709,False,0.709
+U-0234,8,Manipal Academy of Higher Education,https://ror.org/0218hya98,Department of Higher Education,New Delhi,active,funder;government,0.708,False,0.708
+U-0589,1,visva bharati,https://ror.org/02y28sc20,Visva-Bharati University,Santiniketan,active,education,0.703,True,0.783
+U-0589,2,visva bharati,https://ror.org/01nkqk925,Jain Vishva Bharati University,Lādnūn,active,education,0.605,False,0.605
+U-0589,3,visva bharati,https://ror.org/038339q73,Krishak Bharati Cooperative,Noida,active,other,0.55,False,0.55
+U-0589,4,visva bharati,https://ror.org/059pxp552,Rabindra Bharati University,Kolkata,active,education,0.5,False,0.5
+U-0589,5,visva bharati,https://ror.org/0052mmx10,Bharati Vidyapeeth (Deemed to be University),Pune,active,education;funder,0.452,False,0.452
+U-0589,6,visva bharati,https://ror.org/05bvvtk87,Nehru Gram Bharti University,Prayagraj,active,education,0.39,False,0.39
+U-0589,7,visva bharati,https://ror.org/02akhpg19,"Bharati Vidyapeeth's College of Engineering, Delhi",New Delhi,active,education,0.255,False,0.255
+U-0589,8,visva bharati,https://ror.org/04w5v0h22,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",Kolhapur,active,education,0.233,False,0.233
+U-0378,1,indian institute of technology ropar,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,1.0,False,1.0
+U-0378,2,indian institute of technology ropar,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.943,False,0.943
+U-0378,3,indian institute of technology ropar,https://ror.org/00582g326,Indian Institute of Technology Roorkee,Roorkee,active,education;funder,0.919,False,0.919
+U-0378,4,indian institute of technology ropar,https://ror.org/01xtkxh20,Indian Institute of Technology Tirupati,Tirupati,active,education;funder,0.907,False,0.907
+U-0378,5,indian institute of technology ropar,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.904,False,0.904
+U-0378,6,indian institute of technology ropar,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.892,False,0.892
+U-0378,7,indian institute of technology ropar,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.889,False,0.889
+U-0378,8,indian institute of technology ropar,https://ror.org/02f0vsw63,Indian Institute of Technology Jammu,Jammu,active,education,0.889,False,0.889
+U-0363,1,siksha o anusandhan,https://ror.org/056ep7w45,Siksha O Anusandhan University,Bhubaneswar,active,education,0.776,True,0.856
+U-0363,2,siksha o anusandhan,https://ror.org/00bv9bq36,Anusandhan Trust,Mumbai,active,nonprofit,0.571,False,0.571
+U-0363,3,siksha o anusandhan,https://ror.org/05w6wfp17,Bhabha Atomic Research Centre,Mumbai,active,facility;funder,0.538,False,0.538
+U-0363,4,siksha o anusandhan,https://ror.org/00cwrns71,Indian Space Research Organisation,Bengaluru,active,funder;government,0.508,False,0.508
+U-0363,5,siksha o anusandhan,https://ror.org/043m3hn34,Vivekananda Parvatiya Krishi Anusandhan Sansthan,Almora,active,facility,0.448,False,0.448
+U-0363,6,siksha o anusandhan,https://ror.org/01f74qr97,Shree O.H. Nazar Ayurved College Shree Swami Atmanand Saraswati Ayurved Hospital,Surat,active,healthcare,0.357,False,0.357
+U-0363,7,siksha o anusandhan,https://ror.org/00d4e4338,Anusandhan National Research Foundation,New Delhi,active,funder;government,0.345,False,0.345
+U-0363,8,siksha o anusandhan,https://ror.org/04td8e917,Uttar Pradesh Pandit Deen Dayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Anusandhan Sansthan,Mathura,active,education,0.302,False,0.302
+U-0467,1,national institute of technology tiruchirappalli,https://ror.org/047x65e68,National Institute of Technology Tiruchirappalli,Tiruchchirappalli,active,education,1.0,False,1.0
+U-0467,2,national institute of technology tiruchirappalli,https://ror.org/03yyd7552,National Institute of Technology Calicut,Kozhikode,active,education;funder,0.841,False,0.841
+U-0467,3,national institute of technology tiruchirappalli,https://ror.org/011gmn932,National Institute of Technology Rourkela,Rourkela,active,education;funder,0.831,False,0.831
+U-0467,4,national institute of technology tiruchirappalli,https://ror.org/017ebfz38,National Institute of Technology Warangal,Warangal,active,education;funder,0.831,False,0.831
+U-0467,5,national institute of technology tiruchirappalli,https://ror.org/04909p852,National Institute of Technology Kurukshetra,Kurukshetra,active,education,0.826,False,0.826
+U-0467,6,national institute of technology tiruchirappalli,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.814,False,0.814
+U-0467,7,national institute of technology tiruchirappalli,https://ror.org/02tare285,"National Institute of Technology, Puducherry",Kāraikāl,active,education,0.813,False,0.813
+U-0467,8,national institute of technology tiruchirappalli,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.81,False,0.81
+U-0304,1,homi bhabha national institute,https://ror.org/02bv3zr67,Homi Bhabha National Institute,Mumbai,active,education;funder,1.0,True,1.0
+U-0304,2,homi bhabha national institute,https://ror.org/02b1bn727,Chittaranjan National Cancer Institute,Kolkata,active,funder;healthcare,0.676,False,0.676
+U-0304,3,homi bhabha national institute,https://ror.org/037zr5109,Dr. Homi Bhabha State University,Mumbai,active,education,0.59,True,0.67
+U-0304,4,homi bhabha national institute,https://ror.org/00zb80875,National Heart Institute,New Delhi,active,healthcare,0.667,False,0.667
+U-0304,5,homi bhabha national institute,https://ror.org/0433t4a66,Netaji Subhas National Institute of Sports,Patiāla,active,government,0.667,False,0.667
+U-0304,6,homi bhabha national institute,https://ror.org/05g2swp31,National Institute of Design,Ahmedabad,active,education,0.621,False,0.621
+U-0304,7,homi bhabha national institute,https://ror.org/01mfest76,ICMR - National Institute of Immunohaemotology,Mumbai,active,facility,0.541,True,0.621
+U-0304,8,homi bhabha national institute,https://ror.org/004zmp616,National Institute of Ecology,Jaipur,active,nonprofit,0.61,False,0.61
+U-0446,1,bharath institute of higher education and research,https://ror.org/04yazpn06,Bharath University,Chennai,active,education;funder,1.0,True,1.0
+U-0446,2,bharath institute of higher education and research,https://ror.org/05pq0wd90,St. Peter's Institute of Higher Education and Research,Chennai,active,education,0.854,True,0.934
+U-0446,3,bharath institute of higher education and research,https://ror.org/02w7k5y22,Datta Meghe Institute of Higher Education and Research,Wardha,active,education;funder,0.885,False,0.885
+U-0446,4,bharath institute of higher education and research,https://ror.org/0108gdg43,Sri Ramachandra Institute of Higher Education and Research,Porur,active,education;funder,0.87,False,0.87
+U-0446,5,bharath institute of higher education and research,https://ror.org/04jdy5g59,Meenakshi Academy of Higher Education and Research,Chennai,active,education,0.74,True,0.82
+U-0446,6,bharath institute of higher education and research,https://ror.org/054hq3y71,Maharashtra Institute of Medical Education and Research,Pune,active,healthcare,0.819,False,0.819
+U-0446,7,bharath institute of higher education and research,https://ror.org/02r2k1c68,National Institute of Science Education and Research,Bhubaneswar,active,education;funder,0.804,False,0.804
+U-0446,8,bharath institute of higher education and research,https://ror.org/013x70191,JSS Academy of Higher Education and Research,Mysuru,active,education,0.766,False,0.766
+U-0184,1,indian institute of technology mandi,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,1.0,True,1.0
+U-0184,2,indian institute of technology mandi,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.932,False,0.932
+U-0184,3,indian institute of technology mandi,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.919,False,0.919
+U-0184,4,indian institute of technology mandi,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.917,False,0.917
+U-0184,5,indian institute of technology mandi,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.914,False,0.914
+U-0184,6,indian institute of technology mandi,https://ror.org/02sscsx71,Indian Institute of Technology Bhilai,Bhilai,active,education;funder,0.904,False,0.904
+U-0184,7,indian institute of technology mandi,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,0.904,False,0.904
+U-0184,8,indian institute of technology mandi,https://ror.org/01hhf7w52,Indian Institute of Technology Indore,Indore,active,education;funder,0.904,False,0.904
+U-0027,1,osmania university,https://ror.org/030sjb889,Osmania University,Hyderabad,active,education;funder,1.0,True,1.0
+U-0027,2,osmania university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.848,False,0.848
+U-0027,3,osmania university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.778,False,0.778
+U-0027,4,osmania university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.765,False,0.765
+U-0027,5,osmania university,https://ror.org/01m67jf71,NIILM University,Kaithal,active,education,0.765,False,0.765
+U-0027,6,osmania university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.75,False,0.75
+U-0027,7,osmania university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.75,False,0.75
+U-0027,8,osmania university,https://ror.org/053cd8j25,Osmania General Hospital,Hyderabad,active,healthcare,0.667,True,0.747
+S-8972,1,indian institute of management calcutta,https://ror.org/02zhewk16,Indian Institute of Management Calcutta,Kolkata,active,education;funder,1.0,True,1.0
+S-8972,2,indian institute of management calcutta,https://ror.org/02shpj718,Indian Institute of Management Jammu,Jammu,active,education,0.88,False,0.88
+S-8972,3,indian institute of management calcutta,https://ror.org/02nthw835,Indian Institute of Management Amritsar,Amritsar,active,education,0.872,False,0.872
+S-8972,4,indian institute of management calcutta,https://ror.org/05vqbh574,Indian Institute of Management Raipur,Raipur,active,education,0.868,False,0.868
+S-8972,5,indian institute of management calcutta,https://ror.org/018gn0t60,Indian Institute of Management Rohtak,Rohtak,active,education,0.868,False,0.868
+S-8972,6,indian institute of management calcutta,https://ror.org/008ztmr80,Indian Institute of Management Sambalpur,Sambalpur,active,education,0.861,False,0.861
+S-8972,7,indian institute of management calcutta,https://ror.org/001xs0312,Indian Institute of Management Udaipur,Udaipur,active,education,0.857,False,0.857
+S-8972,8,indian institute of management calcutta,https://ror.org/0039tsz33,Indian Institute of Management Kashipur,Kashipur,active,education,0.846,False,0.846
+U-0381,1,punjab agricultural university,https://ror.org/02qbzdk74,Punjab Agricultural University,Ludhiana,active,education;funder,1.0,True,1.0
+U-0381,2,punjab agricultural university,https://ror.org/050qxn185,Anand Agricultural University,Anand,active,education;funder,0.881,False,0.881
+U-0381,3,punjab agricultural university,https://ror.org/04mgf6n79,Junagadh Agricultural University,Jūnāgadh,active,education,0.871,False,0.871
+U-0381,4,punjab agricultural university,https://ror.org/026zmgd62,Navsari Agricultural University,Surat,active,education;funder,0.852,False,0.852
+U-0381,5,punjab agricultural university,https://ror.org/03rs2w544,Central Agricultural University,Imphal,active,education;funder,0.852,False,0.852
+U-0381,6,punjab agricultural university,https://ror.org/03a7ksb41,Birsa Agricultural University,Ranchi,active,education,0.847,False,0.847
+U-0381,7,punjab agricultural university,https://ror.org/0531dpd42,Bihar Agricultural University,Sabaur,active,education;funder,0.847,False,0.847
+U-0381,8,punjab agricultural university,https://ror.org/05836pk12,Assam Agricultural University,Jorhat,active,education;funder,0.847,False,0.847
+U-0308,1,institute of chemical technology,https://ror.org/00ykac431,Institute of Chemical Technology,Mumbai,active,education,1.0,True,1.0
+U-0308,2,institute of chemical technology,https://ror.org/040dky007,Indian Institute of Chemical Technology,Hyderabad,active,facility;funder,0.901,False,0.901
+U-0308,3,institute of chemical technology,https://ror.org/04cgps432,Shroff S.R. Rotary Institute of Chemical Technology,Ankleshwar,active,education;funder,0.889,False,0.889
+U-0308,4,institute of chemical technology,https://ror.org/04d3x5w26,Institute Of Horticulture Technology,Greater Noida,active,facility,0.824,False,0.824
+U-0308,5,institute of chemical technology,https://ror.org/01kh0x418,Indian Institute of Chemical Biology,Kolkata,active,facility;funder,0.794,False,0.794
+U-0308,6,institute of chemical technology,https://ror.org/02bktye12,Kammavari Sangham Institute of Technology,Bengaluru,active,education,0.793,False,0.793
+U-0308,7,institute of chemical technology,https://ror.org/03rxvm679,GMR Institute of Technology,Rāzām,active,education,0.78,False,0.78
+U-0308,8,institute of chemical technology,https://ror.org/00j0x4512,T.K.M Institute of Technology,Kollam,active,education,0.78,False,0.78
+U-0107,1,jamia hamdard,https://ror.org/03dwxvb85,Jamia Hamdard,New Delhi,active,education,1.0,True,1.0
+U-0107,2,jamia hamdard,https://ror.org/00pnhhv55,Jamia Millia Islamia,New Delhi,active,education;funder,0.545,True,0.625
+U-0107,3,jamia hamdard,https://ror.org/038gm9q58,Hamdard National Foundation,New Delhi,active,funder;nonprofit,0.35,True,0.43
+U-0052,1,gauhati university,https://ror.org/01ppj9r51,Gauhati University,Guwahati,active,education;funder,1.0,True,1.0
+U-0052,2,gauhati university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.8,False,0.8
+U-0052,3,gauhati university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.788,False,0.788
+U-0052,4,gauhati university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.788,False,0.788
+U-0052,5,gauhati university,https://ror.org/00g49fd96,Pandit Deendayal Upadhyaya Shekhawati University,Sīkar,active,education,0.769,False,0.769
+U-0052,6,gauhati university,https://ror.org/030c1ef86,Bhagwant University,Ajmer,active,education,0.757,False,0.757
+U-0052,7,gauhati university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.75,False,0.75
+U-0052,8,gauhati university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.743,False,0.743
+U-0572,1,indian institute of science education and research kolkata,https://ror.org/00djv2c17,Indian Institute of Science Education and Research Kolkata,Kolkata,active,education;funder,1.0,False,1.0
+U-0572,2,indian institute of science education and research kolkata,https://ror.org/02rb21j89,"Indian Institute of Science Education and Research, Bhopal",Bhopal,active,education;funder,0.922,False,0.922
+U-0572,3,indian institute of science education and research kolkata,https://ror.org/01vztzd79,Indian Institute of Science Education and Research Mohali,Mohali,active,education;funder,0.922,False,0.922
+U-0572,4,indian institute of science education and research kolkata,https://ror.org/032d0e990,"Indian Institute of Science Education and Research, Tirupati",Tirupati,active,education;funder,0.906,False,0.906
+U-0572,5,indian institute of science education and research kolkata,https://ror.org/028qa3n13,Indian Institute of Science Education and Research Pune,Pune,active,education;funder,0.903,False,0.903
+U-0572,6,indian institute of science education and research kolkata,https://ror.org/023vrr657,Indian Institute of Science Education and Research Berhampur,Brahmapur,active,education,0.881,False,0.881
+U-0572,7,indian institute of science education and research kolkata,https://ror.org/02r2k1c68,National Institute of Science Education and Research,Bhubaneswar,active,education;funder,0.855,False,0.855
+U-0572,8,indian institute of science education and research kolkata,https://ror.org/01pe3t004,Indian Institute of Science Education and Research Thiruvananthapuram,Thiruvananthapuram,active,education;funder,0.85,False,0.85
+U-0447,1,bharathiar university,https://ror.org/04fht8c22,Bharathiar University,Coimbatore,active,education;funder,1.0,True,1.0
+U-0447,2,bharathiar university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.842,False,0.842
+U-0447,3,bharathiar university,https://ror.org/030c1ef86,Bhagwant University,Ajmer,active,education,0.8,False,0.8
+U-0447,4,bharathiar university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.778,False,0.778
+U-0447,5,bharathiar university,https://ror.org/00g49fd96,Pandit Deendayal Upadhyaya Shekhawati University,Sīkar,active,education,0.762,False,0.762
+U-0447,6,bharathiar university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.722,False,0.722
+U-0447,7,bharathiar university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.718,False,0.718
+U-0447,8,bharathiar university,https://ror.org/05y8j9f75,Sarguja University,Ambikāpur,active,education,0.718,False,0.718
+U-0357,1,national institute of technology rourkela,https://ror.org/011gmn932,National Institute of Technology Rourkela,Rourkela,active,education;funder,1.0,True,1.0
+U-0357,2,national institute of technology rourkela,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.909,False,0.909
+U-0357,3,national institute of technology rourkela,https://ror.org/04909p852,National Institute of Technology Kurukshetra,Kurukshetra,active,education,0.894,False,0.894
+U-0357,4,national institute of technology rourkela,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.886,False,0.886
+U-0357,5,national institute of technology rourkela,https://ror.org/000rr3b95,Rourkela Institute of Technology,Rourkela,active,education,0.8,True,0.88
+U-0357,6,national institute of technology rourkela,https://ror.org/04ds0jm32,National Institute of Technology Durgapur,Durgapur,active,education;funder,0.878,False,0.878
+U-0357,7,national institute of technology rourkela,https://ror.org/03swyrn62,National Institute of Technology Agartala,Agartala,active,education;funder,0.878,False,0.878
+U-0357,8,national institute of technology rourkela,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.877,False,0.877
+U-0260,1,University of Kerala,https://ror.org/05tqa9940,University of Kerala,Thiruvananthapuram,active,education;funder,1.0,True,1.0
+U-0260,2,University of Kerala,https://ror.org/05sax3c46,"Kerala University of Digital Sciences, Innovation and Technology",Thiruvananthapuram,active,education,0.756,True,0.836
+U-0260,3,University of Kerala,https://ror.org/00cy1zs35,Central University of Kerala,Kāsaragod,active,education;funder,0.833,False,0.833
+U-0260,4,University of Kerala,https://ror.org/00r96e843,Government of Kerala,Thiruvananthapuram,active,government,0.7,True,0.78
+U-0260,5,University of Kerala,https://ror.org/04md71v26,Kerala University of Health Sciences,Thrissur,active,education,0.607,False,0.607
+U-0260,6,University of Kerala,https://ror.org/04yn30r61,APJ Abdul Kalam Technological University,Thiruvananthapuram,active,education;funder,0.5,True,0.58
+U-0260,7,University of Kerala,https://ror.org/04sdyw974,Directorate of Health Services,Thiruvananthapuram,active,government,0.491,True,0.571
+U-0260,8,University of Kerala,https://ror.org/025y1an67,Kerala Museum,Ernakulam,active,archive,0.545,False,0.545
+U-0056,1,tezpur university,https://ror.org/005x56091,Tezpur University,Tezpur,active,education;funder,1.0,True,1.0
+U-0056,2,tezpur university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.812,False,0.812
+U-0056,3,tezpur university,https://ror.org/057ap5t09,RK University,Rajkot,active,education,0.8,False,0.8
+U-0056,4,tezpur university,https://ror.org/04hjsag95,JECRC University,Jaipur,active,education,0.788,False,0.788
+U-0056,5,tezpur university,https://ror.org/001x6y413,Palamuru University,Mahbūbnagar,active,education,0.778,False,0.778
+U-0056,6,tezpur university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.774,False,0.774
+U-0056,7,tezpur university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.765,False,0.765
+U-0056,8,tezpur university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.75,False,0.75
+U-0331,1,tata institute of social sciences,https://ror.org/05jte2q37,Tata Institute of Social Sciences,Mumbai,active,education;funder,1.0,True,1.0
+U-0331,2,tata institute of social sciences,https://ror.org/040f8w440,Institute of Social Sciences,Bengaluru,active,government,0.918,False,0.918
+U-0331,3,tata institute of social sciences,https://ror.org/03r2yny04,Kalinga Institute of Social Sciences,Bhubaneswar,active,education,0.899,False,0.899
+U-0331,4,tata institute of social sciences,https://ror.org/03ht1xw27,Tata Institute of Fundamental Research,Mumbai,active,education;funder,0.648,True,0.728
+U-0331,5,tata institute of social sciences,https://ror.org/00tqx3b24,Rajagiri College of Social Sciences (Autonomous),Kalamassery,active,education;funder,0.676,False,0.676
+U-0331,6,tata institute of social sciences,https://ror.org/03bwjzn34,Loyola College of Social Sciences,Thiruvananthapuram,active,education,0.667,False,0.667
+U-0331,7,tata institute of social sciences,https://ror.org/010842375,Tata Memorial Hospital,Mumbai,active,funder;healthcare,0.566,True,0.646
+U-0331,8,tata institute of social sciences,https://ror.org/01dagn361,TIFR Centre for Interdisciplinary Sciences,Hyderabad,active,facility,0.587,False,0.587
+U-0476,1,SASTRA Shanmugha Arts Science Technology Research Academy,https://ror.org/032jk8892,SASTRA University,Thanjavur,active,education;funder,0.901,True,0.981
+U-0476,2,SASTRA Shanmugha Arts Science Technology Research Academy,https://ror.org/03bzf1g85,"Vignan's Foundation for Science, Technology & Research",Guntur,active,education;funder,0.625,False,0.625
+U-0476,3,SASTRA Shanmugha Arts Science Technology Research Academy,https://ror.org/015t08553,KPR College of Arts Science and Research,Coimbatore,active,education,0.557,False,0.557
+U-0476,4,SASTRA Shanmugha Arts Science Technology Research Academy,https://ror.org/0488pbn92,Kongu Arts and Science College,Erode,active,education,0.483,False,0.483
+U-0476,5,SASTRA Shanmugha Arts Science Technology Research Academy,https://ror.org/04q2t0551,Nehru Arts and Science College,Coimbatore,active,education,0.483,False,0.483
+U-0476,6,SASTRA Shanmugha Arts Science Technology Research Academy,https://ror.org/020d1gt06,Annai Violet Arts and Science College,Chennai,active,education,0.468,False,0.468
+U-0476,7,SASTRA Shanmugha Arts Science Technology Research Academy,https://ror.org/01kkz4038,Kongunadu Arts and Science College,Coimbatore,active,education,0.462,False,0.462
+U-0476,8,SASTRA Shanmugha Arts Science Technology Research Academy,https://ror.org/05qmycx30,"Arts, Science and Commerce College, Varangaon",Varangaon,active,education,0.46,False,0.46
+X-0007,1,indian institute of management lucknow,https://ror.org/05gfjrx96,Indian Institute of Management Lucknow,Lucknow,active,education,1.0,True,1.0
+X-0007,2,indian institute of management lucknow,https://ror.org/02shpj718,Indian Institute of Management Jammu,Jammu,active,education,0.865,False,0.865
+X-0007,3,indian institute of management lucknow,https://ror.org/04etfv811,Indian Institute of Management Shillong,Shillong,active,education,0.857,False,0.857
+X-0007,4,indian institute of management lucknow,https://ror.org/02zhewk16,Indian Institute of Management Calcutta,Kolkata,active,education;funder,0.857,False,0.857
+X-0007,5,indian institute of management lucknow,https://ror.org/018gn0t60,Indian Institute of Management Rohtak,Rohtak,active,education,0.853,False,0.853
+X-0007,6,indian institute of management lucknow,https://ror.org/05t1d6r64,Indian Institute of Management Ranchi,Ranchi,active,education;funder,0.853,False,0.853
+X-0007,7,indian institute of management lucknow,https://ror.org/05vqbh574,Indian Institute of Management Raipur,Raipur,active,education,0.853,False,0.853
+X-0007,8,indian institute of management lucknow,https://ror.org/05q2acf12,Indian Institute of Management Mumbai,Mumbai,active,education;funder,0.853,False,0.853
+U-0377,1,indian institute of science education and research mohali,https://ror.org/01vztzd79,Indian Institute of Science Education and Research Mohali,Mohali,active,education;funder,1.0,True,1.0
+U-0377,2,indian institute of science education and research mohali,https://ror.org/02rb21j89,"Indian Institute of Science Education and Research, Bhopal",Bhopal,active,education;funder,0.947,False,0.947
+U-0377,3,indian institute of science education and research mohali,https://ror.org/00djv2c17,Indian Institute of Science Education and Research Kolkata,Kolkata,active,education;funder,0.922,False,0.922
+U-0377,4,indian institute of science education and research mohali,https://ror.org/032d0e990,"Indian Institute of Science Education and Research, Tirupati",Tirupati,active,education;funder,0.914,False,0.914
+U-0377,5,indian institute of science education and research mohali,https://ror.org/028qa3n13,Indian Institute of Science Education and Research Pune,Pune,active,education;funder,0.911,False,0.911
+U-0377,6,indian institute of science education and research mohali,https://ror.org/023vrr657,Indian Institute of Science Education and Research Berhampur,Brahmapur,active,education,0.906,False,0.906
+U-0377,7,indian institute of science education and research mohali,https://ror.org/02r2k1c68,National Institute of Science Education and Research,Bhubaneswar,active,education;funder,0.862,False,0.862
+U-0377,8,indian institute of science education and research mohali,https://ror.org/01pe3t004,Indian Institute of Science Education and Research Thiruvananthapuram,Thiruvananthapuram,active,education;funder,0.841,False,0.841
+U-0205,1,Indian Institute of Technology (Indian School of Mines) Dhanbad,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.768,True,0.848
+U-0205,2,Indian Institute of Technology (Indian School of Mines) Dhanbad,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.727,False,0.727
+U-0205,3,Indian Institute of Technology (Indian School of Mines) Dhanbad,https://ror.org/0264cg909,Indian Institute of Technology Palakkad,Palakkad,active,facility;funder,0.72,False,0.72
+U-0205,4,Indian Institute of Technology (Indian School of Mines) Dhanbad,https://ror.org/01j4v3x97,Indian Institute of Technology Hyderabad,Sangāreddi,active,education,0.713,False,0.713
+U-0205,5,Indian Institute of Technology (Indian School of Mines) Dhanbad,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.701,False,0.701
+U-0205,6,Indian Institute of Technology (Indian School of Mines) Dhanbad,https://ror.org/04gx72j20,Indian Institute of Technology Bhubaneswar,Bhubaneswar,active,education,0.699,False,0.699
+U-0205,7,Indian Institute of Technology (Indian School of Mines) Dhanbad,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.694,False,0.694
+U-0205,8,Indian Institute of Technology (Indian School of Mines) Dhanbad,https://ror.org/03yacj906,Indian Institute of Technology Jodhpur,Jodhpur,active,education,0.687,False,0.687
+U-0078,1,panjab university,https://ror.org/04p2sbk06,Panjab University,Chandigarh,active,education;funder,1.0,True,1.0
+U-0078,2,panjab university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.812,False,0.812
+U-0078,3,panjab university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.8,False,0.8
+U-0078,4,panjab university,https://ror.org/001x6y413,Palamuru University,Mahbūbnagar,active,education,0.778,False,0.778
+U-0078,5,panjab university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.774,False,0.774
+U-0078,6,panjab university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.765,False,0.765
+U-0078,7,panjab university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.765,False,0.765
+U-0078,8,panjab university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.75,False,0.75
+U-0473,1,SRM Institute of Science and Technology,https://ror.org/050113w36,SRM Institute of Science and Technology,Chennai,active,education,1.0,True,1.0
+U-0473,2,SRM Institute of Science and Technology,https://ror.org/04yazpn06,Bharath University,Chennai,active,education;funder,0.902,True,0.982
+U-0473,3,SRM Institute of Science and Technology,https://ror.org/01defpn95,Sathyabama Institute of Science and Technology,Chennai,active,education,0.894,True,0.974
+U-0473,4,SRM Institute of Science and Technology,https://ror.org/053v3sh50,Jorhat Institute of Science and Technology,Jorhat,active,education,0.914,False,0.914
+U-0473,5,SRM Institute of Science and Technology,https://ror.org/00jz67x08,Federal Institute of Science and Technology,Angamāli,active,education,0.902,False,0.902
+U-0473,6,SRM Institute of Science and Technology,https://ror.org/04xs1rp67,Institute of Wood Science and Technology,Bengaluru,active,facility,0.886,False,0.886
+U-0473,7,SRM Institute of Science and Technology,https://ror.org/02s7j7z43,Institute of Nano Science and Technology,Mohali,active,facility;funder,0.886,False,0.886
+U-0473,8,SRM Institute of Science and Technology,https://ror.org/02p8nt844,North East Institute of Science and Technology,Jorhat,active,facility,0.871,False,0.871
+X-0010,1,indian institute of space science and technology,https://ror.org/05k37ht14,Indian Institute of Space Science and Technology,Thiruvananthapuram,active,education;funder,1.0,True,1.0
+X-0010,2,indian institute of space science and technology,https://ror.org/02ytfzr55,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,active,education;funder,0.8,False,0.8
+X-0010,3,indian institute of space science and technology,https://ror.org/0101xrq71,Department of Science and Technology,New Delhi,active,funder;government,0.769,False,0.769
+X-0010,4,indian institute of space science and technology,https://ror.org/04dese585,Indian Institute of Science Bangalore,Bengaluru,active,education;funder,0.753,False,0.753
+X-0010,5,indian institute of space science and technology,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.732,False,0.732
+X-0010,6,indian institute of space science and technology,https://ror.org/05j873a45,Indian Institute of Soil Science,Bhopal,active,facility,0.725,False,0.725
+X-0010,7,indian institute of space science and technology,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.714,False,0.714
+X-0010,8,indian institute of space science and technology,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.714,False,0.714
+U-0235,1,University of Mysore,https://ror.org/012bxv356,University of Mysore,Mysuru,active,education;funder,1.0,True,1.0
+U-0235,2,University of Mysore,https://ror.org/00582g326,Indian Institute of Technology Roorkee,Roorkee,active,education;funder,0.829,False,0.829
+U-0235,3,University of Mysore,https://ror.org/01eg6e534,Raj Rishi Bhartrihari Matsya University,Alwar,active,education,0.8,False,0.8
+U-0235,4,University of Mysore,https://ror.org/04jmt9361,University of Madras,Chennai,active,education;funder,0.8,False,0.8
+U-0235,5,University of Mysore,https://ror.org/04r5d0y92,University of Kota,Kota,active,education,0.789,False,0.789
+U-0235,6,University of Mysore,https://ror.org/032xfst36,University of Kashmir,Srinagar,active,education,0.78,False,0.78
+U-0235,7,University of Mysore,https://ror.org/03sz2k744,"National Law University, Delhi",New Delhi,active,education,0.757,False,0.757
+U-0235,8,University of Mysore,https://ror.org/04a7rxb17,University of Hyderabad,Hyderabad,active,education;funder,0.744,False,0.744
+X-0013,1,National Institute of Pharmaceutical Education and Research Hyderabad,https://ror.org/040dgqr26,National Institute of Pharmaceutical Education and Research,Hyderabad,active,education,0.922,True,1.0
+X-0013,2,National Institute of Pharmaceutical Education and Research Hyderabad,https://ror.org/01dphnv87,National Institute of Pharmaceutical Education and Research - Ahmedabad,Ahmedabad,active,government,0.957,False,0.957
+X-0013,3,National Institute of Pharmaceutical Education and Research Hyderabad,https://ror.org/025qtp564,National Institute of Pharmaceutical Education and Research,Raebareli,active,education;funder,0.922,False,0.922
+X-0013,4,National Institute of Pharmaceutical Education and Research Hyderabad,https://ror.org/04p9b6182,National Institute of Pharmaceutical Education and Research,Guwahati,active,education,0.922,False,0.922
+X-0013,5,National Institute of Pharmaceutical Education and Research Hyderabad,https://ror.org/04t67vr60,National Institute of Pharmaceutical Education and Research,Kolkata,active,education;funder,0.922,False,0.922
+X-0013,6,National Institute of Pharmaceutical Education and Research Hyderabad,https://ror.org/011npsm46,National Institute of Pharmaceutical Education and Research,Hājīpur,active,education,0.922,False,0.922
+X-0013,7,National Institute of Pharmaceutical Education and Research Hyderabad,https://ror.org/0418yqg16,National Institute of Pharmaceutical Education and Research,Mohali,active,government,0.922,False,0.922
+X-0013,8,National Institute of Pharmaceutical Education and Research Hyderabad,https://ror.org/02r2k1c68,National Institute of Science Education and Research,Bhubaneswar,active,education;funder,0.777,False,0.777
+U-0369,1,pondicherry university,https://ror.org/01a3mef16,Pondicherry University,Puducherry,active,education,1.0,True,1.0
+U-0369,2,pondicherry university,https://ror.org/01w2xgk13,Puducherry Technological University,Puducherry,active,education,0.667,True,0.747
+U-0369,3,pondicherry university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.737,False,0.737
+U-0369,4,pondicherry university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.722,False,0.722
+U-0369,5,pondicherry university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.703,False,0.703
+U-0369,6,pondicherry university,https://ror.org/04hjsag95,JECRC University,Jaipur,active,education,0.684,False,0.684
+U-0369,7,pondicherry university,https://ror.org/04zxaa490,Invertis University,Bareilly,active,education,0.683,False,0.683
+U-0369,8,pondicherry university,https://ror.org/03y1hrs26,Kolhan University,Chāībāsa,active,education,0.667,False,0.667
+U-0487,1,tamil nadu veterinary and animal sciences university,https://ror.org/04waphv22,Tamil Nadu Veterinary and Animal Sciences University,Chennai,active,education,1.0,True,1.0
+U-0487,2,tamil nadu veterinary and animal sciences university,https://ror.org/00rf3br26,Kerala Veterinary and Animal Sciences University,Kalpatta,active,education,0.9,False,0.9
+U-0487,3,tamil nadu veterinary and animal sciences university,https://ror.org/00bbeqy02,Guru Angad Dev Veterinary and Animal Sciences University,Ludhiana,active,education;funder,0.852,False,0.852
+U-0487,4,tamil nadu veterinary and animal sciences university,https://ror.org/036p1cm16,Karnataka Veterinary Animal and Fisheries Sciences University,Bidar,active,education,0.726,False,0.726
+U-0487,5,tamil nadu veterinary and animal sciences university,https://ror.org/01w0v6m22,Tamil Nadu Physical Education and Sports University,Chennai,active,education,0.641,True,0.721
+U-0487,6,tamil nadu veterinary and animal sciences university,https://ror.org/013aqa754,Tamil Nadu Open University,Chennai,active,education,0.615,True,0.695
+U-0487,7,tamil nadu veterinary and animal sciences university,https://ror.org/011x6fh62,Tamil Nadu Dr. Ambedkar Law University,Chennai,active,education,0.607,True,0.687
+U-0487,8,tamil nadu veterinary and animal sciences university,https://ror.org/007qxz427,Tamil Nadu Teachers Education University,Chennai,active,education,0.587,True,0.667
+I-1486,1,sri ramachandra institute of higher education and research,https://ror.org/0108gdg43,Sri Ramachandra Institute of Higher Education and Research,Porur,active,education;funder,1.0,False,1.0
+I-1486,2,sri ramachandra institute of higher education and research,https://ror.org/04yazpn06,Bharath University,Chennai,active,education;funder,0.852,True,0.932
+I-1486,3,sri ramachandra institute of higher education and research,https://ror.org/05pq0wd90,St. Peter's Institute of Higher Education and Research,Chennai,active,education,0.829,True,0.909
+I-1486,4,sri ramachandra institute of higher education and research,https://ror.org/04jdy5g59,Meenakshi Academy of Higher Education and Research,Chennai,active,education,0.759,True,0.839
+I-1486,5,sri ramachandra institute of higher education and research,https://ror.org/02w7k5y22,Datta Meghe Institute of Higher Education and Research,Wardha,active,education;funder,0.821,False,0.821
+I-1486,6,sri ramachandra institute of higher education and research,https://ror.org/013x70191,JSS Academy of Higher Education and Research,Mysuru,active,education,0.784,False,0.784
+I-1486,7,sri ramachandra institute of higher education and research,https://ror.org/0444zqa87,Sri Devaraj Urs Academy of Higher Education and Research,Kolār,active,education,0.772,False,0.772
+I-1486,8,sri ramachandra institute of higher education and research,https://ror.org/03aam9155,KLE Academy of Higher Education and Research,Belagavi,active,education,0.765,False,0.765
+U-0123,1,anand agricultural university,https://ror.org/050qxn185,Anand Agricultural University,Anand,active,education;funder,1.0,True,1.0
+U-0123,2,anand agricultural university,https://ror.org/05836pk12,Assam Agricultural University,Jorhat,active,education;funder,0.897,False,0.897
+U-0123,3,anand agricultural university,https://ror.org/0056jkv70,Dr. Rajendra Prasad Central Agriculture University,Samāstipur,active,education,0.885,False,0.885
+U-0123,4,anand agricultural university,https://ror.org/04mgf6n79,Junagadh Agricultural University,Jūnāgadh,active,education,0.885,False,0.885
+U-0123,5,anand agricultural university,https://ror.org/01n83er02,Kerala Agricultural University,Thrissur,active,education;funder,0.881,False,0.881
+U-0123,6,anand agricultural university,https://ror.org/026zmgd62,Navsari Agricultural University,Surat,active,education;funder,0.867,False,0.867
+U-0123,7,anand agricultural university,https://ror.org/03a7ksb41,Birsa Agricultural University,Ranchi,active,education,0.862,False,0.862
+U-0123,8,anand agricultural university,https://ror.org/0531dpd42,Bihar Agricultural University,Sabaur,active,education;funder,0.862,False,0.862
+X-0009,1,indian institute of management udaipur,https://ror.org/001xs0312,Indian Institute of Management Udaipur,Udaipur,active,education,1.0,True,1.0
+X-0009,2,indian institute of management udaipur,https://ror.org/05vqbh574,Indian Institute of Management Raipur,Raipur,active,education,0.96,False,0.96
+X-0009,3,indian institute of management udaipur,https://ror.org/0039tsz33,Indian Institute of Management Kashipur,Kashipur,active,education,0.935,False,0.935
+X-0009,4,indian institute of management udaipur,https://ror.org/05q2acf12,Indian Institute of Management Mumbai,Mumbai,active,education;funder,0.907,False,0.907
+X-0009,5,indian institute of management udaipur,https://ror.org/008ztmr80,Indian Institute of Management Sambalpur,Sambalpur,active,education,0.897,False,0.897
+X-0009,6,indian institute of management udaipur,https://ror.org/02nthw835,Indian Institute of Management Amritsar,Amritsar,active,education,0.883,False,0.883
+X-0009,7,indian institute of management udaipur,https://ror.org/05t1d6r64,Indian Institute of Management Ranchi,Ranchi,active,education;funder,0.88,False,0.88
+X-0009,8,indian institute of management udaipur,https://ror.org/02j8pmw82,Indian Institute of Management Indore,Indore,active,education,0.88,False,0.88
+I-1357,1,university of madras,https://ror.org/04jmt9361,University of Madras,Chennai,active,education;funder,1.0,True,1.0
+I-1357,2,university of madras,https://ror.org/01eg6e534,Raj Rishi Bhartrihari Matsya University,Alwar,active,education,0.85,False,0.85
+I-1357,3,university of madras,https://ror.org/03sz2k744,"National Law University, Delhi",New Delhi,active,education,0.811,False,0.811
+I-1357,4,university of madras,https://ror.org/04r5d0y92,University of Kota,Kota,active,education,0.789,False,0.789
+I-1357,5,university of madras,https://ror.org/05xqycm14,Tripura University,Agartala,active,education,0.78,False,0.78
+I-1357,6,university of madras,https://ror.org/00z10e966,Mohanlal Sukhadia University,Udaipur,active,education,0.78,False,0.78
+I-1357,7,university of madras,https://ror.org/032kth403,Rani Durgavati University,Jabalpur,active,education,0.762,False,0.762
+I-1357,8,university of madras,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.667,True,0.747
+U-0237,1,National Institute of Technology Karnataka,https://ror.org/01hz4v948,National Institute of Technology Karnataka,Mangaluru,active,education;funder,1.0,False,1.0
+U-0237,2,National Institute of Technology Karnataka,https://ror.org/03swyrn62,National Institute of Technology Agartala,Agartala,active,education;funder,0.916,False,0.916
+U-0237,3,National Institute of Technology Karnataka,https://ror.org/04cbvzp68,National Institute of Technology Nagaland,Dimāpur,active,education,0.892,False,0.892
+U-0237,4,National Institute of Technology Karnataka,https://ror.org/017ebfz38,National Institute of Technology Warangal,Warangal,active,education;funder,0.892,False,0.892
+U-0237,5,National Institute of Technology Karnataka,https://ror.org/05pet6f20,National Institute of Technology Uttarakhand,Srinagar,active,education,0.884,False,0.884
+U-0237,6,National Institute of Technology Karnataka,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.872,False,0.872
+U-0237,7,National Institute of Technology Karnataka,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.865,False,0.865
+U-0237,8,National Institute of Technology Karnataka,https://ror.org/00aazk693,National Institute of Technology Manipur,Imphal,active,education,0.854,False,0.854
+U-0355,1,indian institute of technology bhubaneswar,https://ror.org/04gx72j20,Indian Institute of Technology Bhubaneswar,Bhubaneswar,active,education,1.0,True,1.0
+U-0355,2,indian institute of technology bhubaneswar,https://ror.org/01kh5gc44,Indian Institute of Technology BHU,Varanasi,active,education;funder,0.895,False,0.895
+U-0355,3,indian institute of technology bhubaneswar,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.875,False,0.875
+U-0355,4,indian institute of technology bhubaneswar,https://ror.org/02sscsx71,Indian Institute of Technology Bhilai,Bhilai,active,education;funder,0.861,False,0.861
+U-0355,5,indian institute of technology bhubaneswar,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,0.861,False,0.861
+U-0355,6,indian institute of technology bhubaneswar,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.85,False,0.85
+U-0355,7,indian institute of technology bhubaneswar,https://ror.org/03yacj906,Indian Institute of Technology Jodhpur,Jodhpur,active,education,0.85,False,0.85
+U-0355,8,indian institute of technology bhubaneswar,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.846,False,0.846
+X-0008,1,indian institute of management tiruchirappalli,https://ror.org/052vdrx60,Indian Institute of Management Tiruchirappalli,Tiruchchirappalli,active,education,1.0,False,1.0
+X-0008,2,indian institute of management tiruchirappalli,https://ror.org/04etfv811,Indian Institute of Management Shillong,Shillong,active,education,0.824,False,0.824
+X-0008,3,indian institute of management tiruchirappalli,https://ror.org/05vqbh574,Indian Institute of Management Raipur,Raipur,active,education,0.819,False,0.819
+X-0008,4,indian institute of management tiruchirappalli,https://ror.org/0039tsz33,Indian Institute of Management Kashipur,Kashipur,active,education,0.8,False,0.8
+X-0008,5,indian institute of management tiruchirappalli,https://ror.org/05v3hkt95,Indian Institute of Management Visakhapatnam,Visakhapatnam,active,education,0.8,False,0.8
+X-0008,6,indian institute of management tiruchirappalli,https://ror.org/02zhewk16,Indian Institute of Management Calcutta,Kolkata,active,education;funder,0.8,False,0.8
+X-0008,7,indian institute of management tiruchirappalli,https://ror.org/018gn0t60,Indian Institute of Management Rohtak,Rohtak,active,education,0.795,False,0.795
+X-0008,8,indian institute of management tiruchirappalli,https://ror.org/02j8pmw82,Indian Institute of Management Indore,Indore,active,education,0.795,False,0.795
+U-0037,1,sri venkateswara university,https://ror.org/05weahn72,Sri Venkateswara University,Tirupati,active,education;funder,1.0,True,1.0
+U-0037,2,sri venkateswara university,https://ror.org/00aw48305,Sri Venkateswara Veterinary University,Tirupati,active,education,0.831,True,0.911
+U-0037,3,sri venkateswara university,https://ror.org/02zptxe07,Sri Padmavati Mahila Visvavidyalayam,Tirupati,active,education,0.706,True,0.786
+U-0037,4,sri venkateswara university,https://ror.org/03qpz0718,Sri Sri University,Cuttack,active,education,0.756,False,0.756
+U-0037,5,sri venkateswara university,https://ror.org/05arzt710,Sri Sathya Sai Institute of Higher Learning,Puttaparthi,active,education,0.731,False,0.731
+U-0037,6,sri venkateswara university,https://ror.org/00cqv5s75,Sri Venkateswara Medical College and Ruia Hospital,Tirupati,active,healthcare,0.644,True,0.724
+U-0037,7,sri venkateswara university,https://ror.org/0444zqa87,Sri Devaraj Urs Academy of Higher Education and Research,Kolār,active,education,0.717,False,0.717
+U-0037,8,sri venkateswara university,https://ror.org/01mkm2y61,Sri Sai University,Pathankot,active,education,0.711,False,0.711
+U-0006,1,Andhra University,https://ror.org/049skhf47,Andhra University,Visakhapatnam,active,education,1.0,True,1.0
+U-0006,2,Andhra University,https://ror.org/003fzrr52,Andhra Kesari University,Ongole,active,education,0.829,False,0.829
+U-0006,3,Andhra University,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.812,False,0.812
+U-0006,4,Andhra University,https://ror.org/03y1hrs26,Kolhan University,Chāībāsa,active,education,0.765,False,0.765
+U-0006,5,Andhra University,https://ror.org/00vadgf54,Kaziranga University,Jorhāt,active,education,0.757,False,0.757
+U-0006,6,Andhra University,https://ror.org/02j3w7f30,Madhya Pradesh Bhoj Open University,Bhopal,active,education,0.75,False,0.75
+U-0006,7,Andhra University,https://ror.org/04zxaa490,Invertis University,Bareilly,active,education,0.722,False,0.722
+U-0006,8,Andhra University,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.71,False,0.71
+U-0701,1,indian institute of technology (banaras hindu university) varanasi,https://ror.org/01kh5gc44,Indian Institute of Technology BHU,Varanasi,active,education;funder,1.0,True,1.0
+U-0701,2,indian institute of technology (banaras hindu university) varanasi,https://ror.org/0036p5w23,Indian Institute of Technology Gandhinagar,Gandhinagar,active,education;funder,0.717,False,0.717
+U-0701,3,indian institute of technology (banaras hindu university) varanasi,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,active,education;funder,0.693,False,0.693
+U-0701,4,indian institute of technology (banaras hindu university) varanasi,https://ror.org/02sscsx71,Indian Institute of Technology Bhilai,Bhilai,active,education;funder,0.693,False,0.693
+U-0701,5,indian institute of technology (banaras hindu university) varanasi,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.686,False,0.686
+U-0701,6,indian institute of technology (banaras hindu university) varanasi,https://ror.org/0264cg909,Indian Institute of Technology Palakkad,Palakkad,active,facility;funder,0.68,False,0.68
+U-0701,7,indian institute of technology (banaras hindu university) varanasi,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.68,False,0.68
+U-0701,8,indian institute of technology (banaras hindu university) varanasi,https://ror.org/04gx72j20,Indian Institute of Technology Bhubaneswar,Bhubaneswar,active,education,0.679,False,0.679
+X-0006,1,indian institute of management kashipur,https://ror.org/0039tsz33,Indian Institute of Management Kashipur,Kashipur,active,education,1.0,True,1.0
+X-0006,2,indian institute of management kashipur,https://ror.org/05vqbh574,Indian Institute of Management Raipur,Raipur,active,education,0.947,False,0.947
+X-0006,3,indian institute of management kashipur,https://ror.org/001xs0312,Indian Institute of Management Udaipur,Udaipur,active,education,0.935,False,0.935
+X-0006,4,indian institute of management kashipur,https://ror.org/05t1d6r64,Indian Institute of Management Ranchi,Ranchi,active,education;funder,0.895,False,0.895
+X-0006,5,indian institute of management kashipur,https://ror.org/008ztmr80,Indian Institute of Management Sambalpur,Sambalpur,active,education,0.886,False,0.886
+X-0006,6,indian institute of management kashipur,https://ror.org/02shpj718,Indian Institute of Management Jammu,Jammu,active,education,0.88,False,0.88
+X-0006,7,indian institute of management kashipur,https://ror.org/04etfv811,Indian Institute of Management Shillong,Shillong,active,education,0.872,False,0.872
+X-0006,8,indian institute of management kashipur,https://ror.org/02nthw835,Indian Institute of Management Amritsar,Amritsar,active,education,0.872,False,0.872
+U-0474,1,sathyabama institute of science and technology,https://ror.org/01defpn95,Sathyabama Institute of Science and Technology,Chennai,active,education,1.0,True,1.0
+U-0474,2,sathyabama institute of science and technology,https://ror.org/050113w36,SRM Institute of Science and Technology,Chennai,active,education,0.894,True,0.974
+U-0474,3,sathyabama institute of science and technology,https://ror.org/04yazpn06,Bharath University,Chennai,active,education;funder,0.876,True,0.956
+U-0474,4,sathyabama institute of science and technology,https://ror.org/01150px97,National Institute of Science and Technology,Brahmapur,active,education,0.867,False,0.867
+U-0474,5,sathyabama institute of science and technology,https://ror.org/053v3sh50,Jorhat Institute of Science and Technology,Jorhat,active,education,0.864,False,0.864
+U-0474,6,sathyabama institute of science and technology,https://ror.org/02p8nt844,North East Institute of Science and Technology,Jorhat,active,facility,0.848,False,0.848
+U-0474,7,sathyabama institute of science and technology,https://ror.org/00jffx511,PRIST University,Vallam,active,education,0.832,False,0.832
+U-0474,8,sathyabama institute of science and technology,https://ror.org/00jz67x08,Federal Institute of Science and Technology,Angamāli,active,education,0.831,False,0.831
+U-0584,1,indian institute of engineering science and technology shibpur,https://ror.org/02ytfzr55,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,active,education;funder,1.0,True,1.0
+U-0584,2,indian institute of engineering science and technology shibpur,https://ror.org/05k37ht14,Indian Institute of Space Science and Technology,Thiruvananthapuram,active,education;funder,0.8,False,0.8
+U-0584,3,indian institute of engineering science and technology shibpur,https://ror.org/04aymkn24,Institute of Engineering & Technology,Alwar,active,education,0.772,False,0.772
+U-0584,4,indian institute of engineering science and technology shibpur,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,0.687,False,0.687
+U-0584,5,indian institute of engineering science and technology shibpur,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.673,False,0.673
+U-0584,6,indian institute of engineering science and technology shibpur,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.673,False,0.673
+U-0584,7,indian institute of engineering science and technology shibpur,https://ror.org/0101xrq71,Department of Science and Technology,New Delhi,active,funder;government,0.667,False,0.667
+U-0584,8,indian institute of engineering science and technology shibpur,https://ror.org/04dese585,Indian Institute of Science Bangalore,Bengaluru,active,education;funder,0.667,False,0.667
+U-0222,1,jss academy of higher education and research,https://ror.org/013x70191,JSS Academy of Higher Education and Research,Mysuru,active,education,1.0,True,1.0
+U-0222,2,jss academy of higher education and research,https://ror.org/03aam9155,KLE Academy of Higher Education and Research,Belagavi,active,education,0.932,False,0.932
+U-0222,3,jss academy of higher education and research,https://ror.org/04jdy5g59,Meenakshi Academy of Higher Education and Research,Chennai,active,education,0.894,False,0.894
+U-0222,4,jss academy of higher education and research,https://ror.org/0444zqa87,Sri Devaraj Urs Academy of Higher Education and Research,Kolār,active,education,0.86,False,0.86
+U-0222,5,jss academy of higher education and research,https://ror.org/0108gdg43,Sri Ramachandra Institute of Higher Education and Research,Porur,active,education;funder,0.784,False,0.784
+U-0222,6,jss academy of higher education and research,https://ror.org/03b1z9e58,Academy of Continuing Medical Education & Research,Pune,active,nonprofit,0.771,False,0.771
+U-0222,7,jss academy of higher education and research,https://ror.org/05pq0wd90,St. Peter's Institute of Higher Education and Research,Chennai,active,education,0.763,False,0.763
+U-0222,8,jss academy of higher education and research,https://ror.org/04yazpn06,Bharath University,Chennai,active,education;funder,0.745,False,0.745
+I-1480,1,Thapar Institute of Engineering and Technology,https://ror.org/00wdq3744,Thapar Institute of Engineering & Technology,Patiāla,active,education;funder,1.0,True,1.0
+I-1480,2,Thapar Institute of Engineering and Technology,https://ror.org/02q9f3a53,KPR Institute of Engineering and Technology,Coimbatore,active,education,0.944,False,0.944
+I-1480,3,Thapar Institute of Engineering and Technology,https://ror.org/05nctj763,Sri Indu Institute of Engineering and Technology,Seriguda,active,education,0.921,False,0.921
+I-1480,4,Thapar Institute of Engineering and Technology,https://ror.org/04aymkn24,Institute of Engineering & Technology,Alwar,active,education,0.918,False,0.918
+I-1480,5,Thapar Institute of Engineering and Technology,https://ror.org/05ddbg479,Bapuji Institute of Engineering and Technology,Davangere,active,education,0.913,False,0.913
+I-1480,6,Thapar Institute of Engineering and Technology,https://ror.org/040jmyh64,"Jaypee University of Engineering and Technology, Guna",Guna,active,education,0.913,False,0.913
+I-1480,7,Thapar Institute of Engineering and Technology,https://ror.org/02cbxrw95,"Bansal Institute of Engineering And Technology, Lucknow",Lucknow,active,education,0.913,False,0.913
+I-1480,8,Thapar Institute of Engineering and Technology,https://ror.org/008128n17,COEP Technological University,Pune,active,education,0.911,False,0.911
+I-1110,1,Dr. D. Y. Patil Vidyapeeth Pune,https://ror.org/00s2qq515,"Dr. D.Y. Patil Vidyapeeth, Pune",Pune,active,education,1.0,True,1.0
+I-1110,2,Dr. D. Y. Patil Vidyapeeth Pune,https://ror.org/05tjdxm47,Dnyaan Prasad Global University,Pune,active,education,0.656,True,0.736
+I-1110,3,Dr. D. Y. Patil Vidyapeeth Pune,https://ror.org/04t7c7a05,Dr. D. Y. Patil B-School,Pune,active,education,0.571,True,0.651
+I-1110,4,Dr. D. Y. Patil Vidyapeeth Pune,https://ror.org/0116dk457,D Y Patil International University,Pune,active,education,0.548,True,0.628
+I-1110,5,Dr. D. Y. Patil Vidyapeeth Pune,https://ror.org/022mqmm07,Dr DY Patil School of Management,Pune,active,education,0.533,True,0.613
+I-1110,6,Dr. D. Y. Patil Vidyapeeth Pune,https://ror.org/02mpq1w39,Suamandeep Vidyapeeth University,Vadodara,active,education,0.567,False,0.567
+I-1110,7,Dr. D. Y. Patil Vidyapeeth Pune,https://ror.org/0088h4061,"Dr. D. Y. Patil Medical College, Hospital and Research Centre",Pune,active,healthcare,0.471,True,0.551
+I-1110,8,Dr. D. Y. Patil Vidyapeeth Pune,https://ror.org/05sj18h57,Vishwakarma Institute of Technology,Pune,active,education,0.444,True,0.524
+U-0341,1,north eastern hill university,https://ror.org/055m2tx54,North Eastern Hill University,Shillong,active,education;funder,1.0,True,1.0
+U-0341,2,north eastern hill university,https://ror.org/039w8qr24,North Bengal University,Siliguri,active,education;funder,0.769,False,0.769
+U-0341,3,north eastern hill university,https://ror.org/01bb4h160,Graphic Era Hill University,Dehradun,active,education,0.75,False,0.75
+U-0341,4,north eastern hill university,https://ror.org/04g7tnd56,Kavayitri Bahinabai Chaudhari North Maharashtra University,Jalgaon,active,education;funder,0.737,False,0.737
+U-0341,5,north eastern hill university,https://ror.org/026hc8342,North Lakhimpur University,North Lakhimpur,active,education,0.727,False,0.727
+U-0341,6,north eastern hill university,https://ror.org/02c8fr539,North Bengal Agricultural University,Koch Bihār,active,education,0.677,False,0.677
+U-0341,7,north eastern hill university,https://ror.org/01vf11073,Bengaluru North University,Kolār,active,education,0.655,False,0.655
+U-0341,8,north eastern hill university,https://ror.org/03tdar888,North Eastern Space Applications Centre,Shillong,active,facility,0.529,True,0.609
+U-0139,1,indian institute of technology gandhinagar,https://ror.org/0036p5w23,Indian Institute of Technology Gandhinagar,Gandhinagar,active,education;funder,1.0,True,1.0
+U-0139,2,indian institute of technology gandhinagar,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.897,False,0.897
+U-0139,3,indian institute of technology gandhinagar,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.875,False,0.875
+U-0139,4,indian institute of technology gandhinagar,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.872,False,0.872
+U-0139,5,indian institute of technology gandhinagar,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.868,False,0.868
+U-0139,6,indian institute of technology gandhinagar,https://ror.org/0022nd079,Indian Institute of Technology Guwahati,Guwahati,active,education;funder,0.864,False,0.864
+U-0139,7,indian institute of technology gandhinagar,https://ror.org/0592ben86,Indian Institute of Public Health Gandhinagar,Gandhinagar,active,education,0.782,True,0.862
+U-0139,8,indian institute of technology gandhinagar,https://ror.org/02sscsx71,Indian Institute of Technology Bhilai,Bhilai,active,education;funder,0.861,False,0.861
+U-0356,1,kalinga institute of industrial technology,https://ror.org/00k8zt527,KIIT University,Bhubaneswar,active,education;funder,1.0,True,1.0
+U-0356,2,kalinga institute of industrial technology,https://ror.org/03r2yny04,Kalinga Institute of Social Sciences,Bhubaneswar,active,education,0.718,True,0.798
+U-0356,3,kalinga institute of industrial technology,https://ror.org/04p22jz17,Adithya Institute of Technology,Coimbatore,active,education,0.74,False,0.74
+U-0356,4,kalinga institute of industrial technology,https://ror.org/02bktye12,Kammavari Sangham Institute of Technology,Bengaluru,active,education,0.735,False,0.735
+U-0356,5,kalinga institute of industrial technology,https://ror.org/00j3qc684,Ansal University,Gurugram,active,education,0.732,False,0.732
+U-0356,6,kalinga institute of industrial technology,https://ror.org/03rxvm679,GMR Institute of Technology,Rāzām,active,education,0.725,False,0.725
+U-0356,7,kalinga institute of industrial technology,https://ror.org/00j0x4512,T.K.M Institute of Technology,Kollam,active,education,0.725,False,0.725
+U-0356,8,kalinga institute of industrial technology,https://ror.org/04ytecw04,KLS Gogte Institute of Technology,Belagavi,active,education,0.72,False,0.72
+C-16604,1,sri sivasubramaniya nadar college of engineering,https://ror.org/054psm803,Sri Sivasubramaniya Nadar College of Engineering,Chennai,active,education;funder,1.0,False,1.0
+C-16604,2,sri sivasubramaniya nadar college of engineering,https://ror.org/01vv1bg04,Sri Sairam College of Engineering,Bengaluru,active,education,0.79,False,0.79
+C-16604,3,sri sivasubramaniya nadar college of engineering,https://ror.org/02f1z8215,Sri Eshwar College of Engineering,Coimbatore,active,education,0.741,False,0.741
+C-16604,4,sri sivasubramaniya nadar college of engineering,https://ror.org/04m245a70,Sri Venkateswara College of Engineering Tirupati,Tirupati,active,education,0.703,False,0.703
+C-16604,5,sri sivasubramaniya nadar college of engineering,https://ror.org/01sqena74,SSN Educational and Charitable Trust,Chennai,active,education;funder,0.684,False,0.684
+C-16604,6,sri sivasubramaniya nadar college of engineering,https://ror.org/00x0wf196,Sri Raaja Raajan College of Engineering and Technology,Karaikudi,active,education,0.608,False,0.608
+C-16604,7,sri sivasubramaniya nadar college of engineering,https://ror.org/04j7tf635,Sri Sarada College of Education (Autonomous),Salem,active,education,0.608,False,0.608
+C-16604,8,sri sivasubramaniya nadar college of engineering,https://ror.org/055jwev93,Sri Venkatesa Perumal College of Engineering and Technology,Puttūr,active,education,0.598,False,0.598
+X-0002,1,guru angad dev veterinary and animal sciences university,https://ror.org/00bbeqy02,Guru Angad Dev Veterinary and Animal Sciences University,Ludhiana,active,education;funder,1.0,True,1.0
+X-0002,2,guru angad dev veterinary and animal sciences university,https://ror.org/00rf3br26,Kerala Veterinary and Animal Sciences University,Kalpatta,active,education,0.865,False,0.865
+X-0002,3,guru angad dev veterinary and animal sciences university,https://ror.org/04waphv22,Tamil Nadu Veterinary and Animal Sciences University,Chennai,active,education,0.852,False,0.852
+X-0002,4,guru angad dev veterinary and animal sciences university,https://ror.org/036p1cm16,Karnataka Veterinary Animal and Fisheries Sciences University,Bidar,active,education,0.701,False,0.701
+X-0002,5,guru angad dev veterinary and animal sciences university,https://ror.org/03jjxkw75,Rajasthan University of Veterinary and Animal Sciences,Bikaner,active,education,0.655,False,0.655
+X-0002,6,guru angad dev veterinary and animal sciences university,https://ror.org/0352b7b72,Veterinary & Animal Husbandry,Kohima,active,government,0.598,False,0.598
+X-0002,7,guru angad dev veterinary and animal sciences university,https://ror.org/02d10f818,Lala Lajpat Rai University of Veterinary and Animal Sciences,Hisar,active,education,0.586,False,0.586
+X-0002,8,guru angad dev veterinary and animal sciences university,https://ror.org/034h2va53,Maharashtra Animal and Fishery Sciences University,Nagpur,active,education,0.585,False,0.585
+U-0025,1,national institute of technology warangal,https://ror.org/017ebfz38,National Institute of Technology Warangal,Warangal,active,education;funder,1.0,True,1.0
+U-0025,2,national institute of technology warangal,https://ror.org/04cbvzp68,National Institute of Technology Nagaland,Dimāpur,active,education,0.902,False,0.902
+U-0025,3,national institute of technology warangal,https://ror.org/03swyrn62,National Institute of Technology Agartala,Agartala,active,education;funder,0.902,False,0.902
+U-0025,4,national institute of technology warangal,https://ror.org/01hz4v948,National Institute of Technology Karnataka,Mangaluru,active,education;funder,0.892,False,0.892
+U-0025,5,national institute of technology warangal,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.883,False,0.883
+U-0025,6,national institute of technology warangal,https://ror.org/04ds0jm32,National Institute of Technology Durgapur,Durgapur,active,education;funder,0.878,False,0.878
+U-0025,7,national institute of technology warangal,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.877,False,0.877
+U-0025,8,national institute of technology warangal,https://ror.org/02y553197,National Institute of Technology Raipur,Raipur,active,education;funder,0.875,False,0.875
+U-0064,1,indian institute of technology patna,https://ror.org/01ft5vz71,Indian Institute of Technology Patna,Patna,active,education;funder,1.0,True,1.0
+U-0064,2,indian institute of technology patna,https://ror.org/056wyhh33,National Institute of Technology Patna,Patna,active,education,0.892,True,0.972
+U-0064,3,indian institute of technology patna,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,active,education;funder,0.919,False,0.919
+U-0064,4,indian institute of technology patna,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.917,False,0.917
+U-0064,5,indian institute of technology patna,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.917,False,0.917
+U-0064,6,indian institute of technology patna,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.914,False,0.914
+U-0064,7,indian institute of technology patna,https://ror.org/0264cg909,Indian Institute of Technology Palakkad,Palakkad,active,facility;funder,0.907,False,0.907
+U-0064,8,indian institute of technology patna,https://ror.org/01xtkxh20,Indian Institute of Technology Tirupati,Tirupati,active,education;funder,0.907,False,0.907
+X-0001,1,dr y s parmar university of horticulture and forestry,https://ror.org/03c33w089,Dr. Yashwant Singh Parmar University of Horticulture and Forestry,Solan,active,education;funder,1.0,True,1.0
+X-0001,2,dr y s parmar university of horticulture and forestry,https://ror.org/00sfe1713,Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry,Pauri,active,education,0.827,False,0.827
+X-0001,3,dr y s parmar university of horticulture and forestry,https://ror.org/04kyt9204,Dr. NTR University of Health Sciences,Vijayawada,active,education,0.584,False,0.584
+X-0001,4,dr y s parmar university of horticulture and forestry,https://ror.org/02bv2z495,Dr. Y.S.R Horticultural University,Eluru,active,education,0.581,False,0.581
+X-0001,5,dr y s parmar university of horticulture and forestry,https://ror.org/02anh8x74,M S Ramaiah University of Applied Sciences,Bengaluru,active,education,0.568,False,0.568
+X-0001,6,dr y s parmar university of horticulture and forestry,https://ror.org/04d3x5w26,Institute Of Horticulture Technology,Greater Noida,active,facility,0.517,False,0.517
+X-0001,7,dr y s parmar university of horticulture and forestry,https://ror.org/03me2hz15,Tamil Nadu Horticulture University,Coimbatore,active,education,0.483,False,0.483
+X-0001,8,dr y s parmar university of horticulture and forestry,https://ror.org/0088h4061,"Dr. D. Y. Patil Medical College, Hospital and Research Centre",Pune,active,healthcare,0.473,False,0.473
+S-8909,1,indian institute of management kozhikode,https://ror.org/03m1xdc36,Indian Institute of Management Kozhikode,Kozhikode,active,education,1.0,True,1.0
+S-8909,2,indian institute of management kozhikode,https://ror.org/04etfv811,Indian Institute of Management Shillong,Shillong,active,education,0.861,False,0.861
+S-8909,3,indian institute of management kozhikode,https://ror.org/0039tsz33,Indian Institute of Management Kashipur,Kashipur,active,education,0.861,False,0.861
+S-8909,4,indian institute of management kozhikode,https://ror.org/05t1d6r64,Indian Institute of Management Ranchi,Ranchi,active,education;funder,0.857,False,0.857
+S-8909,5,indian institute of management kozhikode,https://ror.org/02j8pmw82,Indian Institute of Management Indore,Indore,active,education,0.857,False,0.857
+S-8909,6,indian institute of management kozhikode,https://ror.org/05gfjrx96,Indian Institute of Management Lucknow,Lucknow,active,education,0.846,False,0.846
+S-8909,7,indian institute of management kozhikode,https://ror.org/018gn0t60,Indian Institute of Management Rohtak,Rohtak,active,education,0.831,False,0.831
+S-8909,8,indian institute of management kozhikode,https://ror.org/05vqbh574,Indian Institute of Management Raipur,Raipur,active,education,0.831,False,0.831
+U-0497,1,amity university,https://ror.org/02n9z0v62,Amity University,Noida,active,education;funder,1.0,False,1.0
+U-0497,2,amity university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.839,False,0.839
+U-0497,3,amity university,https://ror.org/00k65bx67,Amity University Mumbai,Panvel,active,education,0.821,False,0.821
+U-0497,4,amity university,https://ror.org/027sha433,Amity University Jaipur,Jaipur,active,education,0.821,False,0.821
+U-0497,5,amity university,https://ror.org/00cfy9t31,Amity University Chhatisgarh,Raipur,active,education,0.821,False,0.821
+U-0497,6,amity university,https://ror.org/00k8kkh85,Amity University Gurugram,Gurugram,active,education,0.8,False,0.8
+U-0497,7,amity university,https://ror.org/02f82w364,Amity University Madhya Pradesh,Gwalior,active,education,0.8,False,0.8
+U-0497,8,amity university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.8,False,0.8
+X-0003,1,indian institute of crop processing technology,https://ror.org/00ytqcj07,"National Institute of Food Technology, Entrepreneurship and Management - Thanjavur",Thanjavur,active,funder;government,1.0,True,1.0
+X-0003,2,indian institute of crop processing technology,https://ror.org/040dky007,Indian Institute of Chemical Technology,Hyderabad,active,facility;funder,0.776,False,0.776
+X-0003,3,indian institute of crop processing technology,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.75,False,0.75
+X-0003,4,indian institute of crop processing technology,https://ror.org/01kh5gc44,Indian Institute of Technology BHU,Varanasi,active,education;funder,0.75,False,0.75
+X-0003,5,indian institute of crop processing technology,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.732,False,0.732
+X-0003,6,indian institute of crop processing technology,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.732,False,0.732
+X-0003,7,indian institute of crop processing technology,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,active,education;funder,0.732,False,0.732
+X-0003,8,indian institute of crop processing technology,https://ror.org/02f0vsw63,Indian Institute of Technology Jammu,Jammu,active,education,0.732,False,0.732
+C-37013,1,psg college of technology,https://ror.org/01tez1r52,PSG College of Technology,Coimbatore,active,education,1.0,True,1.0
+C-37013,2,psg college of technology,https://ror.org/00hprb304,KCG College of Technology,Chennai,active,education,0.92,False,0.92
+C-37013,3,psg college of technology,https://ror.org/059sbnj83,Sona College of Technology,Salem,active,education,0.902,False,0.902
+C-37013,4,psg college of technology,https://ror.org/05dvptm82,Kumaraguru College of Technology,Coimbatore,active,education,0.807,True,0.887
+C-37013,5,psg college of technology,https://ror.org/04mfpmj78,K.S. Rangasamy College of Technology,Namakkal,active,education,0.885,False,0.885
+C-37013,6,psg college of technology,https://ror.org/04hs8t575,Study World College of Engineering,Coimbatore,active,education,0.786,True,0.866
+C-37013,7,psg college of technology,https://ror.org/0366mhr44,Gnanamani College of Technology,Namakkal,active,education,0.821,False,0.821
+C-37013,8,psg college of technology,https://ror.org/033xjms15,PSG College of Pharmacy,Coimbatore,active,education,0.708,True,0.788
+U-0389,1,banasthali vidyapith,https://ror.org/05ycegt40,Banasthali University,Jaipur,active,education,1.0,False,1.0
+U-0389,2,banasthali vidyapith,https://ror.org/01gm99y36,Gujarat Vidyapith,Ahmedabad,active,education,0.718,False,0.718
+U-0389,3,banasthali vidyapith,https://ror.org/006qz8583,Mahatma Gandhi Kashi Vidyapith,Varanasi,active,education,0.64,False,0.64
+I-1361,1,bharati vidyapeeth,https://ror.org/0052mmx10,Bharati Vidyapeeth (Deemed to be University),Pune,active,education;funder,1.0,True,1.0
+I-1361,2,bharati vidyapeeth,https://ror.org/01xsjnd35,Tilak Maharashtra Vidyapeeth,Pune,active,education,0.696,True,0.776
+I-1361,3,bharati vidyapeeth,https://ror.org/00s2qq515,"Dr. D.Y. Patil Vidyapeeth, Pune",Pune,active,education,0.652,True,0.732
+I-1361,4,bharati vidyapeeth,https://ror.org/045z90539,"Jnana Deepa, Institute of Philosophy and Theology",Pune,active,education,0.65,True,0.73
+I-1361,5,bharati vidyapeeth,https://ror.org/01vwns954,Lingaya's Vidyapeeth,Faridabad,active,education,0.684,False,0.684
+I-1361,6,bharati vidyapeeth,https://ror.org/02vky4547,Arya Vidyapeeth College,Guwahati,active,education,0.683,False,0.683
+I-1361,7,bharati vidyapeeth,https://ror.org/00mmq5f59,Mahatma Phule Krishi Vidyapeeth,Rāhuri,active,education,0.612,False,0.612
+I-1361,8,bharati vidyapeeth,https://ror.org/02avh2k34,Sri Balaji Vidyapeeth University,Puducherry,active,education,0.6,False,0.6
+I-1441,1,saveetha institute of medical and technical sciences,https://ror.org/0034me914,Saveetha University,Chennai,active,education;funder,1.0,True,1.0
+I-1441,2,saveetha institute of medical and technical sciences,https://ror.org/02y0wc381,Pravara Institute of Medical Sciences,Ahmednagar,active,education,0.742,False,0.742
+I-1441,3,saveetha institute of medical and technical sciences,https://ror.org/03mdzf107,Amala Institute of Medical Sciences,Thrissur,active,education,0.736,False,0.736
+I-1441,4,saveetha institute of medical and technical sciences,https://ror.org/02yghr808,Asian Institute of Medical Sciences,Faridabad,active,healthcare,0.736,False,0.736
+I-1441,5,saveetha institute of medical and technical sciences,https://ror.org/02hk27r53,Asian Institute of Medical Sciences,Dombivali,active,healthcare,0.736,False,0.736
+I-1441,6,saveetha institute of medical and technical sciences,https://ror.org/0258h0g75,Rajendra Institute of Medical Sciences,Ranchi,active,healthcare,0.733,False,0.733
+I-1441,7,saveetha institute of medical and technical sciences,https://ror.org/026c92t86,Subbaiah Medical College,Shivamogga,active,education,0.733,False,0.733
+I-1441,8,saveetha institute of medical and technical sciences,https://ror.org/05tw0x522,NIMS University,Jaipur,active,education,0.733,False,0.733
+X-0000,1,annamalai university,https://ror.org/01x24z140,Annamalai University,Chidambaram,active,education,1.0,False,1.0
+X-0000,2,annamalai university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.8,False,0.8
+X-0000,3,annamalai university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.789,False,0.789
+X-0000,4,annamalai university,https://ror.org/0563h0629,Mangalayatan University,Aligarh,active,education,0.744,False,0.744
+X-0000,5,annamalai university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.722,False,0.722
+X-0000,6,annamalai university,https://ror.org/001x6y413,Palamuru University,Mahbūbnagar,active,education,0.718,False,0.718
+X-0000,7,annamalai university,https://ror.org/00nphdr35,Rayalaseema University,Kurnool,active,education,0.714,False,0.714
+X-0000,8,annamalai university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.706,False,0.706
+U-0251,1,University of Calicut,https://ror.org/05yeh3g67,University of Calicut,Malappuram,active,education;funder,1.0,True,1.0
+U-0251,2,University of Calicut,https://ror.org/00z10e966,Mohanlal Sukhadia University,Udaipur,active,education,0.81,False,0.81
+U-0251,3,University of Calicut,https://ror.org/032kth403,Rani Durgavati University,Jabalpur,active,education,0.791,False,0.791
+U-0251,4,University of Calicut,https://ror.org/03sz2k744,"National Law University, Delhi",New Delhi,active,education,0.789,False,0.789
+U-0251,5,University of Calicut,https://ror.org/01eg6e534,Raj Rishi Bhartrihari Matsya University,Alwar,active,education,0.78,False,0.78
+U-0251,6,University of Calicut,https://ror.org/01xapxe37,Dr. Hari Singh Gour University,Saugor,active,education,0.78,False,0.78
+U-0251,7,University of Calicut,https://ror.org/04r5d0y92,University of Kota,Kota,active,education,0.769,False,0.769
+U-0251,8,University of Calicut,https://ror.org/04jmt9361,University of Madras,Chennai,active,education;funder,0.732,False,0.732
+U-0345,1,mizoram university,https://ror.org/04b1m3e94,Mizoram University,Aizawl,active,education;funder,1.0,True,1.0
+U-0345,2,mizoram university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.824,False,0.824
+U-0345,3,mizoram university,https://ror.org/057ap5t09,RK University,Rajkot,active,education,0.774,False,0.774
+U-0345,4,mizoram university,https://ror.org/01m67jf71,NIILM University,Kaithal,active,education,0.765,False,0.765
+U-0345,5,mizoram university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.75,False,0.75
+U-0345,6,mizoram university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.75,False,0.75
+U-0345,7,mizoram university,https://ror.org/01wwdyj49,"ICFAI University, Mizoram",Aizawl,active,education,0.667,True,0.747
+U-0345,8,mizoram university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.743,False,0.743
+X-0012,1,kurukshetra university,https://ror.org/019bzvf55,Kurukshetra University,Kurukshetra,active,education;funder,1.0,True,1.0
+X-0012,2,kurukshetra university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.718,False,0.718
+X-0012,3,kurukshetra university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.703,False,0.703
+X-0012,4,kurukshetra university,https://ror.org/00g49fd96,Pandit Deendayal Upadhyaya Shekhawati University,Sīkar,active,education,0.698,False,0.698
+X-0012,5,kurukshetra university,https://ror.org/057ap5t09,RK University,Rajkot,active,education,0.686,False,0.686
+X-0012,6,kurukshetra university,https://ror.org/001x6y413,Palamuru University,Mahbūbnagar,active,education,0.683,False,0.683
+X-0012,7,kurukshetra university,https://ror.org/00nphdr35,Rayalaseema University,Kurnool,active,education,0.682,False,0.682
+X-0012,8,kurukshetra university,https://ror.org/04909p852,National Institute of Technology Kurukshetra,Kurukshetra,active,education,0.595,True,0.675
+U-0642,1,shiv nadar university,https://ror.org/05aqahr97,Shiv Nadar University,Dadri,active,education;funder,1.0,False,1.0
+U-0642,2,shiv nadar university,https://ror.org/039rg7508,"Shiv Nadar University, Chennai",Chennai,active,education,0.84,False,0.84
+U-0642,3,shiv nadar university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.769,False,0.769
+U-0642,4,shiv nadar university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.757,False,0.757
+U-0642,5,shiv nadar university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.737,False,0.737
+U-0642,6,shiv nadar university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.737,False,0.737
+U-0642,7,shiv nadar university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.722,False,0.722
+U-0642,8,shiv nadar university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.722,False,0.722
+U-0329,1,symbiosis international,https://ror.org/005r2ww51,Symbiosis International University,Pune,active,education;funder,0.807,True,0.887
+U-0329,2,symbiosis international,https://ror.org/0037zb552,Madras Institute of Orthopaedics and Traumatology,Chennai,active,healthcare,0.829,False,0.829
+U-0329,3,symbiosis international,https://ror.org/005506090,Innores International,Ujjain,active,nonprofit,0.773,False,0.773
+U-0329,4,symbiosis international,https://ror.org/03bpjrg09,CUTS International,Jaipur,active,nonprofit,0.732,False,0.732
+U-0329,5,symbiosis international,https://ror.org/02yjv7f10,Population Services International,New Delhi,active,nonprofit,0.679,False,0.679
+U-0329,6,symbiosis international,https://ror.org/030rrcn92,TCG Lifesciences (India),Kolkata,active,company,0.679,False,0.679
+U-0329,7,symbiosis international,https://ror.org/03t7n7h72,Symbiosis University of Applied Sciences,Indore,active,education,0.667,False,0.667
+U-0329,8,symbiosis international,https://ror.org/025jwmc29,India International Centre,New Delhi,active,other,0.653,False,0.653
+U-0272,1,indian institute of science education and research bhopal,https://ror.org/02rb21j89,"Indian Institute of Science Education and Research, Bhopal",Bhopal,active,education;funder,1.0,True,1.0
+U-0272,2,indian institute of science education and research bhopal,https://ror.org/01vztzd79,Indian Institute of Science Education and Research Mohali,Mohali,active,education;funder,0.947,False,0.947
+U-0272,3,indian institute of science education and research bhopal,https://ror.org/028qa3n13,Indian Institute of Science Education and Research Pune,Pune,active,education;funder,0.929,False,0.929
+U-0272,4,indian institute of science education and research bhopal,https://ror.org/023vrr657,Indian Institute of Science Education and Research Berhampur,Brahmapur,active,education,0.923,False,0.923
+U-0272,5,indian institute of science education and research bhopal,https://ror.org/00djv2c17,Indian Institute of Science Education and Research Kolkata,Kolkata,active,education;funder,0.922,False,0.922
+U-0272,6,indian institute of science education and research bhopal,https://ror.org/032d0e990,"Indian Institute of Science Education and Research, Tirupati",Tirupati,active,education;funder,0.914,False,0.914
+U-0272,7,indian institute of science education and research bhopal,https://ror.org/02r2k1c68,National Institute of Science Education and Research,Bhubaneswar,active,education;funder,0.862,False,0.862
+U-0272,8,indian institute of science education and research bhopal,https://ror.org/01pe3t004,Indian Institute of Science Education and Research Thiruvananthapuram,Thiruvananthapuram,active,education;funder,0.857,False,0.857
+X-0014,1,rajiv gandhi indian institute of management,https://ror.org/04etfv811,Indian Institute of Management Shillong,Shillong,active,education,0.905,True,0.985
+X-0014,2,rajiv gandhi indian institute of management,https://ror.org/0424v9t30,Indian Institute of Water Management,Bhubaneswar,active,government,0.759,False,0.759
+X-0014,3,rajiv gandhi indian institute of management,https://ror.org/018gn0t60,Indian Institute of Management Rohtak,Rohtak,active,education,0.75,False,0.75
+X-0014,4,rajiv gandhi indian institute of management,https://ror.org/00jet1p36,Indian Institute of Forest Management,Bhopal,active,education,0.75,False,0.75
+X-0014,5,rajiv gandhi indian institute of management,https://ror.org/001xs0312,Indian Institute of Management Udaipur,Udaipur,active,education,0.741,False,0.741
+X-0014,6,rajiv gandhi indian institute of management,https://ror.org/0039tsz33,Indian Institute of Management Kashipur,Kashipur,active,education,0.732,False,0.732
+X-0014,7,rajiv gandhi indian institute of management,https://ror.org/01mx9t266,Indian Institute of Plantation Management,Bengaluru,active,education,0.714,False,0.714
+X-0014,8,rajiv gandhi indian institute of management,https://ror.org/00e7cvg05,Rajiv Gandhi Cancer Institute and Research Centre,New Delhi,active,funder;healthcare,0.696,False,0.696
+U-0225,1,kle academy of higher education and research,https://ror.org/03aam9155,KLE Academy of Higher Education and Research,Belagavi,active,education,1.0,True,1.0
+U-0225,2,kle academy of higher education and research,https://ror.org/013x70191,JSS Academy of Higher Education and Research,Mysuru,active,education,0.932,False,0.932
+U-0225,3,kle academy of higher education and research,https://ror.org/04jdy5g59,Meenakshi Academy of Higher Education and Research,Chennai,active,education,0.894,False,0.894
+U-0225,4,kle academy of higher education and research,https://ror.org/0444zqa87,Sri Devaraj Urs Academy of Higher Education and Research,Kolār,active,education,0.84,False,0.84
+U-0225,5,kle academy of higher education and research,https://ror.org/028xjgf42,"K.L.E. Academy of Higher Education and Research Institute of Physiotherapy, Belagavi",Belagavi,active,education,0.752,True,0.832
+U-0225,6,kle academy of higher education and research,https://ror.org/03b1z9e58,Academy of Continuing Medical Education & Research,Pune,active,nonprofit,0.771,False,0.771
+U-0225,7,kle academy of higher education and research,https://ror.org/0108gdg43,Sri Ramachandra Institute of Higher Education and Research,Porur,active,education;funder,0.765,False,0.765
+U-0225,8,kle academy of higher education and research,https://ror.org/05pq0wd90,St. Peter's Institute of Higher Education and Research,Chennai,active,education,0.742,False,0.742
+U-0523,1,King George's Medical University,https://ror.org/00gvw6327,King George's Medical University,Lucknow,active,education,1.0,True,1.0
+U-0523,2,King George's Medical University,https://ror.org/00b3mhg89,Tamil Nadu Dr. M.G.R. Medical University,Chennai,active,education,0.686,False,0.686
+U-0523,3,King George's Medical University,https://ror.org/05gkvd676,King George Hospital,Visakhapatnam,active,healthcare,0.615,False,0.615
+U-0523,4,King George's Medical University,https://ror.org/01k1c8b78,Madhya Pradesh Medical Science University,Jabalpur,active,education,0.603,False,0.603
+U-0523,5,King George's Medical University,https://ror.org/00gxdyz80,Indira Gandhi Technological and Medical Sciences University,Ziro,active,education,0.593,False,0.593
+U-0523,6,King George's Medical University,https://ror.org/0022pfg65,Nightingales Medical Trust,Bengaluru,active,healthcare,0.586,False,0.586
+U-0523,7,King George's Medical University,https://ror.org/03xp91198,Hemwati Nandan Bahuguna Uttarakhand Medical Education University,Dehradun,active,education,0.553,False,0.553
+U-0523,8,King George's Medical University,https://ror.org/02vnjj382,Krishna Institute of Medical Sciences Deemed University,Karad,active,education;funder,0.552,False,0.552
+U-0435,1,alagappa university,https://ror.org/04ec9cc06,Alagappa University,Karaikudi,active,education,1.0,True,1.0
+U-0435,2,alagappa university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.811,False,0.811
+U-0435,3,alagappa university,https://ror.org/00vadgf54,Kaziranga University,Jorhāt,active,education,0.769,False,0.769
+U-0435,4,alagappa university,https://ror.org/0563h0629,Mangalayatan University,Aligarh,active,education,0.762,False,0.762
+U-0435,5,alagappa university,https://ror.org/001x6y413,Palamuru University,Mahbūbnagar,active,education,0.737,False,0.737
+U-0435,6,alagappa university,https://ror.org/00nphdr35,Rayalaseema University,Kurnool,active,education,0.732,False,0.732
+U-0435,7,alagappa university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.722,False,0.722
+U-0435,8,alagappa university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.722,False,0.722
+U-0262,1,Mahatma Gandhi University,https://ror.org/05n7bzj69,"Mahatma Gandhi University, Nalgonda",Nalgonda,active,education,1.0,False,1.0
+U-0262,2,Mahatma Gandhi University,https://ror.org/04702m080,Mahatma Gandhi University,Meghalaya,active,education,1.0,False,1.0
+U-0262,3,Mahatma Gandhi University,https://ror.org/00h4spn88,Mahatma Gandhi University,Kottayam,active,education;funder,1.0,True,1.0
+U-0262,4,Mahatma Gandhi University,https://ror.org/013f9hb65,Mahatma Gandhi Central University,Mothīhāri,active,education,0.862,False,0.862
+U-0262,5,Mahatma Gandhi University,https://ror.org/029w6ym70,"Mahatma Gandhi University, West Bengal",Mahīshādal,active,education,0.806,False,0.806
+U-0262,6,Mahatma Gandhi University,https://ror.org/04csdwy58,Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya,Wardha,active,education,0.714,False,0.714
+U-0262,7,Mahatma Gandhi University,https://ror.org/006qz8583,Mahatma Gandhi Kashi Vidyapith,Varanasi,active,education,0.691,False,0.691
+U-0262,8,Mahatma Gandhi University,https://ror.org/03gtxjd05,"Mahatma Gandhi College, Darbhanga",Darbhanga,active,education,0.681,False,0.681
+U-0554,1,G. B. Pant University of Agriculture and Technology,https://ror.org/02sar2p31,"Banda University of Agriculture and Technology, Banda",Banda,active,education,0.926,False,0.926
+U-0554,2,G. B. Pant University of Agriculture and Technology,https://ror.org/02msjvh03,Govind Ballabh Pant University of Agriculture and Technology,Haldwani,active,education;funder,0.899,False,0.899
+U-0554,3,G. B. Pant University of Agriculture and Technology,https://ror.org/03tg0z446,Odisha University of Agriculture and Technology,Bhubaneswar,active,education,0.875,False,0.875
+U-0554,4,G. B. Pant University of Agriculture and Technology,https://ror.org/05jhq2w18,Maharana Pratap University of Agriculture and Technology,Udaipur,active,education,0.857,False,0.857
+U-0554,5,G. B. Pant University of Agriculture and Technology,https://ror.org/00zw5g161,Acharya Narendra Deva University of Agriculture and Technology,Faizabad,active,education,0.835,False,0.835
+U-0554,6,G. B. Pant University of Agriculture and Technology,https://ror.org/01r27v904,Sardar Vallabhbhai Patel University of Agriculture & Technology,Meerut,active,education,0.825,False,0.825
+U-0554,7,G. B. Pant University of Agriculture and Technology,https://ror.org/0403ytw22,Chandra Shekhar Azad University of Agriculture and Technology,Kanpur,active,education,0.782,False,0.782
+U-0554,8,G. B. Pant University of Agriculture and Technology,https://ror.org/0330j9a35,"University of Science and Technology, Meghalaya",Nongpoh,active,education,0.674,False,0.674
+U-0254,1,indian institute of science education and research thiruvananthapuram,https://ror.org/01pe3t004,Indian Institute of Science Education and Research Thiruvananthapuram,Thiruvananthapuram,active,education;funder,1.0,True,1.0
+U-0254,2,indian institute of science education and research thiruvananthapuram,https://ror.org/032d0e990,"Indian Institute of Science Education and Research, Tirupati",Tirupati,active,education;funder,0.891,False,0.891
+U-0254,3,indian institute of science education and research thiruvananthapuram,https://ror.org/023vrr657,Indian Institute of Science Education and Research Berhampur,Brahmapur,active,education,0.884,False,0.884
+U-0254,4,indian institute of science education and research thiruvananthapuram,https://ror.org/028qa3n13,Indian Institute of Science Education and Research Pune,Pune,active,education;funder,0.855,False,0.855
+U-0254,5,indian institute of science education and research thiruvananthapuram,https://ror.org/02rb21j89,"Indian Institute of Science Education and Research, Bhopal",Bhopal,active,education;funder,0.841,False,0.841
+U-0254,6,indian institute of science education and research thiruvananthapuram,https://ror.org/01vztzd79,Indian Institute of Science Education and Research Mohali,Mohali,active,education;funder,0.841,False,0.841
+U-0254,7,indian institute of science education and research thiruvananthapuram,https://ror.org/00djv2c17,Indian Institute of Science Education and Research Kolkata,Kolkata,active,education;funder,0.835,False,0.835
+U-0254,8,indian institute of science education and research thiruvananthapuram,https://ror.org/02r2k1c68,National Institute of Science Education and Research,Bhubaneswar,active,education;funder,0.777,False,0.777
+U-0202,1,birla institute of technology,https://ror.org/028vtqb15,"Birla Institute of Technology, Mesra",Ranchi,active,education,0.906,True,0.986
+U-0202,2,birla institute of technology,https://ror.org/03rxvm679,GMR Institute of Technology,Rāzām,active,education,0.893,False,0.893
+U-0202,3,birla institute of technology,https://ror.org/02bktye12,Kammavari Sangham Institute of Technology,Bengaluru,active,education,0.873,False,0.873
+U-0202,4,birla institute of technology,https://ror.org/04p22jz17,Adithya Institute of Technology,Coimbatore,active,education,0.867,False,0.867
+U-0202,5,birla institute of technology,https://ror.org/00j3qc684,Ansal University,Gurugram,active,education,0.862,False,0.862
+U-0202,6,birla institute of technology,https://ror.org/04gbnn054,Heritage Institute of Technology,Kolkata,active,education,0.852,False,0.852
+U-0202,7,birla institute of technology,https://ror.org/01qkd1z70,Bannari Amman Institute of Technology,Sathyamangalam,active,education,0.831,False,0.831
+U-0202,8,birla institute of technology,https://ror.org/01nsshk90,Coimbatore Institute of Technology,Coimbatore,active,education;funder,0.825,False,0.825
+U-0196,1,university of kashmir,https://ror.org/032xfst36,University of Kashmir,Srinagar,active,education,1.0,True,1.0
+U-0196,2,university of kashmir,https://ror.org/03asvq815,Central University of Kashmir,Ganderbal,active,education,0.84,False,0.84
+U-0196,3,university of kashmir,https://ror.org/04r5d0y92,University of Kota,Kota,active,education,0.821,False,0.821
+U-0196,4,university of kashmir,https://ror.org/00z10e966,Mohanlal Sukhadia University,Udaipur,active,education,0.81,False,0.81
+U-0196,5,university of kashmir,https://ror.org/03sz2k744,"National Law University, Delhi",New Delhi,active,education,0.789,False,0.789
+U-0196,6,university of kashmir,https://ror.org/01eg6e534,Raj Rishi Bhartrihari Matsya University,Alwar,active,education,0.78,False,0.78
+U-0196,7,university of kashmir,https://ror.org/01xapxe37,Dr. Hari Singh Gour University,Saugor,active,education,0.78,False,0.78
+U-0196,8,university of kashmir,https://ror.org/05yeh3g67,University of Calicut,Malappuram,active,education;funder,0.762,False,0.762
+C-45515,1,PSG Institute of Medical Sciences and Research,https://ror.org/04c1dx793,PSG Institute of Medical Sciences & Research,Coimbatore,active,healthcare,1.0,True,1.0
+C-45515,2,PSG Institute of Medical Sciences and Research,https://ror.org/02f65mn87,Apollo Institute of Medical Sciences & Research,Chittoor,active,healthcare,0.926,False,0.926
+C-45515,3,PSG Institute of Medical Sciences and Research,https://ror.org/015nek645,Uttar Pradesh University of Medical Sciences,Saifai,active,education;funder,0.907,False,0.907
+C-45515,4,PSG Institute of Medical Sciences and Research,https://ror.org/014w2tt04,Life Care Institute of Medical Sciences & Research,Ahmedabad,active,healthcare,0.878,False,0.878
+C-45515,5,PSG Institute of Medical Sciences and Research,https://ror.org/05ahcwz21,Amrita Institute of Medical Sciences and Research Centre,Ernakulam,active,healthcare,0.843,False,0.843
+C-45515,6,PSG Institute of Medical Sciences and Research,https://ror.org/03ht2bz32,Institute of Medical Sciences and Sum Hospital,Bhubaneswar,active,education,0.783,False,0.783
+C-45515,7,PSG Institute of Medical Sciences and Research,https://ror.org/01sa9ng67,PSG INSTITUTE OF TECHNOLOGY AND APPLIED RESEARCH,Coimbatore,active,education,0.702,True,0.782
+C-45515,8,PSG Institute of Medical Sciences and Research,https://ror.org/00btd2x83,Rajeev Institute of Ayurvedic Medical Science and Research Centre,Hassan,active,education,0.775,False,0.775
+U-0159,1,chaudhary charan singh haryana agricultural university,https://ror.org/0261g6j35,Chaudhary Charan Singh Haryana Agricultural University,Hisar,active,education,1.0,True,1.0
+U-0159,2,chaudhary charan singh haryana agricultural university,https://ror.org/04q23qy39,Chaudhary Ranbir Singh University,Hisar,active,education,0.69,True,0.77
+U-0159,3,chaudhary charan singh haryana agricultural university,https://ror.org/01hzdv945,Chaudhary Charan Singh University,Meerut,active,education,0.759,False,0.759
+U-0159,4,chaudhary charan singh haryana agricultural university,https://ror.org/01jc4j574,Chaudhary Devi Lal University,Sirsa,active,education,0.602,False,0.602
+U-0159,5,chaudhary charan singh haryana agricultural university,https://ror.org/01xapxe37,Dr. Hari Singh Gour University,Saugor,active,education,0.602,False,0.602
+U-0159,6,chaudhary charan singh haryana agricultural university,https://ror.org/0560jvm78,Veer Bahadur Singh Purvanchal University,Jaunpur,active,education,0.596,False,0.596
+U-0159,7,chaudhary charan singh haryana agricultural university,https://ror.org/03d8nmh82,Kameshwar Singh Darbhanga Sanskrit University,Darbhanga,active,education,0.566,False,0.566
+U-0159,8,chaudhary charan singh haryana agricultural university,https://ror.org/026fbsz29,Gopal Narayan Singh University,Jamuhār,active,education,0.548,False,0.548
+U-0195,1,university of jammu,https://ror.org/02retg991,University of Jammu,Jammu,active,education;funder,1.0,True,1.0
+U-0195,2,university of jammu,https://ror.org/03nw1rg94,Central University of Jammu,Jammu,active,education,0.826,True,0.906
+U-0195,3,university of jammu,https://ror.org/003jt2y14,Cluster University of Jammu,Jammu,active,education,0.826,True,0.906
+U-0195,4,university of jammu,https://ror.org/03sz2k744,"National Law University, Delhi",New Delhi,active,education,0.833,False,0.833
+U-0195,5,university of jammu,https://ror.org/032kth403,Rani Durgavati University,Jabalpur,active,education,0.829,False,0.829
+U-0195,6,university of jammu,https://ror.org/04r5d0y92,University of Kota,Kota,active,education,0.811,False,0.811
+U-0195,7,university of jammu,https://ror.org/05yeh3g67,University of Calicut,Malappuram,active,education;funder,0.8,False,0.8
+U-0195,8,university of jammu,https://ror.org/00z10e966,Mohanlal Sukhadia University,Udaipur,active,education,0.8,False,0.8
+U-0463,1,madurai kamaraj university,https://ror.org/04c8e9019,Madurai Kamaraj University,Madurai,active,education;funder,1.0,True,1.0
+U-0463,2,madurai kamaraj university,https://ror.org/0563h0629,Mangalayatan University,Aligarh,active,education,0.694,False,0.694
+U-0463,3,madurai kamaraj university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.683,False,0.683
+U-0463,4,madurai kamaraj university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.667,False,0.667
+U-0463,5,madurai kamaraj university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.651,False,0.651
+U-0463,6,madurai kamaraj university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.651,False,0.651
+U-0463,7,madurai kamaraj university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.65,False,0.65
+U-0463,8,madurai kamaraj university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.636,False,0.636
+N-10,1,SVKM's Narsee Monjee Institute of Management Studies,https://ror.org/04qksbm30,Narsee Monjee Institute of Management Studies,Mumbai,active,education,0.928,True,1.0
+N-10,2,SVKM's Narsee Monjee Institute of Management Studies,https://ror.org/04kmgtr65,Guru Nanak Institute of Management Studies,Mumbai,active,education,0.766,True,0.846
+N-10,3,SVKM's Narsee Monjee Institute of Management Studies,https://ror.org/03k6zec98,Durgadevi Saraf Institute of Management Studies,Mumbai,active,education,0.747,True,0.827
+N-10,4,SVKM's Narsee Monjee Institute of Management Studies,https://ror.org/0233s3y58,Maharaja Agrasen Institute of Management Studies,Delhi,active,education,0.76,False,0.76
+N-10,5,SVKM's Narsee Monjee Institute of Management Studies,https://ror.org/01x7cet86,K J Somaiya Institute of Management,Mumbai,active,education,0.673,True,0.753
+N-10,6,SVKM's Narsee Monjee Institute of Management Studies,https://ror.org/03efa8j75,IMS Unison University,Dehradun,active,education,0.747,False,0.747
+N-10,7,SVKM's Narsee Monjee Institute of Management Studies,https://ror.org/00962sr83,International Institute of Management Studies,Pune,active,education,0.742,False,0.742
+N-10,8,SVKM's Narsee Monjee Institute of Management Studies,https://ror.org/038n4h378,Jagan Institute of Management Studies,Delhi,active,education,0.742,False,0.742
+U-0020,1,Koneru Lakshmaiah Education Foundation,https://ror.org/02k949197,Koneru Lakshmaiah Education Foundation,Vijayawada,active,education;funder,1.0,False,1.0
+U-0020,2,Koneru Lakshmaiah Education Foundation,https://ror.org/02sv3ne29,Kaivalya Education Foundation,Mumbai,active,other,0.746,False,0.746
+U-0020,3,Koneru Lakshmaiah Education Foundation,https://ror.org/00my7df95,Marwadi Education Foundation,Rajkot,active,education;funder,0.727,False,0.727
+U-0020,4,Koneru Lakshmaiah Education Foundation,https://ror.org/027bs3411,TIDE Foundation,Ahmedabad,active,nonprofit,0.628,False,0.628
+U-0020,5,Koneru Lakshmaiah Education Foundation,https://ror.org/01ze79k90,Research and Environmental Education Foundation,Agatti Island,active,other,0.588,False,0.588
+U-0020,6,Koneru Lakshmaiah Education Foundation,https://ror.org/00vg62x98,Indian Education Society's V. N. Sule Guruji English Medium School,Mumbai,active,education,0.516,False,0.516
+U-0020,7,Koneru Lakshmaiah Education Foundation,https://ror.org/056nyzc72,National Education Services,Delhi,active,funder,0.479,False,0.479
+U-0020,8,Koneru Lakshmaiah Education Foundation,https://ror.org/00by8r054,Gokhale Education Society,Nashik,active,other,0.476,False,0.476
+U-0246,1,University of Agricultural Sciences Dharwad,https://ror.org/02qn0hf26,"University of Agricultural Sciences, Dharwad",Hubballi,active,education;funder,1.0,False,1.0
+U-0246,2,University of Agricultural Sciences Dharwad,https://ror.org/02tjcpt69,University of Agricultural Sciences Raichur,Rāichūr,active,education,0.884,False,0.884
+U-0246,3,University of Agricultural Sciences Dharwad,https://ror.org/03js6zg56,"University of Agricultural Sciences, Bangalore",Bengaluru,active,education,0.864,False,0.864
+U-0246,4,University of Agricultural Sciences Dharwad,https://ror.org/0403ytw22,Chandra Shekhar Azad University of Agriculture and Technology,Kanpur,active,education,0.741,False,0.741
+U-0246,5,University of Agricultural Sciences Dharwad,https://ror.org/058kvs153,University of Agricultural and Horticultural Sciences,Shivamogga,active,education,0.729,False,0.729
+U-0246,6,University of Agricultural Sciences Dharwad,https://ror.org/01ny6q882,National Academy of Agricultural Sciences,New Delhi,active,funder;other,0.69,False,0.69
+U-0246,7,University of Agricultural Sciences Dharwad,https://ror.org/00jgwn197,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,Srinagar,active,education,0.672,False,0.672
+U-0246,8,University of Agricultural Sciences Dharwad,https://ror.org/04n3n6d60,Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu,Jammu,active,education,0.667,False,0.667
+U-0376,1,guru nanak dev university,https://ror.org/05ghzpa93,Guru Nanak Dev University,Amritsar,active,education;funder,1.0,True,1.0
+U-0376,2,guru nanak dev university,https://ror.org/039gj3815,"Guru Nanak Dev University College, Verka",Amritsar,active,education,0.781,True,0.861
+U-0376,3,guru nanak dev university,https://ror.org/053nvxd25,Guru Kashi University,Sardulgarh,active,education,0.739,False,0.739
+U-0376,4,guru nanak dev university,https://ror.org/04m7rat64,Guru Ravidas Ayurved University,Hoshiārpur,active,education,0.714,False,0.714
+U-0376,5,guru nanak dev university,https://ror.org/05g0qby12,Shri Guru Ram Rai University,Dehradun,active,education,0.679,False,0.679
+U-0376,6,guru nanak dev university,https://ror.org/02c2her03,Sri Guru Granth Sahib World University,Fatehgarh Chūriān,active,education,0.667,False,0.667
+U-0376,7,guru nanak dev university,https://ror.org/00rpbf348,Guru Nanak Eye Centre,New Delhi,active,healthcare,0.652,False,0.652
+U-0376,8,guru nanak dev university,https://ror.org/03vb53h45,Guru Nanak Institutions,Hyderabad,active,education,0.625,False,0.625
+U-0036,1,sri venkateswara institute of medical sciences,https://ror.org/039thcs93,Sri Venkateswara Institute of Medical Sciences,Tirupati,active,education,1.0,True,1.0
+U-0036,2,sri venkateswara institute of medical sciences,https://ror.org/02y0wc381,Pravara Institute of Medical Sciences,Ahmednagar,active,education,0.843,False,0.843
+U-0036,3,sri venkateswara institute of medical sciences,https://ror.org/0258h0g75,Rajendra Institute of Medical Sciences,Ranchi,active,healthcare,0.833,False,0.833
+U-0036,4,sri venkateswara institute of medical sciences,https://ror.org/03d6dzy78,Karnataka Institute of Medical Sciences,Hubballi,active,healthcare,0.824,False,0.824
+U-0036,5,sri venkateswara institute of medical sciences,https://ror.org/03mdzf107,Amala Institute of Medical Sciences,Thrissur,active,education,0.815,False,0.815
+U-0036,6,sri venkateswara institute of medical sciences,https://ror.org/02t36bt26,Regional Institute of Medical Sciences,Imphal,active,healthcare,0.81,False,0.81
+U-0036,7,sri venkateswara institute of medical sciences,https://ror.org/02cpwdj94,Kerala Institute of Medical Sciences,Thiruvananthapuram,active,healthcare,0.805,False,0.805
+U-0036,8,sri venkateswara institute of medical sciences,https://ror.org/00cqv5s75,Sri Venkateswara Medical College and Ruia Hospital,Tirupati,active,healthcare,0.718,True,0.798
+U-0507,1,dayalbagh educational institute,https://ror.org/04q4j2f69,Dayalbagh Educational Institute,Agra,active,education,1.0,True,1.0
+U-0507,2,dayalbagh educational institute,https://ror.org/03sfcvs36,Vikas College of Engineering and Technology,Vijayawada,active,education,0.721,False,0.721
+U-0507,3,dayalbagh educational institute,https://ror.org/047vmpf34,Oxford Educational Institutions,Bengaluru,active,education,0.71,False,0.71
+U-0507,4,dayalbagh educational institute,https://ror.org/053hsst90,Dr. M.G.R. Educational and Research Institute,Chennai,active,education,0.649,False,0.649
+U-0507,5,dayalbagh educational institute,https://ror.org/017ycwt89,KMCT Group of Educational Institutions,Kozhikode,active,education,0.638,False,0.638
+U-0507,6,dayalbagh educational institute,https://ror.org/01cphbs04,Velammal Educational Trust,Chennai,active,education,0.632,False,0.632
+U-0507,7,dayalbagh educational institute,https://ror.org/00aqmzg37,Mariammal Educational Trust,Pollachi,active,nonprofit,0.621,False,0.621
+U-0507,8,dayalbagh educational institute,https://ror.org/05e7jee26,Pandian Educational Trust,Virudunagar,active,other,0.607,False,0.607
+U-0448,1,bharathidasan university,https://ror.org/02w7vnb60,Bharathidasan University,Tiruchchirappalli,active,education;funder,1.0,False,1.0
+U-0448,2,bharathidasan university,https://ror.org/030c1ef86,Bhagwant University,Ajmer,active,education,0.744,False,0.744
+U-0448,3,bharathidasan university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.718,False,0.718
+U-0448,4,bharathidasan university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.714,False,0.714
+U-0448,5,bharathidasan university,https://ror.org/00g49fd96,Pandit Deendayal Upadhyaya Shekhawati University,Sīkar,active,education,0.711,False,0.711
+U-0448,6,bharathidasan university,https://ror.org/04zxaa490,Invertis University,Bareilly,active,education,0.698,False,0.698
+U-0448,7,bharathidasan university,https://ror.org/00nphdr35,Rayalaseema University,Kurnool,active,education,0.696,False,0.696
+U-0448,8,bharathidasan university,https://ror.org/03y1hrs26,Kolhan University,Chāībāsa,active,education,0.683,False,0.683
+C-26794,1,thiagarajar college of engineering,https://ror.org/01rgfv364,Thiagarajar College of Engineering,Madurai,active,education;funder,1.0,True,1.0
+C-26794,2,thiagarajar college of engineering,https://ror.org/00hvk3c79,Maharaj Vijayaram Gajapathi Raj College of Engineering,Vizianagaram,active,education,0.82,False,0.82
+C-26794,3,thiagarajar college of engineering,https://ror.org/024yvgp47,Vardhaman College of Engineering,Hyderabad,active,education,0.818,False,0.818
+C-26794,4,thiagarajar college of engineering,https://ror.org/016701m24,Solamalai College of Engineering,Madurai,active,education,0.727,True,0.807
+C-26794,5,thiagarajar college of engineering,https://ror.org/01ztcvt22,Delhi Technological University,New Delhi,active,education;funder,0.806,False,0.806
+C-26794,6,thiagarajar college of engineering,https://ror.org/059yth883,Jawaharlal Nehru New College of Engineering,Shivamogga,active,education,0.8,False,0.8
+C-26794,7,thiagarajar college of engineering,https://ror.org/041re0e60,R.V. College of Engineering,Bengaluru,active,education,0.8,False,0.8
+C-26794,8,thiagarajar college of engineering,https://ror.org/01dez0c30,MVJ College of Engineering,Bengaluru,active,education,0.8,False,0.8
+C-41593,1,College of Engineering Pune COEP Technological University,https://ror.org/008128n17,COEP Technological University,Pune,active,education,0.954,True,1.0
+C-41593,2,College of Engineering Pune COEP Technological University,https://ror.org/04yh52k23,KLE Technological University,Hubballi,active,education;funder,0.7,False,0.7
+C-41593,3,College of Engineering Pune COEP Technological University,https://ror.org/04vxck926,University College of Engineering and Technology,Bikaner,active,education,0.69,False,0.69
+C-41593,4,College of Engineering Pune COEP Technological University,https://ror.org/00xjk8970,"Zeal College of Engineering and Research, Pune",Pune,active,education,0.577,True,0.657
+C-41593,5,College of Engineering Pune COEP Technological University,https://ror.org/04rftj768,Jaihind College of Engineering,Pune,active,education,0.551,True,0.631
+C-41593,6,College of Engineering Pune COEP Technological University,https://ror.org/01ztcvt22,Delhi Technological University,New Delhi,active,education;funder,0.621,False,0.621
+C-41593,7,College of Engineering Pune COEP Technological University,https://ror.org/01w2xgk13,Puducherry Technological University,Puducherry,active,education,0.609,False,0.609
+C-41593,8,College of Engineering Pune COEP Technological University,https://ror.org/039pa0a74,DES Pune University,Pune,active,education,0.447,True,0.527
+C-47762,1,mahatma gandhi medical college and research institute,https://ror.org/05v4pjq26,Mahatma Gandhi Medical College and Research Institute,Puducherry,active,education,1.0,True,1.0
+C-47762,2,mahatma gandhi medical college and research institute,https://ror.org/00nf20x22,Indira Gandhi Medical College and Research Institute,Puducherry,active,education,0.895,True,0.975
+C-47762,3,mahatma gandhi medical college and research institute,https://ror.org/0196q1421,Mahatma Gandhi Ayurved College Hospital and Research Centre,Wardha,active,education,0.75,False,0.75
+C-47762,4,mahatma gandhi medical college and research institute,https://ror.org/020t0j562,Mahatma Gandhi Mission Medical College and Hospital,Aurangabad,active,education,0.731,False,0.731
+C-47762,5,mahatma gandhi medical college and research institute,https://ror.org/01pr2p702,Mahatma Gandhi Dental College & Hospital,Jaipur,active,healthcare,0.716,False,0.716
+C-47762,6,mahatma gandhi medical college and research institute,https://ror.org/051dq2v14,"MGM Medical College, Nerul",Navi Mumbai,active,education,0.701,False,0.701
+C-47762,7,mahatma gandhi medical college and research institute,https://ror.org/02j6ytg78,"MGM Medical College, Panvel",Panvel,active,education,0.68,False,0.68
+C-47762,8,mahatma gandhi medical college and research institute,https://ror.org/03ec9a810,Mahatma Gandhi Mission's Dental College and Hospital,Navi Mumbai,active,healthcare,0.667,False,0.667
+U-0121,1,goa university,https://ror.org/030reqw53,Goa University,Taleigao,active,education;funder,1.0,False,1.0
+U-0121,2,goa university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.867,False,0.867
+U-0121,3,goa university,https://ror.org/03y1hrs26,Kolhan University,Chāībāsa,active,education,0.839,False,0.839
+U-0121,4,goa university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.839,False,0.839
+U-0121,5,goa university,https://ror.org/02j3w7f30,Madhya Pradesh Bhoj Open University,Bhopal,active,education,0.828,False,0.828
+U-0121,6,goa university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.828,False,0.828
+U-0121,7,goa university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.786,False,0.786
+U-0121,8,goa university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.786,False,0.786
+U-0253,1,cochin university of science and technology,https://ror.org/00a4kqq17,Cochin University of Science and Technology,Ernakulam,active,education;funder,1.0,False,1.0
+U-0253,2,cochin university of science and technology,https://ror.org/00kxafy15,Mody University of Science and Technology,Laxmangarh,active,education,0.905,False,0.905
+U-0253,3,cochin university of science and technology,https://ror.org/014jqnm52,"J.C. Bose University of Science & Technology, YMCA",Faridabad,active,education,0.905,False,0.905
+U-0253,4,cochin university of science and technology,https://ror.org/05qkq7x38,Nirma University,Ahmedabad,active,education;funder,0.894,False,0.894
+U-0253,5,cochin university of science and technology,https://ror.org/0442pkv24,Charotar University of Science and Technology,Anand,active,education;funder,0.886,False,0.886
+U-0253,6,cochin university of science and technology,https://ror.org/02kdtt649,Islamic University of Science and Technology,Awantipur,active,education,0.874,False,0.874
+U-0253,7,cochin university of science and technology,https://ror.org/0330j9a35,"University of Science and Technology, Meghalaya",Nongpoh,active,education,0.809,False,0.809
+U-0253,8,cochin university of science and technology,https://ror.org/03emtbt60,Ministry of Science and Technology,New Delhi,active,government,0.805,False,0.805
+U-0098,1,delhi technological university,https://ror.org/01ztcvt22,Delhi Technological University,New Delhi,active,education;funder,1.0,True,1.0
+U-0098,2,delhi technological university,https://ror.org/04yh52k23,KLE Technological University,Hubballi,active,education;funder,0.897,False,0.897
+U-0098,3,delhi technological university,https://ror.org/04yn30r61,APJ Abdul Kalam Technological University,Thiruvananthapuram,active,education;funder,0.885,False,0.885
+U-0098,4,delhi technological university,https://ror.org/008128n17,COEP Technological University,Pune,active,education,0.881,False,0.881
+U-0098,5,delhi technological university,https://ror.org/01w2xgk13,Puducherry Technological University,Puducherry,active,education,0.831,False,0.831
+U-0098,6,delhi technological university,https://ror.org/059x8vm09,Gujarat Technological University,Ahmedabad,active,education,0.806,False,0.806
+U-0098,7,delhi technological university,https://ror.org/04gzb2213,University of Delhi,New Delhi,active,education;funder,0.696,True,0.776
+U-0098,8,delhi technological university,https://ror.org/00ha14p11,Visvesvaraya Technological University,Belagavi,active,education;funder,0.776,False,0.776
+U-0295,1,datta meghe institute of higher education and research,https://ror.org/02w7k5y22,Datta Meghe Institute of Higher Education and Research,Wardha,active,education;funder,1.0,True,1.0
+U-0295,2,datta meghe institute of higher education and research,https://ror.org/04yazpn06,Bharath University,Chennai,active,education;funder,0.885,False,0.885
+U-0295,3,datta meghe institute of higher education and research,https://ror.org/05pq0wd90,St. Peter's Institute of Higher Education and Research,Chennai,active,education,0.86,False,0.86
+U-0295,4,datta meghe institute of higher education and research,https://ror.org/0108gdg43,Sri Ramachandra Institute of Higher Education and Research,Porur,active,education;funder,0.804,False,0.804
+U-0295,5,datta meghe institute of higher education and research,https://ror.org/02r2k1c68,National Institute of Science Education and Research,Bhubaneswar,active,education;funder,0.792,False,0.792
+U-0295,6,datta meghe institute of higher education and research,https://ror.org/054hq3y71,Maharashtra Institute of Medical Education and Research,Pune,active,healthcare,0.752,False,0.752
+U-0295,7,datta meghe institute of higher education and research,https://ror.org/025qtp564,National Institute of Pharmaceutical Education and Research,Raebareli,active,education;funder,0.743,False,0.743
+U-0295,8,datta meghe institute of higher education and research,https://ror.org/04p9b6182,National Institute of Pharmaceutical Education and Research,Guwahati,active,education,0.743,False,0.743
+U-0577,1,national institute of technology durgapur,https://ror.org/04ds0jm32,National Institute of Technology Durgapur,Durgapur,active,education;funder,1.0,True,1.0
+U-0577,2,national institute of technology durgapur,https://ror.org/02y553197,National Institute of Technology Raipur,Raipur,active,education;funder,0.95,False,0.95
+U-0577,3,national institute of technology durgapur,https://ror.org/00aazk693,National Institute of Technology Manipur,Imphal,active,education,0.914,False,0.914
+U-0577,4,national institute of technology durgapur,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.909,False,0.909
+U-0577,5,national institute of technology durgapur,https://ror.org/01sebzx27,National Institute of Technology Jamshedpur,Jamshedpur,active,education,0.881,False,0.881
+U-0577,6,national institute of technology durgapur,https://ror.org/02tare285,"National Institute of Technology, Puducherry",Kāraikāl,active,education,0.881,False,0.881
+U-0577,7,national institute of technology durgapur,https://ror.org/011gmn932,National Institute of Technology Rourkela,Rourkela,active,education;funder,0.878,False,0.878
+U-0577,8,national institute of technology durgapur,https://ror.org/017ebfz38,National Institute of Technology Warangal,Warangal,active,education;funder,0.878,False,0.878
+U-0099,1,guru gobind singh indraprastha university,https://ror.org/034q1za58,Guru Gobind Singh Indraprastha University,Delhi,active,education,1.0,False,1.0
+U-0099,2,guru gobind singh indraprastha university,https://ror.org/04kf25f32,Shree Guru Gobind Singh Tricentenary University,Gurugram,active,education,0.727,False,0.727
+U-0099,3,guru gobind singh indraprastha university,https://ror.org/04dxgk724,Soban Singh Jeena University,Almora,active,education,0.667,False,0.667
+U-0099,4,guru gobind singh indraprastha university,https://ror.org/053nvxd25,Guru Kashi University,Sardulgarh,active,education,0.613,False,0.613
+U-0099,5,guru gobind singh indraprastha university,https://ror.org/04q23qy39,Chaudhary Ranbir Singh University,Hisar,active,education,0.595,False,0.595
+U-0099,6,guru gobind singh indraprastha university,https://ror.org/02gmjfa08,Bhagat Phool Singh Mahila Vishwavidyalaya,Rohtak,active,education,0.59,False,0.59
+U-0099,7,guru gobind singh indraprastha university,https://ror.org/04sjvrk20,Maharaja Ganga Singh University,Bikaner,active,education,0.583,False,0.583
+U-0099,8,guru gobind singh indraprastha university,https://ror.org/04m7rat64,Guru Ravidas Ayurved University,Hoshiārpur,active,education,0.583,False,0.583
+U-0470,1,periyar university,https://ror.org/05crs8s98,Periyar University,Salem,active,education;funder,1.0,True,1.0
+U-0470,2,periyar university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.788,False,0.788
+U-0470,3,periyar university,https://ror.org/057ap5t09,RK University,Rajkot,active,education,0.774,False,0.774
+U-0470,4,periyar university,https://ror.org/04hjsag95,JECRC University,Jaipur,active,education,0.765,False,0.765
+U-0470,5,periyar university,https://ror.org/04zxaa490,Invertis University,Bareilly,active,education,0.757,False,0.757
+U-0470,6,periyar university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.75,False,0.75
+U-0470,7,periyar university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.743,False,0.743
+U-0470,8,periyar university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.727,False,0.727
+U-0239,1,nitte,https://ror.org/029nydt37,Nitte University,Mangaluru,active,education,0.5,True,0.58
+U-0239,2,nitte,https://ror.org/01h4k6h92,Nitte Meenakshi Institute of Technology,Bengaluru,active,education;funder,0.227,False,0.227
+U-0136,1,gujarat university,https://ror.org/017f2w007,Gujarat University,Ahmedabad,active,education,1.0,True,1.0
+U-0136,2,gujarat university,https://ror.org/04frnz493,Veer Narmad South Gujarat University,Surat,active,education;funder,0.857,False,0.857
+U-0136,3,gujarat university,https://ror.org/008t1c044,GCS Foundation,Ahmedabad,active,education;funder,0.75,True,0.83
+U-0136,4,gujarat university,https://ror.org/05735fh94,Gujarat Ayurved University,Jamnagar,active,education,0.818,False,0.818
+U-0136,5,gujarat university,https://ror.org/02b3ksj71,Gujarat Maritime University,Gandhinagar,active,education,0.8,False,0.8
+U-0136,6,gujarat university,https://ror.org/059x8vm09,Gujarat Technological University,Ahmedabad,active,education,0.72,True,0.8
+U-0136,7,gujarat university,https://ror.org/01e6kag67,Gujarat Science City,Ahmedabad,active,government,0.684,True,0.764
+U-0136,8,gujarat university,https://ror.org/00q6pka22,Gujarat National Law University,Gandhinagar,active,education,0.735,False,0.735
+U-0410,1,malaviya national institute of technology,https://ror.org/0077k1j32,Malaviya National Institute of Technology Jaipur,Jaipur,active,education;funder,0.921,True,1.0
+U-0410,2,malaviya national institute of technology,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.884,False,0.884
+U-0410,3,malaviya national institute of technology,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.831,False,0.831
+U-0410,4,malaviya national institute of technology,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.81,False,0.81
+U-0410,5,malaviya national institute of technology,https://ror.org/03maknm89,National Institute of Ocean Technology,Chennai,active,education;funder,0.81,False,0.81
+U-0410,6,malaviya national institute of technology,https://ror.org/02qn6fq95,National Institute of Fashion Technology,New Delhi,active,education,0.79,False,0.79
+U-0410,7,malaviya national institute of technology,https://ror.org/03yyd7552,National Institute of Technology Calicut,Kozhikode,active,education;funder,0.79,False,0.79
+U-0410,8,malaviya national institute of technology,https://ror.org/00aazk693,National Institute of Technology Manipur,Imphal,active,education,0.79,False,0.79
+N-17,1,sawai man singh medical college,https://ror.org/02x3hmg72,SMS Medical College,Jaipur,active,education,1.0,True,1.0
+N-17,2,sawai man singh medical college,https://ror.org/000ezn412,Sawai Man Singh Hospital,Jaipur,active,healthcare,0.691,True,0.771
+N-17,3,sawai man singh medical college,https://ror.org/01m7pan94,Guru Gobind Singh Medical College and Hospital,Farīdkot,active,education,0.68,False,0.68
+N-17,4,sawai man singh medical college,https://ror.org/00bap2564,Vikramajit Singh Sanatan Dharma College,Kanpur,active,education,0.642,False,0.642
+N-17,5,sawai man singh medical college,https://ror.org/057d69c93,Uma Nath Singh Autonomous State Medical College Jaunpur,Jaunpur,active,government,0.641,False,0.641
+N-17,6,sawai man singh medical college,https://ror.org/012r29564,National Capital Region Institute of Medical Sciences,Nālpur,active,education,0.633,False,0.633
+N-17,7,sawai man singh medical college,https://ror.org/002xt8z47,Raja Balwant Singh College,Agra,active,education,0.632,False,0.632
+N-17,8,sawai man singh medical college,https://ror.org/01c15cd75,Maharaj Lakshmishwar Singh Memorial College,Darbhanga,active,education,0.622,False,0.622
+U-0530,1,motilal nehru national institute of technology,https://ror.org/04dp7tp96,Motilal Nehru National Institute of Technology,Prayagraj,active,education;funder,1.0,True,1.0
+U-0530,2,motilal nehru national institute of technology,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.821,False,0.821
+U-0530,3,motilal nehru national institute of technology,https://ror.org/04fv68152,Kamla Nehru Institute of Technology,Sultānpur,active,education,0.815,False,0.815
+U-0530,4,motilal nehru national institute of technology,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.78,False,0.78
+U-0530,5,motilal nehru national institute of technology,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.762,False,0.762
+U-0530,6,motilal nehru national institute of technology,https://ror.org/03maknm89,National Institute of Ocean Technology,Chennai,active,education;funder,0.762,False,0.762
+U-0530,7,motilal nehru national institute of technology,https://ror.org/02qn6fq95,National Institute of Fashion Technology,New Delhi,active,education,0.744,False,0.744
+U-0530,8,motilal nehru national institute of technology,https://ror.org/03yyd7552,National Institute of Technology Calicut,Kozhikode,active,education;funder,0.744,False,0.744
+U-0055,1,national institute of technology silchar,https://ror.org/001ws2a36,National Institute Of Technology Silchar,Silchar,active,education;funder,1.0,True,1.0
+U-0055,2,national institute of technology silchar,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.895,False,0.895
+U-0055,3,national institute of technology silchar,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.889,False,0.889
+U-0055,4,national institute of technology silchar,https://ror.org/03yyd7552,National Institute of Technology Calicut,Kozhikode,active,education;funder,0.875,False,0.875
+U-0055,5,national institute of technology silchar,https://ror.org/00aazk693,National Institute of Technology Manipur,Imphal,active,education,0.875,False,0.875
+U-0055,6,national institute of technology silchar,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.872,False,0.872
+U-0055,7,national institute of technology silchar,https://ror.org/01sebzx27,National Institute of Technology Jamshedpur,Jamshedpur,active,education,0.867,False,0.867
+U-0055,8,national institute of technology silchar,https://ror.org/02tare285,"National Institute of Technology, Puducherry",Kāraikāl,active,education,0.867,False,0.867
+U-0318,1,mumbai university,https://ror.org/032hdk172,University of Mumbai,Mumbai,active,education;funder,1.0,True,1.0
+U-0318,2,mumbai university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.774,False,0.774
+U-0318,3,mumbai university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.774,False,0.774
+U-0318,4,mumbai university,https://ror.org/01svbkm65,HSNC University,Mumbai,active,education,0.688,True,0.767
+U-0318,5,mumbai university,https://ror.org/00k65bx67,Amity University Mumbai,Panvel,active,education,0.667,False,0.667
+U-0318,6,mumbai university,https://ror.org/04zxaa490,Invertis University,Bareilly,active,education,0.667,False,0.667
+U-0318,7,mumbai university,https://ror.org/0563h0629,Mangalayatan University,Aligarh,active,education,0.65,False,0.65
+U-0318,8,mumbai university,https://ror.org/00yjpxn36,Maharashtra National Law University Mumbai,Mumbai,active,education,0.475,True,0.555
+U-0379,1,lovely professional university,https://ror.org/00et6q107,Lovely Professional University,Phagwāra,active,education;funder,1.0,True,1.0
+U-0379,2,lovely professional university,https://ror.org/02wfvah75,Shri Shankaracharya Professional University,Bhilai,active,education,0.685,False,0.685
+U-0379,3,lovely professional university,https://ror.org/04zxaa490,Invertis University,Bareilly,active,education,0.612,False,0.612
+U-0379,4,lovely professional university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.609,False,0.609
+U-0379,5,lovely professional university,https://ror.org/02j3w7f30,Madhya Pradesh Bhoj Open University,Bhopal,active,education,0.585,False,0.585
+U-0379,6,lovely professional university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.578,False,0.578
+U-0379,7,lovely professional university,https://ror.org/00vadgf54,Kaziranga University,Jorhāt,active,education,0.571,False,0.571
+U-0379,8,lovely professional university,https://ror.org/001x6y413,Palamuru University,Mahbūbnagar,active,education,0.571,False,0.571
+U-0215,1,bangalore university,https://ror.org/050j2vm64,Bangalore University,Bengaluru,active,education;funder,1.0,True,1.0
+U-0215,2,bangalore university,https://ror.org/01vf11073,Bengaluru North University,Kolār,active,education,0.87,False,0.87
+U-0215,3,bangalore university,https://ror.org/03218pf76,Presidency University,Bengaluru,active,education,0.667,True,0.747
+U-0215,4,bangalore university,https://ror.org/02ae11525,Biozeen (India),Bengaluru,active,company,0.619,True,0.699
+U-0215,5,bangalore university,https://ror.org/016tawm39,Bangalore Baptist Hospital,Bengaluru,active,healthcare,0.609,True,0.689
+U-0215,6,bangalore university,https://ror.org/02qx4d724,Bangalore Medical Center,Bengaluru,active,healthcare,0.591,True,0.671
+U-0215,7,bangalore university,https://ror.org/04e6jcd64,Thrombosis Research Institute,Bengaluru,active,nonprofit,0.545,True,0.625
+U-0215,8,bangalore university,https://ror.org/02xxpjq61,Indian Institute of Management Bangalore,Bengaluru,active,education;funder,0.545,True,0.625
+U-0334,1,Visvesvaraya National Institute of Technology Nagpur,https://ror.org/02zrtpp84,Visvesvaraya National Institute of Technology,Nagpur,active,education;funder,0.928,True,1.0
+U-0334,2,Visvesvaraya National Institute of Technology Nagpur,https://ror.org/04ds0jm32,National Institute of Technology Durgapur,Durgapur,active,education;funder,0.796,False,0.796
+U-0334,3,Visvesvaraya National Institute of Technology Nagpur,https://ror.org/01sebzx27,National Institute of Technology Jamshedpur,Jamshedpur,active,education,0.779,False,0.779
+U-0334,4,Visvesvaraya National Institute of Technology Nagpur,https://ror.org/04cbvzp68,National Institute of Technology Nagaland,Dimāpur,active,education,0.774,False,0.774
+U-0334,5,Visvesvaraya National Institute of Technology Nagpur,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.773,False,0.773
+U-0334,6,Visvesvaraya National Institute of Technology Nagpur,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.762,False,0.762
+U-0334,7,Visvesvaraya National Institute of Technology Nagpur,https://ror.org/00qf52e32,National Institute of One Health,Nagpur,active,government,0.681,True,0.761
+U-0334,8,Visvesvaraya National Institute of Technology Nagpur,https://ror.org/03yyd7552,National Institute of Technology Calicut,Kozhikode,active,education;funder,0.761,False,0.761
+U-0458,1,kalasalingam academy of research and education,https://ror.org/04fm2fn75,Kalasalingam Academy of Research and Education,Srivilliputhur,active,education,1.0,True,1.0
+U-0458,2,kalasalingam academy of research and education,https://ror.org/0394w2w14,Chettinad Academy of Research and Education,Chennai,active,education;funder,0.831,False,0.831
+U-0458,3,kalasalingam academy of research and education,https://ror.org/00ssvzv66,Karpagam Academy of Higher Education,Coimbatore,active,education;funder,0.707,False,0.707
+U-0458,4,kalasalingam academy of research and education,https://ror.org/013x70191,JSS Academy of Higher Education and Research,Mysuru,active,education,0.625,False,0.625
+U-0458,5,kalasalingam academy of research and education,https://ror.org/03aam9155,KLE Academy of Higher Education and Research,Belagavi,active,education,0.625,False,0.625
+U-0458,6,kalasalingam academy of research and education,https://ror.org/04jdy5g59,Meenakshi Academy of Higher Education and Research,Chennai,active,education,0.625,False,0.625
+U-0458,7,kalasalingam academy of research and education,https://ror.org/03b1z9e58,Academy of Continuing Medical Education & Research,Pune,active,nonprofit,0.625,False,0.625
+U-0458,8,kalasalingam academy of research and education,https://ror.org/02xzytt36,Manipal Academy of Higher Education,Manipal,active,education;funder,0.617,False,0.617
+U-0747,1,chandigarh university,https://ror.org/05t4pvx35,Chandigarh University,Mohali,active,education;funder,1.0,True,1.0
+U-0747,2,chandigarh university,https://ror.org/02sdp4682,Chandigarh University Uttar Pradesh,Unnāo,active,education,0.875,False,0.875
+U-0747,3,chandigarh university,https://ror.org/0403tv949,Nalanda University,Rājgīr,active,education,0.769,False,0.769
+U-0747,4,chandigarh university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.737,False,0.737
+U-0747,5,chandigarh university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.722,False,0.722
+U-0747,6,chandigarh university,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.722,False,0.722
+U-0747,7,chandigarh university,https://ror.org/0056fa628,Monad University,Haripur,active,education,0.703,False,0.703
+U-0747,8,chandigarh university,https://ror.org/04hjsag95,JECRC University,Jaipur,active,education,0.703,False,0.703
+U-0374,1,dr b r ambedkar national institute of technology jalandhar,https://ror.org/03xt0bg88,Dr. B. R. Ambedkar National Institute of Technology Jalandhar,Jalandhar,active,education;funder,1.0,True,1.0
+U-0374,2,dr b r ambedkar national institute of technology jalandhar,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.711,False,0.711
+U-0374,3,dr b r ambedkar national institute of technology jalandhar,https://ror.org/02cxg3617,Dr. B.R. Ambedkar State Institute of Medical Sciences,Mohali,active,education,0.679,False,0.679
+U-0374,4,dr b r ambedkar national institute of technology jalandhar,https://ror.org/02dfe8754,Dr. N.G.P. Institute of Technology,Coimbatore,active,education,0.644,False,0.644
+U-0374,5,dr b r ambedkar national institute of technology jalandhar,https://ror.org/054b0mb55,"Dr. Ambedkar Institute of Hotel Management, Catering, and Nutrition",Chandigarh,active,education,0.574,False,0.574
+U-0374,6,dr b r ambedkar national institute of technology jalandhar,https://ror.org/04kn85z15,"Dr. B. R. Ambedkar University, Srikakulam",Etcherla,active,education,0.559,False,0.559
+U-0374,7,dr b r ambedkar national institute of technology jalandhar,https://ror.org/03d5y7k92,Rajkiya Engineering College Banda,Bānda,active,education,0.532,False,0.532
+U-0374,8,dr b r ambedkar national institute of technology jalandhar,https://ror.org/00k4ab982,Dr. Bhimrao Ambedkar University,Agra,active,education,0.524,False,0.524
+U-0149,1,sardar vallabhbhai national institute of technology,https://ror.org/02y394t43,Sardar Vallabhbhai National Institute of Technology Surat,Surat,active,education,0.944,True,1.0
+U-0149,2,sardar vallabhbhai national institute of technology,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.771,False,0.771
+U-0149,3,sardar vallabhbhai national institute of technology,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.736,False,0.736
+U-0149,4,sardar vallabhbhai national institute of technology,https://ror.org/03maknm89,National Institute of Ocean Technology,Chennai,active,education;funder,0.719,False,0.719
+U-0149,5,sardar vallabhbhai national institute of technology,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.719,False,0.719
+U-0149,6,sardar vallabhbhai national institute of technology,https://ror.org/04zs36046,Sardar Swaran Singh National Institute of Bio-Energy,Kapurthala Town,active,facility,0.718,False,0.718
+U-0149,7,sardar vallabhbhai national institute of technology,https://ror.org/01r27v904,Sardar Vallabhbhai Patel University of Agriculture & Technology,Meerut,active,education,0.707,False,0.707
+U-0149,8,sardar vallabhbhai national institute of technology,https://ror.org/00aazk693,National Institute of Technology Manipur,Imphal,active,education,0.703,False,0.703
+N-15,1,All India Institute of Medical Sciences New Delhi,https://ror.org/02dwcqs71,All India Institute of Medical Sciences,New Delhi,active,education;funder,0.886,True,0.966
+N-15,2,All India Institute of Medical Sciences New Delhi,https://ror.org/00t0ht588,"All India Institute of Medical Sciences, Deoghar",Deoghar,active,government,0.896,False,0.896
+N-15,3,All India Institute of Medical Sciences New Delhi,https://ror.org/000kxhc93,All India Institute of Medical Sciences Guwahati,Guwahati,active,education,0.887,False,0.887
+N-15,4,All India Institute of Medical Sciences New Delhi,https://ror.org/00003ef66,"All India Institute of Ayurveda, New Delhi",New Delhi,active,education,0.8,True,0.88
+N-15,5,All India Institute of Medical Sciences New Delhi,https://ror.org/05e15a779,All India Institute of Medical Sciences Jodhpur,Jodhpur,active,education;funder,0.875,False,0.875
+N-15,6,All India Institute of Medical Sciences New Delhi,https://ror.org/00q4j0f43,"All India Institute of Medical Sciences, Madurai",Madurai,active,education,0.875,False,0.875
+N-15,7,All India Institute of Medical Sciences New Delhi,https://ror.org/033dtky70,"All India Institute of Medical Sciences, Kalyani",Kalyani,active,education,0.875,False,0.875
+N-15,8,All India Institute of Medical Sciences New Delhi,https://ror.org/033ax5g32,"All India Institute of Medical Sciences, Patna",Patna,active,healthcare,0.872,False,0.872
+U-0368,1,jawaharlal institute of post graduate medical education and research,https://ror.org/02fq2px14,Jawaharlal Institute of Post Graduate Medical Education and Research,Puducherry,active,education;funder,1.0,True,1.0
+U-0368,2,jawaharlal institute of post graduate medical education and research,https://ror.org/00ysvbp68,Institute of Post Graduate Medical Education and Research,Kolkata,active,education,0.912,False,0.912
+U-0368,3,jawaharlal institute of post graduate medical education and research,https://ror.org/009nfym65,Post Graduate Institute of Medical Education and Research,Chandigarh,active,education;funder,0.889,False,0.889
+U-0368,4,jawaharlal institute of post graduate medical education and research,https://ror.org/054hq3y71,Maharashtra Institute of Medical Education and Research,Pune,active,healthcare,0.797,False,0.797
+U-0368,5,jawaharlal institute of post graduate medical education and research,https://ror.org/049weg966,ESI - Post Graduate Institute of Medical Science and Research,Bengaluru,active,healthcare,0.636,False,0.636
+U-0368,6,jawaharlal institute of post graduate medical education and research,https://ror.org/01eskr961,ESI - Post Graduate Institute of Medical Science and Research,Kolkata,active,healthcare,0.636,False,0.636
+U-0368,7,jawaharlal institute of post graduate medical education and research,https://ror.org/00a9yh217,Employees State Insurance Post Graduate Institute of Medical Sciences and Research,New Delhi,active,healthcare,0.6,False,0.6
+U-0368,8,jawaharlal institute of post graduate medical education and research,https://ror.org/055vaef39,NAMO Medical Education & Research Institute,Silvassa,active,government,0.584,False,0.584
+U-0498,1,Babasaheb Bhimrao Ambedkar University,https://ror.org/04x7ccp17,Babasaheb Bhimrao Ambedkar University,Lucknow,active,education,1.0,True,1.0
+U-0498,2,Babasaheb Bhimrao Ambedkar University,https://ror.org/04jgpa018,Babasaheb Bhimrao Ambedkar Bihar University,Muzaffarpur,active,education,0.925,False,0.925
+U-0498,3,Babasaheb Bhimrao Ambedkar University,https://ror.org/00k4ab982,Dr. Bhimrao Ambedkar University,Agra,active,education,0.836,False,0.836
+U-0498,4,Babasaheb Bhimrao Ambedkar University,https://ror.org/002xc5p11,Dr. Babasaheb Ambedkar Open University,Ahmedabad,active,education,0.784,False,0.784
+U-0498,5,Babasaheb Bhimrao Ambedkar University,https://ror.org/03bw6pv11,Baba Saheb Ambedkar Education University,Kolkata,active,education,0.753,False,0.753
+U-0498,6,Babasaheb Bhimrao Ambedkar University,https://ror.org/033pfj584,Dr. Babasaheb Ambedkar Marathwada University,Aurangabad,active,education,0.725,False,0.725
+U-0498,7,Babasaheb Bhimrao Ambedkar University,https://ror.org/05tc4vc39,Dr. Babasaheb Ambedkar Technological University,Goregaon,active,education,0.699,False,0.699
+U-0498,8,Babasaheb Bhimrao Ambedkar University,https://ror.org/00gqzks48,Dr. B. R. Ambedkar Open University,Hyderabad,active,education,0.676,False,0.676
+U-0689,1,all india institute of medical sciences jodhpur,https://ror.org/05e15a779,All India Institute of Medical Sciences Jodhpur,Jodhpur,active,education;funder,1.0,True,1.0
+U-0689,2,all india institute of medical sciences jodhpur,https://ror.org/04yve5w51,All India Institute of Medical Sciences Gorakhpur,Gorakhpur,active,government,0.938,False,0.938
+U-0689,3,all india institute of medical sciences jodhpur,https://ror.org/01w4gn737,"All India Institute of Medical Sciences, Nagpur",Nagpur,active,government,0.925,False,0.925
+U-0689,4,all india institute of medical sciences jodhpur,https://ror.org/02ys8pq62,All India Institute of Medical Sciences Raipur,Raipur,active,education,0.925,False,0.925
+U-0689,5,all india institute of medical sciences jodhpur,https://ror.org/00t0ht588,"All India Institute of Medical Sciences, Deoghar",Deoghar,active,government,0.915,False,0.915
+U-0689,6,all india institute of medical sciences jodhpur,https://ror.org/00q4j0f43,"All India Institute of Medical Sciences, Madurai",Madurai,active,education,0.915,False,0.915
+U-0689,7,all india institute of medical sciences jodhpur,https://ror.org/02dwcqs71,All India Institute of Medical Sciences,New Delhi,active,education;funder,0.907,False,0.907
+U-0689,8,all india institute of medical sciences jodhpur,https://ror.org/02w2tgt96,"All India Institute of Medical Sciences, Bilaspur",Bilaspur,active,education,0.905,False,0.905
+U-0564,1,upes,https://ror.org/04q2jes40,University of Petroleum and Energy Studies,Dehradun,active,education;funder,0.174,True,0.254
+U-0249,1,visvesvaraya technological university,https://ror.org/00ha14p11,Visvesvaraya Technological University,Belagavi,active,education;funder,1.0,True,1.0
+U-0249,2,visvesvaraya technological university,https://ror.org/04yn30r61,APJ Abdul Kalam Technological University,Thiruvananthapuram,active,education;funder,0.853,False,0.853
+U-0249,3,visvesvaraya technological university,https://ror.org/059x8vm09,Gujarat Technological University,Ahmedabad,active,education,0.812,False,0.812
+U-0249,4,visvesvaraya technological university,https://ror.org/04yh52k23,KLE Technological University,Hubballi,active,education;funder,0.8,False,0.8
+U-0249,5,visvesvaraya technological university,https://ror.org/008128n17,COEP Technological University,Pune,active,education,0.788,False,0.788
+U-0249,6,visvesvaraya technological university,https://ror.org/01w2xgk13,Puducherry Technological University,Puducherry,active,education,0.778,False,0.778
+U-0249,7,visvesvaraya technological university,https://ror.org/01ztcvt22,Delhi Technological University,New Delhi,active,education;funder,0.776,False,0.776
+U-0249,8,visvesvaraya technological university,https://ror.org/05tc4vc39,Dr. Babasaheb Ambedkar Technological University,Goregaon,active,education,0.699,False,0.699
+U-0263,1,national institute of technology calicut,https://ror.org/03yyd7552,National Institute of Technology Calicut,Kozhikode,active,education;funder,1.0,True,1.0
+U-0263,2,national institute of technology calicut,https://ror.org/00aazk693,National Institute of Technology Manipur,Imphal,active,education,0.9,False,0.9
+U-0263,3,national institute of technology calicut,https://ror.org/032twef21,National Institute of Technology Delhi,New Delhi,active,education;funder,0.897,False,0.897
+U-0263,4,national institute of technology calicut,https://ror.org/01vmfpj79,National Institute of Technology Goa,Ponda,active,education,0.895,False,0.895
+U-0263,5,national institute of technology calicut,https://ror.org/026vtd268,Maulana Azad National Institute of Technology,Bhopal,active,education;funder,0.889,False,0.889
+U-0263,6,national institute of technology calicut,https://ror.org/04cbvzp68,National Institute of Technology Nagaland,Dimāpur,active,education,0.864,False,0.864
+U-0263,7,national institute of technology calicut,https://ror.org/03swyrn62,National Institute of Technology Agartala,Agartala,active,education;funder,0.864,False,0.864
+U-0263,8,national institute of technology calicut,https://ror.org/04ds0jm32,National Institute of Technology Durgapur,Durgapur,active,education;funder,0.864,False,0.864
+U-0395,1,indian institute of technology jodhpur,https://ror.org/03yacj906,Indian Institute of Technology Jodhpur,Jodhpur,active,education,1.0,True,1.0
+U-0395,2,indian institute of technology jodhpur,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,active,education;funder,0.919,False,0.919
+U-0395,3,indian institute of technology jodhpur,https://ror.org/01kh5gc44,Indian Institute of Technology BHU,Varanasi,active,education;funder,0.917,False,0.917
+U-0395,4,indian institute of technology jodhpur,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,active,education;funder,0.907,False,0.907
+U-0395,5,indian institute of technology jodhpur,https://ror.org/0509djg30,Indian Institute of Technology Dharwad,Dharwad,active,education,0.895,False,0.895
+U-0395,6,indian institute of technology jodhpur,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,active,education;funder,0.892,False,0.892
+U-0395,7,indian institute of technology jodhpur,https://ror.org/02f0vsw63,Indian Institute of Technology Jammu,Jammu,active,education,0.892,False,0.892
+U-0395,8,indian institute of technology jodhpur,https://ror.org/02v7trd43,Indian Institute of Technology Goa,Ponda,active,education,0.889,False,0.889
+U-0691,1,all india institute of medical sciences rishikesh,https://ror.org/05qjwb041,All India Institute of Medical Sciences Rishikesh,Rishikesh,active,government,1.0,True,1.0
+U-0691,2,all india institute of medical sciences rishikesh,https://ror.org/02dwcqs71,All India Institute of Medical Sciences,New Delhi,active,education;funder,0.886,False,0.886
+U-0691,3,all india institute of medical sciences rishikesh,https://ror.org/01hw1ck36,"All India Institute of Medical Sciences, Rajkot",Rajkot,active,government,0.884,False,0.884
+U-0691,4,all india institute of medical sciences rishikesh,https://ror.org/02ys8pq62,All India Institute of Medical Sciences Raipur,Raipur,active,education,0.884,False,0.884
+U-0691,5,all india institute of medical sciences rishikesh,https://ror.org/00q4j0f43,"All India Institute of Medical Sciences, Madurai",Madurai,active,education,0.875,False,0.875
+U-0691,6,all india institute of medical sciences rishikesh,https://ror.org/01rs0zz87,All India Institute of Medical Sciences Bhopal,Bhopal,active,education,0.863,False,0.863
+U-0691,7,all india institute of medical sciences rishikesh,https://ror.org/01w4gn737,"All India Institute of Medical Sciences, Nagpur",Nagpur,active,government,0.863,False,0.863
+U-0691,8,all india institute of medical sciences rishikesh,https://ror.org/029mnbn96,All India Institute of Medical Sciences Bhubaneswar,Bhubaneswar,active,education,0.86,False,0.86
+U-0555,1,graphic era university,https://ror.org/03wqgqd89,Graphic Era University,Dehradun,active,education,1.0,True,1.0
+U-0555,2,graphic era university,https://ror.org/01bb4h160,Graphic Era Hill University,Dehradun,active,education,0.898,True,0.978
+U-0555,3,graphic era university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.737,False,0.737
+U-0555,4,graphic era university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.718,False,0.718
+U-0555,5,graphic era university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.703,False,0.703
+U-0555,6,graphic era university,https://ror.org/04hjsag95,JECRC University,Jaipur,active,education,0.684,False,0.684
+U-0555,7,graphic era university,https://ror.org/04zxaa490,Invertis University,Bareilly,active,education,0.683,False,0.683
+U-0555,8,graphic era university,https://ror.org/00nphdr35,Rayalaseema University,Kurnool,active,education,0.682,False,0.682
+U-0217,1,christ university,https://ror.org/022tv9y30,Christ University,Bengaluru,active,education;funder,1.0,True,1.0
+U-0217,2,christ university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.812,False,0.812
+U-0217,3,christ university,https://ror.org/04hjsag95,JECRC University,Jaipur,active,education,0.788,False,0.788
+U-0217,4,christ university,https://ror.org/04zxaa490,Invertis University,Bareilly,active,education,0.778,False,0.778
+U-0217,5,christ university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.774,False,0.774
+U-0217,6,christ university,https://ror.org/03kzpe032,IEC University,Baddi,active,education,0.774,False,0.774
+U-0217,7,christ university,https://ror.org/00yz0w484,"CHRIST (Deemed to be) University, Delhi NCR",Ghaziabad,active,education,0.773,False,0.773
+U-0217,8,christ university,https://ror.org/03yahhs20,Bastar University,Jagdalpur,active,education,0.765,False,0.765
+U-0574,1,Indian Statistical Institute,https://ror.org/00q2w1j53,Indian Statistical Institute,Kolkata,active,education;funder,1.0,True,1.0
+U-0574,2,Indian Statistical Institute,https://ror.org/02yqprq16,"Indian Statistical Institute, Bangalore Centre",Bengaluru,active,education,0.848,False,0.848
+U-0574,3,Indian Statistical Institute,https://ror.org/01hntha05,"Indian Statistical Institute, Delhi Centre",New Delhi,active,education,0.848,False,0.848
+U-0574,4,Indian Statistical Institute,https://ror.org/051hr2x62,Indian Social Institute,New Delhi,active,education,0.824,False,0.824
+U-0574,5,Indian Statistical Institute,https://ror.org/02bbvzp74,Indian Law Institute,New Delhi,active,education,0.75,False,0.75
+U-0574,6,Indian Statistical Institute,https://ror.org/047q4fb87,Indian Institute of Natural Resins and Gums,Ranchi,active,facility,0.702,False,0.702
+U-0574,7,Indian Statistical Institute,https://ror.org/01vj25w90,Indian Institute of Metals,Kolkata,active,facility,0.593,True,0.673
+U-0574,8,Indian Statistical Institute,https://ror.org/01bzgdw81,Indian Agricultural Research Institute,New Delhi,active,facility;funder,0.667,False,0.667
+U-0190,1,shoolini university of biotechnology and management sciences,https://ror.org/02xe2fg84,Shoolini University,Solan,active,education;funder,1.0,True,1.0
+U-0190,2,shoolini university of biotechnology and management sciences,https://ror.org/03kfqmz83,University of Technology and Management,Shillong,active,education,0.788,False,0.788
+U-0190,3,shoolini university of biotechnology and management sciences,https://ror.org/03js1g511,Centurion University of Technology and Management,Bhubaneswar,active,education,0.771,False,0.771
+U-0190,4,shoolini university of biotechnology and management sciences,https://ror.org/00zh3gn22,Auro University,Surat,active,education,0.667,False,0.667
+U-0190,5,shoolini university of biotechnology and management sciences,https://ror.org/03jjxkw75,Rajasthan University of Veterinary and Animal Sciences,Bikaner,active,education,0.667,False,0.667
+U-0190,6,shoolini university of biotechnology and management sciences,https://ror.org/02decng19,University of Engineering & Management,Kolkata,active,education,0.66,False,0.66
+U-0190,7,shoolini university of biotechnology and management sciences,https://ror.org/05p2t3578,"University of Engineering & Management, Jaipur",Jaipur,active,education,0.654,False,0.654
+U-0190,8,shoolini university of biotechnology and management sciences,https://ror.org/052nj3835,"School of Management Sciences, Varanasi",Varanasi,active,education,0.629,False,0.629
+U-0003,1,acharya nagarjuna university,https://ror.org/02mfapa96,Acharya Nagarjuna University,Guntur,active,education,1.0,True,1.0
+U-0003,2,acharya nagarjuna university,https://ror.org/00tjh4k26,Acharya N. G. Ranga Agricultural University,Guntur,active,education;funder,0.667,True,0.747
+U-0003,3,acharya nagarjuna university,https://ror.org/00vadgf54,Kaziranga University,Jorhāt,active,education,0.667,False,0.667
+U-0003,4,acharya nagarjuna university,https://ror.org/02barjc38,Arni University,Dharamsala,active,education,0.651,False,0.651
+U-0003,5,acharya nagarjuna university,https://ror.org/0563h0629,Mangalayatan University,Aligarh,active,education,0.627,False,0.627
+U-0003,6,acharya nagarjuna university,https://ror.org/03y1hrs26,Kolhan University,Chāībāsa,active,education,0.622,False,0.622
+U-0003,7,acharya nagarjuna university,https://ror.org/02j1xr113,Ashoka University,Delhi,active,education,0.622,False,0.622
+U-0003,8,acharya nagarjuna university,https://ror.org/02twyz205,CMJ University,Shillong,active,education,0.619,False,0.619
+U-0686,1,all india institute of medical sciences patna,https://ror.org/033ax5g32,"All India Institute of Medical Sciences, Patna",Patna,active,healthcare,1.0,True,1.0
+U-0686,2,all india institute of medical sciences patna,https://ror.org/02dwcqs71,All India Institute of Medical Sciences,New Delhi,active,education;funder,0.929,False,0.929
+U-0686,3,all india institute of medical sciences patna,https://ror.org/01rs0zz87,All India Institute of Medical Sciences Bhopal,Bhopal,active,education,0.923,False,0.923
+U-0686,4,all india institute of medical sciences patna,https://ror.org/01w4gn737,"All India Institute of Medical Sciences, Nagpur",Nagpur,active,government,0.923,False,0.923
+U-0686,5,all india institute of medical sciences patna,https://ror.org/01hw1ck36,"All India Institute of Medical Sciences, Rajkot",Rajkot,active,government,0.923,False,0.923
+U-0686,6,all india institute of medical sciences patna,https://ror.org/033dtky70,"All India Institute of Medical Sciences, Kalyani",Kalyani,active,education,0.913,False,0.913
+U-0686,7,all india institute of medical sciences patna,https://ror.org/00q4j0f43,"All India Institute of Medical Sciences, Madurai",Madurai,active,education,0.913,False,0.913
+U-0686,8,all india institute of medical sciences patna,https://ror.org/000kxhc93,All India Institute of Medical Sciences Guwahati,Guwahati,active,education,0.903,False,0.903
+U-0079,1,post graduate institute of medical education and research,https://ror.org/00ysvbp68,Institute of Post Graduate Medical Education and Research,Kolkata,active,education,1.0,False,1.0
+U-0079,2,post graduate institute of medical education and research,https://ror.org/009nfym65,Post Graduate Institute of Medical Education and Research,Chandigarh,active,education;funder,1.0,True,1.0
+U-0079,3,post graduate institute of medical education and research,https://ror.org/02fq2px14,Jawaharlal Institute of Post Graduate Medical Education and Research,Puducherry,active,education;funder,0.889,False,0.889
+U-0079,4,post graduate institute of medical education and research,https://ror.org/049weg966,ESI - Post Graduate Institute of Medical Science and Research,Bengaluru,active,healthcare,0.862,False,0.862
+U-0079,5,post graduate institute of medical education and research,https://ror.org/01eskr961,ESI - Post Graduate Institute of Medical Science and Research,Kolkata,active,healthcare,0.862,False,0.862
+U-0079,6,post graduate institute of medical education and research,https://ror.org/054hq3y71,Maharashtra Institute of Medical Education and Research,Pune,active,healthcare,0.839,False,0.839
+U-0079,7,post graduate institute of medical education and research,https://ror.org/02ncxtg25,Post Graduate Institute of Medical Sciences Navi Mumbai,Navi Mumbai,active,education,0.78,False,0.78
+U-0079,8,post graduate institute of medical education and research,https://ror.org/00a9yh217,Employees State Insurance Post Graduate Institute of Medical Sciences and Research,New Delhi,active,healthcare,0.719,False,0.719
+U-0236,1,National Institute of Mental Health and Neurosciences,https://ror.org/0405n5e57,National Institute of Mental Health and Neurosciences,Bengaluru,active,funder;healthcare,1.0,True,1.0
+U-0236,2,National Institute of Mental Health and Neurosciences,https://ror.org/013aa2c03,Institute of Mental Health and Neurosciences,Kozhikode,active,education,0.907,False,0.907
+U-0236,3,National Institute of Mental Health and Neurosciences,https://ror.org/059g7w694,Indlas VIMHANS Hospital,Vijayawada,active,healthcare,0.845,False,0.845
+U-0236,4,National Institute of Mental Health and Neurosciences,https://ror.org/00hprb304,KCG College of Technology,Chennai,active,education,0.763,False,0.763
+U-0236,5,National Institute of Mental Health and Neurosciences,https://ror.org/000t17x96,National Institute of Plant Health Management,Hyderabad,active,government,0.755,False,0.755
+U-0236,6,National Institute of Mental Health and Neurosciences,https://ror.org/05e80bb92,Institute of Mental Health and Hospital,Agra,active,healthcare,0.739,False,0.739
+U-0236,7,National Institute of Mental Health and Neurosciences,https://ror.org/00qf52e32,National Institute of One Health,Nagpur,active,government,0.739,False,0.739
+U-0236,8,National Institute of Mental Health and Neurosciences,https://ror.org/009ezqy65,National Institute of Health and Family Welfare,New Delhi,active,government,0.72,False,0.72
+U-0014,1,international institute of information technology hyderabad,https://ror.org/05f11g639,"International Institute of Information Technology, Hyderabad",Hyderabad,active,education,1.0,True,1.0
+U-0014,2,international institute of information technology hyderabad,https://ror.org/016kfyg29,International Institute of Information Technology,Naya Raipur,active,facility,0.907,False,0.907
+U-0014,3,international institute of information technology hyderabad,https://ror.org/00qryer39,International Institute of Information Technology,Bhubaneswar,active,education,0.907,False,0.907
+U-0014,4,international institute of information technology hyderabad,https://ror.org/02dernx73,International Institute of Information Technology,Pune,active,education,0.907,False,0.907
+U-0014,5,international institute of information technology hyderabad,https://ror.org/05h9eqy10,International Institute of Information Technology Bangalore,Bengaluru,active,education,0.881,False,0.881
+U-0014,6,international institute of information technology hyderabad,https://ror.org/03ebghh63,Vignana Bharathi Institute of Technology,Hyderabad,active,education,0.716,True,0.796
+U-0014,7,international institute of information technology hyderabad,https://ror.org/02z8z1589,Indian Institute of Information Technology Una,Una,active,education,0.781,False,0.781
+U-0014,8,international institute of information technology hyderabad,https://ror.org/01zhs7w23,Indian Institute of Information Technology Bhopal,Bhopal,active,education,0.778,False,0.778
+U-0200,1,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,https://ror.org/00jgwn197,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,Srinagar,active,education,1.0,True,1.0
+U-0200,2,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,https://ror.org/04n3n6d60,Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu,Jammu,active,education,0.947,False,0.947
+U-0200,3,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,https://ror.org/043jp9q35,"Islamic University of Science and Technology, Kashmir",Srinagar,active,education,0.766,True,0.846
+U-0200,4,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,https://ror.org/0403ytw22,Chandra Shekhar Azad University of Agriculture and Technology,Kanpur,active,education,0.686,False,0.686
+U-0200,5,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,https://ror.org/03js6zg56,"University of Agricultural Sciences, Bangalore",Bengaluru,active,education,0.678,False,0.678
+U-0200,6,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,https://ror.org/05sax3c46,"Kerala University of Digital Sciences, Innovation and Technology",Thiruvananthapuram,active,education,0.676,False,0.676
+U-0200,7,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,https://ror.org/02tjcpt69,University of Agricultural Sciences Raichur,Rāichūr,active,education,0.672,False,0.672
+U-0200,8,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,https://ror.org/03gd3wz76,Sher-i-Kashmir Institute of Medical Sciences,Srinagar,active,education,0.583,True,0.663
+U-0749,1,manipal university jaipur,https://ror.org/040h76494,Manipal University Jaipur,Jaipur,active,education,1.0,True,1.0
+U-0749,2,manipal university jaipur,https://ror.org/01gpd3550,"Apex University, Jaipur",Jaipur,active,education,0.851,True,0.931
+U-0749,3,manipal university jaipur,https://ror.org/03vr3gq96,"Institute of Chartered Financial Analysts of India University, Jaipur",Jaipur,active,education,0.833,True,0.913
+U-0749,4,manipal university jaipur,https://ror.org/027sha433,Amity University Jaipur,Jaipur,active,education,0.833,True,0.913
+U-0749,5,manipal university jaipur,https://ror.org/002q7jf46,Jagannath University Jaipur,Jaipur,active,education,0.808,True,0.888
+U-0749,6,manipal university jaipur,https://ror.org/02xzytt36,Manipal Academy of Higher Education,Manipal,active,education;funder,0.837,False,0.837
+U-0749,7,manipal university jaipur,https://ror.org/010gckf65,Sikkim Manipal University,Gangtok,active,education,0.72,False,0.72
+U-0749,8,manipal university jaipur,https://ror.org/01xrazc29,Jaipur National University,Jaipur,active,education,0.627,True,0.707
+U-0739,1,madan mohan malaviya university of technology,https://ror.org/04h1w2j35,Madan Mohan Malaviya University of Technology,Gorakhpur,active,education,1.0,True,1.0
+U-0739,2,madan mohan malaviya university of technology,https://ror.org/030tcae29,"Maulana Abul Kalam Azad University of Technology, West Bengal",Kolkata,active,education,0.774,False,0.774
+U-0739,3,madan mohan malaviya university of technology,https://ror.org/01fczmh85,Netaji Subhas University of Technology,New Delhi,active,education;funder,0.699,False,0.699
+U-0739,4,madan mohan malaviya university of technology,https://ror.org/00bsj2955,Punjab Engineering College,Chandigarh,active,education;funder,0.685,False,0.685
+U-0739,5,madan mohan malaviya university of technology,https://ror.org/05aa66977,Saroj Mohan Institute of Technology,Hugli,active,education,0.675,False,0.675
+U-0739,6,madan mohan malaviya university of technology,https://ror.org/02sar2p31,"Banda University of Agriculture and Technology, Banda",Banda,active,education,0.615,False,0.615
+U-0739,7,madan mohan malaviya university of technology,https://ror.org/00hshrf16,Jaypee University of Information Technology,Solan,active,education,0.614,False,0.614
+U-0739,8,madan mohan malaviya university of technology,https://ror.org/0077k1j32,Malaviya National Institute of Technology Jaipur,Jaipur,active,education;funder,0.602,False,0.602
+U-0688,1,all india institute of medical sciences bhubaneswar,https://ror.org/029mnbn96,All India Institute of Medical Sciences Bhubaneswar,Bhubaneswar,active,education,1.0,False,1.0
+U-0688,2,all india institute of medical sciences bhubaneswar,https://ror.org/000trq935,All India Institute of Medical Sciences Bibinagar,Hyderabad,active,education,0.9,False,0.9
+U-0688,3,all india institute of medical sciences bhubaneswar,https://ror.org/033ax5g32,"All India Institute of Medical Sciences, Patna",Patna,active,healthcare,0.896,False,0.896
+U-0688,4,all india institute of medical sciences bhubaneswar,https://ror.org/01rs0zz87,All India Institute of Medical Sciences Bhopal,Bhopal,active,education,0.887,False,0.887
+U-0688,5,all india institute of medical sciences bhubaneswar,https://ror.org/00t0ht588,"All India Institute of Medical Sciences, Deoghar",Deoghar,active,government,0.878,False,0.878
+U-0688,6,all india institute of medical sciences bhubaneswar,https://ror.org/05e15a779,All India Institute of Medical Sciences Jodhpur,Jodhpur,active,education;funder,0.878,False,0.878
+U-0688,7,all india institute of medical sciences bhubaneswar,https://ror.org/000kxhc93,All India Institute of Medical Sciences Guwahati,Guwahati,active,education,0.869,False,0.869
+U-0688,8,all india institute of medical sciences bhubaneswar,https://ror.org/02w2tgt96,"All India Institute of Medical Sciences, Bilaspur",Bilaspur,active,education,0.869,False,0.869

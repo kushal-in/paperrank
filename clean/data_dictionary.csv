@@ -1,0 +1,41 @@
+table,column,meaning,unit,source,dtype_in_file,allowed_range,observed_range
+nirf_openalex_joined,year,NIRF ranking year,year,NIRF Overall ranking page,int64,2017 to 2025,2017 to 2025
+nirf_openalex_joined,id_new,"our institution id (NIRF id tail, or X-#### placeholder when NIRF's 2017 id could not be matched)",text,"derived, step 2",str,"non-empty; U-, C-, I-, X- followed by digits",164 distinct values
+nirf_openalex_joined,name_new,one lower-case name per institution (latest name used),text,"derived, step 2",str,non-empty lower-case text,164 distinct values
+nirf_openalex_joined,location_raw,city as printed by NIRF,text,NIRF,str,non-empty text,106 distinct values
+nirf_openalex_joined,location_clean,city after spelling fixes,text,"derived, step 2",str,non-empty text,92 distinct values
+nirf_openalex_joined,rank,NIRF Overall rank in that year (ties share a number),"rank, 1 = best",NIRF,int64,1 to 100,1 to 100
+nirf_openalex_joined,tlr,"NIRF Teaching, Learning and Resources score",score 0-100,NIRF,float64,0 to 100,36.34 to 90.58
+nirf_openalex_joined,rpc,NIRF Research and Professional Practice score (= the research score),score 0-100,NIRF,float64,0 to 100,1.09 to 92.51
+nirf_openalex_joined,go,NIRF Graduation Outcomes score,score 0-100,NIRF,float64,0 to 100,43.61 to 100
+nirf_openalex_joined,oi,NIRF Outreach and Inclusivity score,score 0-100,NIRF,float64,0 to 100,34.45 to 86.49
+nirf_openalex_joined,pr,NIRF Perception score,score 0-100,NIRF,float64,0 to 100,0 to 100
+nirf_openalex_joined,openalex_id,OpenAlex institution id,text,OpenAlex,str,OpenAlex id: I followed by digits,164 distinct values
+nirf_openalex_joined,ror_id,Research Organization Registry id used to find the OpenAlex record,URL,ROR,str,URL starting https://ror.org/,164 distinct values
+nirf_openalex_joined,decision,how the ROR match was made: auto or manual,text,"derived, step 3",str,auto or manual,2 distinct values
+nirf_openalex_joined,pubs_own,papers in the 3 years before the ranking year whose author affiliations list the institution itself,papers,OpenAlex,int64,0 to no upper limit,34 to 28418
+nirf_openalex_joined,pubs_lineage,"same, but also counting units filed beneath the institution",papers,OpenAlex,int64,0 to no upper limit,34 to 28418
+nirf_openalex_joined,pubs_article_lineage,lineage count restricted to type = article,papers,OpenAlex,int64,0 to no upper limit,24 to 17054
+nirf_openalex_joined,cited1_lineage,lineage papers with at least 1 citation,papers,OpenAlex,int64,0 to no upper limit,27 to 21504
+nirf_openalex_joined,cited10_lineage,lineage papers with at least 10 citations,papers,OpenAlex,int64,0 to no upper limit,10 to 9189
+nirf_openalex_joined,oa_pubs_year,"OpenAlex's own yearly paper count for the institution, summed over the window",papers,OpenAlex,float64,0 to no upper limit,34 to 29054
+nirf_openalex_joined,cites_received,"citations received during the window, to all the institution's papers",citations,OpenAlex,float64,0 to no upper limit,98 to 441909
+nirf_openalex_joined,n_oa_years,years of OpenAlex data inside the window (should be 3),years,derived,int64,3 to 3,3 to 3
+nirf_openalex_joined,n_oa_missing,empty citation values inside the window (should be 0),count,derived,int64,0 to 0,0 to 0
+nirf_openalex_joined,win_from,first year of the window,year,derived,int64,2014 to 2022,2014 to 2022
+nirf_openalex_joined,win_to,last year of the window,year,derived,int64,2016 to 2024,2016 to 2024
+nirf_openalex_joined,pubs_own_shift1,pubs_own with the window moved back one year,papers,OpenAlex,int64,0 to no upper limit,27 to 19415
+nirf_openalex_joined,cites_received_shift1,cites_received with the window moved back one year,citations,OpenAlex,float64,0 to no upper limit,38 to 427463
+nirf_openalex_joined,pubs_per_year,pubs_own divided by 3,papers per year,derived,float64,0 to no upper limit,11.3333 to 9472.67
+nirf_openalex_joined,share_ge10_lineage,share of lineage papers with at least 10 citations,fraction 0-1,derived,float64,0 to 1,0.0978479 to 0.767616
+nirf_openalex_joined,lineage_ratio,pubs_lineage / pubs_own,ratio,derived,float64,1 to no upper limit,1 to 2.42391
+nirf_openalex_joined,oa_ratio,oa_pubs_year / pubs_own,ratio,derived,float64,0 to no upper limit,1 to 1.26379
+nirf_openalex_joined,flag_lineage_inflated,lineage count more than 5% above own count,true/false,derived,bool,True or False,"False, True"
+nirf_openalex_joined,flag_oa_disagree,OpenAlex yearly count more than 15% above the works-filter count,true/false,derived,bool,True or False,"False, True"
+nirf_openalex_joined,flag_aiims_merged,AIIMS Delhi's OpenAlex record looks like several campuses merged,true/false,derived,bool,True or False,"False, True"
+nirf_openalex_joined,flag_any,any of the three flags,true/false,derived,bool,True or False,"False, True"
+nirf_openalex_joined,rank_rpc,"rank of the research score within the year, 1 = highest",rank,derived,float64,1 to 101,1 to 101
+nirf_openalex_joined,rank_pubs_own,"rank of pubs_own within the year, 1 = most papers",rank,derived,float64,1 to 101,1 to 101
+nirf_openalex_joined,rank_cites_received,rank of cites_received within the year,rank,derived,float64,1 to 101,1 to 101
+nirf_openalex_joined,rank_gap_pubs_vs_rpc,rank_pubs_own minus rank_rpc; positive = fewer papers than its research score suggests,rank places,derived,float64,-100 to 100,-57 to 58
+nirf_openalex_joined,rank_gap_cites_vs_rpc,rank_cites_received minus rank_rpc,rank places,derived,float64,-100 to 100,-46 to 47

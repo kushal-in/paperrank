@@ -1,0 +1,165 @@
+id_new,name_new,location_clean,query,decision,ror_id,ror_name,ror_city,score,margin,n_candidates
+U-0220,indian institute of science,Bengaluru,indian institute of science,auto,https://ror.org/04dese585,Indian Institute of Science Bangalore,Bengaluru,0.924,0.009,20
+U-0456,indian institute of technology madras,Chennai,indian institute of technology madras,auto,https://ror.org/03v0r5n49,Indian Institute of Technology Madras,Chennai,1.0,0.068,20
+U-0306,indian institute of technology bombay,Mumbai,indian institute of technology bombay,auto,https://ror.org/02qyf5152,Indian Institute of Technology Bombay,Mumbai,1.0,0.07,20
+U-0573,indian institute of technology kharagpur,Kharagpur,indian institute of technology kharagpur,auto,https://ror.org/03w5sq511,Indian Institute of Technology Kharagpur,Kharagpur,1.0,0.065,20
+I-1074,indian institute of technology delhi,New Delhi,indian institute of technology delhi,auto,https://ror.org/049tgcd06,Indian Institute of Technology Delhi,New Delhi,1.0,0.028,20
+U-0109,jawaharlal nehru university,New Delhi,jawaharlal nehru university,auto,https://ror.org/0567v8t28,Jawaharlal Nehru University,New Delhi,1.0,0.194,20
+I-1075,indian institute of technology kanpur,Kanpur,indian institute of technology kanpur,auto,https://ror.org/05pjsgx75,Indian Institute of Technology Kanpur,Kanpur,1.0,0.093,20
+U-0053,indian institute of technology guwahati,Guwahati,indian institute of technology guwahati,auto,https://ror.org/0022nd079,Indian Institute of Technology Guwahati,Guwahati,1.0,0.053,20
+U-0560,indian institute of technology roorkee,Roorkee,indian institute of technology roorkee,auto,https://ror.org/00582g326,Indian Institute of Technology Roorkee,Roorkee,1.0,0.081,20
+U-0500,banaras hindu university,Varanasi,banaras hindu university,auto,https://ror.org/04cdn2797,Banaras Hindu University,Varanasi,1.0,0.282,20
+X-0011,jawaharlal nehru centre for advanced scientific research,Bengaluru,jawaharlal nehru centre for advanced scientific research,auto,https://ror.org/0538gdx71,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,1.0,0.319,20
+U-0575,jadavpur university,Kolkata,jadavpur university,auto,https://ror.org/02af4h012,Jadavpur University,Kolkata,1.0,0.176,20
+U-0439,anna university,Chennai,anna university,manual,https://ror.org/01qhf1r47,"Anna University, Chennai",Chennai,0.869,0.002,20
+U-0042,university of hyderabad,Hyderabad,university of hyderabad,auto,https://ror.org/04a7rxb17,University of Hyderabad,Hyderabad,1.0,0.174,20
+U-0120,university of delhi,Delhi,university of delhi,auto,https://ror.org/04gzb2213,University of Delhi,New Delhi,1.0,0.167,20
+U-0436,amrita vishwa vidyapeetham,Coimbatore,amrita vishwa vidyapeetham,auto,https://ror.org/03am10p12,Amrita Vishwa Vidyapeetham,Coimbatore,1.0,0.485,4
+X-0004,indian institute of management ahmedabad,Ahmedabad,indian institute of management ahmedabad,auto,https://ror.org/02egcpy68,Indian Institute of Management Ahmedabad,Ahmedabad,1.0,0.117,20
+U-0323,savitribai phule pune university,Pune,savitribai phule pune university,auto,https://ror.org/044g6d731,Savitribai Phule Pune University,Pune,1.0,0.253,20
+U-0496,aligarh muslim university,Aligarh,aligarh muslim university,auto,https://ror.org/03kw9gc02,Aligarh Muslim University,Aligarh,1.0,0.273,20
+U-0108,jamia millia islamia,New Delhi,jamia millia islamia,auto,https://ror.org/00pnhhv55,Jamia Millia Islamia,New Delhi,1.0,0.375,3
+U-0391,birla institute of technology and science pilani,Pilani,birla institute of technology and science pilani,auto,https://ror.org/001p3jz28,"Birla Institute of Technology and Science, Pilani",Pilāni,1.0,0.103,20
+U-0490,vellore institute of technology,Vellore,vellore institute of technology,auto,https://ror.org/00qzypv28,Vellore Institute of Technology University,Vellore,0.929,0.048,20
+U-0101,indian agricultural research institute,New Delhi,indian agricultural research institute,auto,https://ror.org/01bzgdw81,Indian Agricultural Research Institute,New Delhi,1.0,0.046,20
+U-0273,indian institute of technology indore,Indore,indian institute of technology indore,auto,https://ror.org/01hhf7w52,Indian Institute of Technology Indore,Indore,1.0,0.096,20
+X-0005,indian institute of management bangalore,Bengaluru,indian institute of management bangalore,auto,https://ror.org/02xxpjq61,Indian Institute of Management Bangalore,Bengaluru,1.0,0.089,20
+U-0013,indian institute of technology hyderabad,Hyderabad,indian institute of technology hyderabad,auto,https://ror.org/01j4v3x97,Indian Institute of Technology Hyderabad,Sangāreddi,1.0,0.076,20
+U-0570,calcutta university,Kolkata,University of Calcutta,auto,https://ror.org/01e7v7w47,University of Calcutta,Kolkata,1.0,0.2,20
+U-0485,tamil nadu agricultural university,Coimbatore,tamil nadu agricultural university,auto,https://ror.org/04fs90r60,Tamil Nadu Agricultural University,Coimbatore,1.0,0.038,20
+U-0305,indian institute of science education and research pune,Pune,indian institute of science education and research pune,auto,https://ror.org/028qa3n13,Indian Institute of Science Education and Research Pune,Pune,1.0,0.071,20
+U-0234,manipal academy of higher education manipal,Manipal,Manipal Academy of Higher Education,auto,https://ror.org/02xzytt36,Manipal Academy of Higher Education,Manipal,1.0,0.127,20
+U-0589,visva bharati,Santiniketan,visva bharati,manual,https://ror.org/02y28sc20,Visva-Bharati University,Santiniketan,0.783,0.178,8
+U-0378,indian institute of technology ropar,Rupnagar,indian institute of technology ropar,auto,https://ror.org/02qkhhn56,Indian Institute of Technology Ropar,Ropar,1.0,0.057,20
+U-0363,siksha o anusandhan,Bhubaneswar,siksha o anusandhan,auto,https://ror.org/056ep7w45,Siksha O Anusandhan University,Bhubaneswar,0.856,0.285,9
+U-0467,national institute of technology tiruchirappalli,Tiruchirappalli,national institute of technology tiruchirappalli,auto,https://ror.org/047x65e68,National Institute of Technology Tiruchirappalli,Tiruchchirappalli,1.0,0.159,20
+U-0304,homi bhabha national institute,Mumbai,homi bhabha national institute,auto,https://ror.org/02bv3zr67,Homi Bhabha National Institute,Mumbai,1.0,0.324,20
+U-0446,bharath institute of higher education and research,Chennai,bharath institute of higher education and research,auto,https://ror.org/04yazpn06,Bharath University,Chennai,1.0,0.066,20
+U-0184,indian institute of technology mandi,Mandi,indian institute of technology mandi,auto,https://ror.org/05r9r2f34,Indian Institute of Technology Mandi,Mandi,1.0,0.068,20
+U-0027,osmania university,Hyderabad,osmania university,auto,https://ror.org/030sjb889,Osmania University,Hyderabad,1.0,0.152,20
+S-8972,indian institute of management calcutta,Kolkata,indian institute of management calcutta,auto,https://ror.org/02zhewk16,Indian Institute of Management Calcutta,Kolkata,1.0,0.12,20
+U-0381,punjab agricultural university,Ludhiana,punjab agricultural university,auto,https://ror.org/02qbzdk74,Punjab Agricultural University,Ludhiana,1.0,0.119,20
+U-0308,institute of chemical technology,Mumbai,institute of chemical technology,auto,https://ror.org/00ykac431,Institute of Chemical Technology,Mumbai,1.0,0.099,20
+U-0107,jamia hamdard,New Delhi,jamia hamdard,auto,https://ror.org/03dwxvb85,Jamia Hamdard,New Delhi,1.0,0.375,3
+U-0052,gauhati university,Guwahati,gauhati university,auto,https://ror.org/01ppj9r51,Gauhati University,Guwahati,1.0,0.2,20
+U-0572,indian institute of science education and research kolkata,Mohanpur,indian institute of science education and research kolkata,auto,https://ror.org/00djv2c17,Indian Institute of Science Education and Research Kolkata,Kolkata,1.0,0.078,20
+U-0447,bharathiar university,Coimbatore,bharathiar university,auto,https://ror.org/04fht8c22,Bharathiar University,Coimbatore,1.0,0.158,20
+U-0357,national institute of technology rourkela,Rourkela,national institute of technology rourkela,auto,https://ror.org/011gmn932,National Institute of Technology Rourkela,Rourkela,1.0,0.091,20
+U-0260,kerala university,Thiruvananthapuram,University of Kerala,auto,https://ror.org/05tqa9940,University of Kerala,Thiruvananthapuram,1.0,0.164,20
+U-0056,tezpur university,Tezpur,tezpur university,auto,https://ror.org/005x56091,Tezpur University,Tezpur,1.0,0.188,20
+U-0331,tata institute of social sciences,Mumbai,tata institute of social sciences,auto,https://ror.org/05jte2q37,Tata Institute of Social Sciences,Mumbai,1.0,0.082,20
+U-0476,shanmugha arts science technology and research academy,Thanjavur,SASTRA Shanmugha Arts Science Technology Research Academy,auto,https://ror.org/032jk8892,SASTRA University,Thanjavur,0.981,0.356,20
+X-0007,indian institute of management lucknow,Lucknow,indian institute of management lucknow,auto,https://ror.org/05gfjrx96,Indian Institute of Management Lucknow,Lucknow,1.0,0.135,20
+U-0377,indian institute of science education and research mohali,Mohali,indian institute of science education and research mohali,auto,https://ror.org/01vztzd79,Indian Institute of Science Education and Research Mohali,Mohali,1.0,0.053,20
+U-0205,indian institute of technology (indian school of mines),Dhanbad,Indian Institute of Technology (Indian School of Mines) Dhanbad,manual,https://ror.org/013v3cc28,Indian Institute of Technology Dhanbad,Dhanbad,0.848,0.121,20
+U-0078,panjab university,Chandigarh,panjab university,auto,https://ror.org/04p2sbk06,Panjab University,Chandigarh,1.0,0.188,20
+U-0473,s r m institute of science and technology,Chennai,SRM Institute of Science and Technology,auto,https://ror.org/050113w36,SRM Institute of Science and Technology,Chennai,1.0,0.018,20
+X-0010,indian institute of space science and technology,Thiruvananthapuram,indian institute of space science and technology,auto,https://ror.org/05k37ht14,Indian Institute of Space Science and Technology,Thiruvananthapuram,1.0,0.2,20
+U-0235,mysore university,Mysuru,University of Mysore,auto,https://ror.org/012bxv356,University of Mysore,Mysuru,1.0,0.171,20
+X-0013,national institute of pharmaceutical education and research hyderabad,Hyderabad,National Institute of Pharmaceutical Education and Research Hyderabad,auto,https://ror.org/040dgqr26,National Institute of Pharmaceutical Education and Research,Hyderabad,1.0,0.043,20
+U-0369,pondicherry university,Puducherry,pondicherry university,auto,https://ror.org/01a3mef16,Pondicherry University,Puducherry,1.0,0.253,20
+U-0487,tamil nadu veterinary and animal sciences university,Chennai,tamil nadu veterinary and animal sciences university,auto,https://ror.org/04waphv22,Tamil Nadu Veterinary and Animal Sciences University,Chennai,1.0,0.1,20
+I-1486,sri ramachandra institute of higher education and research,Chennai,sri ramachandra institute of higher education and research,auto,https://ror.org/0108gdg43,Sri Ramachandra Institute of Higher Education and Research,Porur,1.0,0.068,20
+U-0123,anand agricultural university,Anand,anand agricultural university,auto,https://ror.org/050qxn185,Anand Agricultural University,Anand,1.0,0.103,20
+X-0009,indian institute of management udaipur,Udaipur,indian institute of management udaipur,auto,https://ror.org/001xs0312,Indian Institute of Management Udaipur,Udaipur,1.0,0.04,20
+I-1357,university of madras,Chennai,university of madras,auto,https://ror.org/04jmt9361,University of Madras,Chennai,1.0,0.15,20
+U-0237,national institute of technology karnataka surathkal,Surathkal,National Institute of Technology Karnataka,auto,https://ror.org/01hz4v948,National Institute of Technology Karnataka,Mangaluru,1.0,0.084,20
+U-0355,indian institute of technology bhubaneswar,Bhubaneswar,indian institute of technology bhubaneswar,auto,https://ror.org/04gx72j20,Indian Institute of Technology Bhubaneswar,Bhubaneswar,1.0,0.125,20
+X-0008,indian institute of management tiruchirappalli,Tiruchirappalli,indian institute of management tiruchirappalli,auto,https://ror.org/052vdrx60,Indian Institute of Management Tiruchirappalli,Tiruchchirappalli,1.0,0.176,20
+U-0037,sri venkateswara university,Tirupati,sri venkateswara university,auto,https://ror.org/05weahn72,Sri Venkateswara University,Tirupati,1.0,0.089,20
+U-0006,andhra university visakhapatnam,Visakhapatnam,Andhra University,auto,https://ror.org/049skhf47,Andhra University,Visakhapatnam,1.0,0.171,20
+U-0701,indian institute of technology (banaras hindu university) varanasi,Varanasi,indian institute of technology (banaras hindu university) varanasi,auto,https://ror.org/01kh5gc44,Indian Institute of Technology BHU,Varanasi,1.0,0.283,20
+X-0006,indian institute of management kashipur,Kashipur,indian institute of management kashipur,auto,https://ror.org/0039tsz33,Indian Institute of Management Kashipur,Kashipur,1.0,0.053,20
+U-0474,sathyabama institute of science and technology,Chennai,sathyabama institute of science and technology,auto,https://ror.org/01defpn95,Sathyabama Institute of Science and Technology,Chennai,1.0,0.026,20
+U-0584,indian institute of engineering science and technology shibpur,Howrah,indian institute of engineering science and technology shibpur,auto,https://ror.org/02ytfzr55,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,1.0,0.2,20
+U-0222,jss academy of higher education and research,Mysuru,jss academy of higher education and research,auto,https://ror.org/013x70191,JSS Academy of Higher Education and Research,Mysuru,1.0,0.068,20
+I-1480,thapar institute of engineering and technology (deemed to be university),Patiala,Thapar Institute of Engineering and Technology,auto,https://ror.org/00wdq3744,Thapar Institute of Engineering & Technology,Patiāla,1.0,0.056,20
+I-1110,dr d y patil vidyapeeth,Pune,Dr. D. Y. Patil Vidyapeeth Pune,auto,https://ror.org/00s2qq515,"Dr. D.Y. Patil Vidyapeeth, Pune",Pune,1.0,0.264,20
+U-0341,north eastern hill university,Shillong,north eastern hill university,auto,https://ror.org/055m2tx54,North Eastern Hill University,Shillong,1.0,0.231,20
+U-0139,indian institute of technology gandhinagar,Gandhinagar,indian institute of technology gandhinagar,auto,https://ror.org/0036p5w23,Indian Institute of Technology Gandhinagar,Gandhinagar,1.0,0.103,20
+U-0356,kalinga institute of industrial technology,Bhubaneswar,kalinga institute of industrial technology,auto,https://ror.org/00k8zt527,KIIT University,Bhubaneswar,1.0,0.202,20
+C-16604,sri sivasubramaniya nadar college of engineering,Kalavakkam,sri sivasubramaniya nadar college of engineering,auto,https://ror.org/054psm803,Sri Sivasubramaniya Nadar College of Engineering,Chennai,1.0,0.21,20
+X-0002,guru angad dev veterinary and animal sciences university,Ludhiana,guru angad dev veterinary and animal sciences university,auto,https://ror.org/00bbeqy02,Guru Angad Dev Veterinary and Animal Sciences University,Ludhiana,1.0,0.135,20
+U-0025,national institute of technology warangal,Warangal,national institute of technology warangal,auto,https://ror.org/017ebfz38,National Institute of Technology Warangal,Warangal,1.0,0.098,20
+U-0064,indian institute of technology patna,Patna,indian institute of technology patna,auto,https://ror.org/01ft5vz71,Indian Institute of Technology Patna,Patna,1.0,0.028,20
+X-0001,dr y s parmar university of horticulture and forestry,Solan,dr y s parmar university of horticulture and forestry,auto,https://ror.org/03c33w089,Dr. Yashwant Singh Parmar University of Horticulture and Forestry,Solan,1.0,0.173,20
+S-8909,indian institute of management kozhikode,Kozhikode,indian institute of management kozhikode,auto,https://ror.org/03m1xdc36,Indian Institute of Management Kozhikode,Kozhikode,1.0,0.139,20
+U-0497,amity university,Gautam Buddha Nagar,amity university,auto,https://ror.org/02n9z0v62,Amity University,Noida,1.0,0.161,20
+X-0003,indian institute of crop processing technology,Thanjavur,indian institute of crop processing technology,auto,https://ror.org/00ytqcj07,"National Institute of Food Technology, Entrepreneurship and Management - Thanjavur",Thanjavur,1.0,0.224,20
+C-37013,psg college of technology,Coimbatore,psg college of technology,auto,https://ror.org/01tez1r52,PSG College of Technology,Coimbatore,1.0,0.08,20
+U-0389,banasthali vidyapith,Banasthali,banasthali vidyapith,auto,https://ror.org/05ycegt40,Banasthali University,Jaipur,1.0,0.282,3
+I-1361,bharati vidyapeeth,Pune,bharati vidyapeeth,auto,https://ror.org/0052mmx10,Bharati Vidyapeeth (Deemed to be University),Pune,1.0,0.224,20
+I-1441,saveetha institute of medical and technical sciences,Chennai,saveetha institute of medical and technical sciences,auto,https://ror.org/0034me914,Saveetha University,Chennai,1.0,0.256,20
+X-0000,annamalai university,Annamalainagar,annamalai university,auto,https://ror.org/01x24z140,Annamalai University,Chidambaram,1.0,0.2,20
+U-0251,calicut university,Malappuram,University of Calicut,auto,https://ror.org/05yeh3g67,University of Calicut,Malappuram,1.0,0.19,20
+U-0345,mizoram university,Aizawl,mizoram university,auto,https://ror.org/04b1m3e94,Mizoram University,Aizawl,1.0,0.176,20
+X-0012,kurukshetra university,Kurukshetra,kurukshetra university,auto,https://ror.org/019bzvf55,Kurukshetra University,Kurukshetra,1.0,0.282,20
+U-0642,shiv nadar university,Gautam Buddha Nagar,shiv nadar university,auto,https://ror.org/05aqahr97,Shiv Nadar University,Dadri,1.0,0.16,20
+U-0329,symbiosis international,Pune,symbiosis international,manual,https://ror.org/005r2ww51,Symbiosis International University,Pune,0.887,0.058,20
+U-0272,indian institute of science education and research bhopal,Bhopal,indian institute of science education and research bhopal,auto,https://ror.org/02rb21j89,"Indian Institute of Science Education and Research, Bhopal",Bhopal,1.0,0.053,20
+X-0014,rajiv gandhi indian institute of management,Shillong,rajiv gandhi indian institute of management,auto,https://ror.org/04etfv811,Indian Institute of Management Shillong,Shillong,0.985,0.226,20
+U-0225,kle academy of higher education and research,Belagavi,kle academy of higher education and research,auto,https://ror.org/03aam9155,KLE Academy of Higher Education and Research,Belagavi,1.0,0.068,20
+U-0523,king george s medical university,Lucknow,King George's Medical University,auto,https://ror.org/00gvw6327,King George's Medical University,Lucknow,1.0,0.314,20
+U-0435,alagappa university,Karaikudi,alagappa university,auto,https://ror.org/04ec9cc06,Alagappa University,Karaikudi,1.0,0.189,20
+U-0262,mahatma gandhi university kottayam,Kottayam,Mahatma Gandhi University,auto,https://ror.org/00h4spn88,Mahatma Gandhi University,Kottayam,1.0,0.0,20
+U-0554,g b pant universtiy of agriculture and technology,Pantnagar,Govind Ballabh Pant University of Agriculture and Technology,auto,https://ror.org/02msjvh03,Govind Ballabh Pant University of Agriculture and Technology,Haldwani,1.0,0.168,20
+U-0254,indian institute of science education and research thiruvananthapuram,Thiruvananthapuram,indian institute of science education and research thiruvananthapuram,auto,https://ror.org/01pe3t004,Indian Institute of Science Education and Research Thiruvananthapuram,Thiruvananthapuram,1.0,0.109,20
+U-0202,birla institute of technology,Ranchi,birla institute of technology,auto,https://ror.org/028vtqb15,"Birla Institute of Technology, Mesra",Ranchi,0.986,0.093,20
+U-0196,university of kashmir,Srinagar,university of kashmir,auto,https://ror.org/032xfst36,University of Kashmir,Srinagar,1.0,0.16,20
+C-45515,psg institute of medical sciences and research,Coimbatore,PSG Institute of Medical Sciences and Research,auto,https://ror.org/04c1dx793,PSG Institute of Medical Sciences & Research,Coimbatore,1.0,0.074,20
+U-0159,chaudhary charan singh haryana agricultural university,Hisar,chaudhary charan singh haryana agricultural university,auto,https://ror.org/0261g6j35,Chaudhary Charan Singh Haryana Agricultural University,Hisar,1.0,0.23,20
+U-0195,university of jammu,Jammu,university of jammu,auto,https://ror.org/02retg991,University of Jammu,Jammu,1.0,0.094,20
+U-0463,madurai kamaraj university,Madurai,madurai kamaraj university,auto,https://ror.org/04c8e9019,Madurai Kamaraj University,Madurai,1.0,0.306,20
+N-10,svkm s narsee monjee institute of management studies,Mumbai,SVKM's Narsee Monjee Institute of Management Studies,auto,https://ror.org/04qksbm30,Narsee Monjee Institute of Management Studies,Mumbai,1.0,0.154,20
+U-0020,koneru lakshmaiah education foundation university (k l college of engineering),Vaddeswaram,Koneru Lakshmaiah Education Foundation,auto,https://ror.org/02k949197,Koneru Lakshmaiah Education Foundation,Vijayawada,1.0,0.254,20
+U-0246,university of agricultural sciences,Dharwad,University of Agricultural Sciences Dharwad,auto,https://ror.org/02qn0hf26,"University of Agricultural Sciences, Dharwad",Hubballi,1.0,0.116,20
+U-0376,guru nanak dev university,Amritsar,guru nanak dev university,auto,https://ror.org/05ghzpa93,Guru Nanak Dev University,Amritsar,1.0,0.139,20
+U-0036,sri venkateswara institute of medical sciences,Tirupati,sri venkateswara institute of medical sciences,auto,https://ror.org/039thcs93,Sri Venkateswara Institute of Medical Sciences,Tirupati,1.0,0.157,20
+U-0507,dayalbagh educational institute,Agra,dayalbagh educational institute,auto,https://ror.org/04q4j2f69,Dayalbagh Educational Institute,Agra,1.0,0.279,20
+U-0448,bharathidasan university,Tiruchirappalli,bharathidasan university,auto,https://ror.org/02w7vnb60,Bharathidasan University,Tiruchchirappalli,1.0,0.256,20
+C-26794,thiagarajar college of engineering,Madurai,thiagarajar college of engineering,auto,https://ror.org/01rgfv364,Thiagarajar College of Engineering,Madurai,1.0,0.18,20
+C-41593,college of engineering pune,Pune,College of Engineering Pune COEP Technological University,auto,https://ror.org/008128n17,COEP Technological University,Pune,1.0,0.3,20
+C-47762,mahatma gandhi medical college and research institute,Puducherry,mahatma gandhi medical college and research institute,auto,https://ror.org/05v4pjq26,Mahatma Gandhi Medical College and Research Institute,Puducherry,1.0,0.025,20
+U-0121,goa university,Goa,goa university,auto,https://ror.org/030reqw53,Goa University,Taleigao,1.0,0.133,20
+U-0253,cochin university of science and technology,Cochin,cochin university of science and technology,auto,https://ror.org/00a4kqq17,Cochin University of Science and Technology,Ernakulam,1.0,0.095,20
+U-0098,delhi technological university,New Delhi,delhi technological university,auto,https://ror.org/01ztcvt22,Delhi Technological University,New Delhi,1.0,0.103,20
+U-0295,datta meghe institute of higher education and research,Wardha,datta meghe institute of higher education and research,auto,https://ror.org/02w7k5y22,Datta Meghe Institute of Higher Education and Research,Wardha,1.0,0.115,20
+U-0577,national institute of technology durgapur,Durgapur,national institute of technology durgapur,auto,https://ror.org/04ds0jm32,National Institute of Technology Durgapur,Durgapur,1.0,0.05,20
+U-0099,guru gobind singh indraprastha university,New Delhi,guru gobind singh indraprastha university,auto,https://ror.org/034q1za58,Guru Gobind Singh Indraprastha University,Delhi,1.0,0.273,20
+U-0470,periyar university,Salem,periyar university,auto,https://ror.org/05crs8s98,Periyar University,Salem,1.0,0.212,20
+U-0239,nitte,Mangaluru,nitte,manual,https://ror.org/029nydt37,Nitte University,Mangaluru,0.556,0.329,2
+U-0136,gujarat university,Ahmedabad,gujarat university,auto,https://ror.org/017f2w007,Gujarat University,Ahmedabad,1.0,0.143,20
+U-0410,malaviya national institute of technology,Jaipur,malaviya national institute of technology,auto,https://ror.org/0077k1j32,Malaviya National Institute of Technology Jaipur,Jaipur,1.0,0.116,20
+N-17,sawai man singh medical college,Jaipur,sawai man singh medical college,auto,https://ror.org/02x3hmg72,SMS Medical College,Jaipur,1.0,0.229,20
+U-0530,motilal nehru national institute of technology,Prayagraj,motilal nehru national institute of technology,auto,https://ror.org/04dp7tp96,Motilal Nehru National Institute of Technology,Prayagraj,1.0,0.179,20
+U-0055,national institute of technology silchar,Silchar,national institute of technology silchar,auto,https://ror.org/001ws2a36,National Institute Of Technology Silchar,Silchar,1.0,0.105,20
+U-0318,mumbai university,Mumbai,mumbai university,auto,https://ror.org/032hdk172,University of Mumbai,Mumbai,1.0,0.226,20
+U-0379,lovely professional university,Phagwara,lovely professional university,auto,https://ror.org/00et6q107,Lovely Professional University,Phagwāra,1.0,0.315,20
+U-0215,bangalore university,Bengaluru,bangalore university,auto,https://ror.org/050j2vm64,Bangalore University,Bengaluru,1.0,0.13,20
+U-0334,visvesvaraya national institute of technology nagpur,Nagpur,Visvesvaraya National Institute of Technology Nagpur,auto,https://ror.org/02zrtpp84,Visvesvaraya National Institute of Technology,Nagpur,1.0,0.204,20
+U-0458,kalasalingam academy of research and education,Srivilliputhur,kalasalingam academy of research and education,auto,https://ror.org/04fm2fn75,Kalasalingam Academy of Research and Education,Srivilliputhur,1.0,0.169,20
+U-0747,chandigarh university,Mohali,chandigarh university,auto,https://ror.org/05t4pvx35,Chandigarh University,Mohali,1.0,0.125,20
+U-0374,dr b r ambedkar national institute of technology jalandhar,Jalandhar,dr b r ambedkar national institute of technology jalandhar,auto,https://ror.org/03xt0bg88,Dr. B. R. Ambedkar National Institute of Technology Jalandhar,Jalandhar,1.0,0.289,20
+U-0149,sardar vallabhbhai national institute of technology,Surat,sardar vallabhbhai national institute of technology,auto,https://ror.org/02y394t43,Sardar Vallabhbhai National Institute of Technology Surat,Surat,1.0,0.229,20
+N-15,all india institute of medical sciences delhi,New Delhi,All India Institute of Medical Sciences New Delhi,auto,https://ror.org/02dwcqs71,All India Institute of Medical Sciences,New Delhi,0.966,0.07,20
+U-0368,jawaharlal institute of post graduate medical education and research,Puducherry,jawaharlal institute of post graduate medical education and research,auto,https://ror.org/02fq2px14,Jawaharlal Institute of Post Graduate Medical Education and Research,Puducherry,1.0,0.088,20
+U-0498,babasheb bhimrao ambedkar university,Lucknow,Babasaheb Bhimrao Ambedkar University,auto,https://ror.org/04x7ccp17,Babasaheb Bhimrao Ambedkar University,Lucknow,1.0,0.075,20
+U-0689,all india institute of medical sciences jodhpur,Jodhpur,all india institute of medical sciences jodhpur,auto,https://ror.org/05e15a779,All India Institute of Medical Sciences Jodhpur,Jodhpur,1.0,0.062,20
+U-0564,upes,Dehradun,upes,manual,https://ror.org/04q2jes40,University of Petroleum and Energy Studies,Dehradun,0.254,0.254,1
+U-0249,visvesvaraya technological university,Belagavi,visvesvaraya technological university,auto,https://ror.org/00ha14p11,Visvesvaraya Technological University,Belagavi,1.0,0.147,20
+U-0263,national institute of technology calicut,Kozhikode,national institute of technology calicut,auto,https://ror.org/03yyd7552,National Institute of Technology Calicut,Kozhikode,1.0,0.1,20
+U-0395,indian institute of technology jodhpur,Jodhpur,indian institute of technology jodhpur,auto,https://ror.org/03yacj906,Indian Institute of Technology Jodhpur,Jodhpur,1.0,0.081,20
+U-0691,all india institute of medical sciences rishikesh,Rishikesh,all india institute of medical sciences rishikesh,auto,https://ror.org/05qjwb041,All India Institute of Medical Sciences Rishikesh,Rishikesh,1.0,0.114,20
+U-0555,graphic era university,Dehradun,graphic era university,auto,https://ror.org/03wqgqd89,Graphic Era University,Dehradun,1.0,0.022,20
+U-0217,christ university,Bengaluru,christ university,auto,https://ror.org/022tv9y30,Christ University,Bengaluru,1.0,0.188,20
+U-0574,indian statistical institute kolkata,Kolkata,Indian Statistical Institute,auto,https://ror.org/00q2w1j53,Indian Statistical Institute,Kolkata,1.0,0.152,20
+U-0190,shoolini university of biotechnology and management sciences,Solan,shoolini university of biotechnology and management sciences,auto,https://ror.org/02xe2fg84,Shoolini University,Solan,1.0,0.212,20
+U-0003,acharya nagarjuna university,Guntur,acharya nagarjuna university,auto,https://ror.org/02mfapa96,Acharya Nagarjuna University,Guntur,1.0,0.253,20
+U-0686,all india institute of medical sciences patna,Patna,all india institute of medical sciences patna,auto,https://ror.org/033ax5g32,"All India Institute of Medical Sciences, Patna",Patna,1.0,0.071,20
+U-0079,post graduate institute of medical education and research,Chandigarh,post graduate institute of medical education and research,manual,https://ror.org/009nfym65,Post Graduate Institute of Medical Education and Research,Chandigarh,1.0,0.138,20
+U-0236,national institute of mental health and neuro sciences bangalore,Bengaluru,National Institute of Mental Health and Neurosciences,auto,https://ror.org/0405n5e57,National Institute of Mental Health and Neurosciences,Bengaluru,1.0,0.093,20
+U-0014,international institute of information technology hyderabad,Hyderabad,international institute of information technology hyderabad,auto,https://ror.org/05f11g639,"International Institute of Information Technology, Hyderabad",Hyderabad,1.0,0.093,20
+U-0200,sher e kashmir university of agricultural science and technology of kashmir,Srinagar,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,auto,https://ror.org/00jgwn197,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,Srinagar,1.0,0.053,20
+U-0749,manipal university jaipur,Jaipur,manipal university jaipur,auto,https://ror.org/040h76494,Manipal University Jaipur,Jaipur,1.0,0.069,20
+U-0739,madan mohan malaviya university of technology,Gorakhpur,madan mohan malaviya university of technology,auto,https://ror.org/04h1w2j35,Madan Mohan Malaviya University of Technology,Gorakhpur,1.0,0.226,20
+U-0688,all india institute of medical sciences bhubaneswar,Khordha,all india institute of medical sciences bhubaneswar,auto,https://ror.org/029mnbn96,All India Institute of Medical Sciences Bhubaneswar,Bhubaneswar,1.0,0.1,20
