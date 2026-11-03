@@ -1,5 +1,5 @@
 """
-Marks & Margins - retro dashboard for "Does the NIRF research score track OpenAlex output?"
+PaperRank - retro dashboard for "Does the NIRF research score track OpenAlex output?"
 Run:  python app.py   then open http://127.0.0.1:8050
 """
 import numpy as np
@@ -12,7 +12,7 @@ import data as D
 import charts as C
 import config as cfg
 
-app = Dash(__name__, title="Marks & Margins", suppress_callback_exceptions=True, update_title=None)
+app = Dash(__name__, title="PaperRank", suppress_callback_exceptions=True, update_title=None)
 server = app.server
 
 TABS = [("home", "Start"), ("track", "Does it track?"), ("flows", "Who moves"), ("inst", "Pick two"),
@@ -121,7 +121,7 @@ def dd(id_, options, value, multi=False, label="", w=200, search=False, ph=None)
 
 app.layout = html.Div([
         html.Header([
-        html.Div("Marks & Margins", className="brand"),
+        html.Div("PaperRank", className="brand"),
         dcc.RadioItems(id="tab", options=[{"label": n, "value": k} for k, n in TABS], value="home", className="nav", inline=True),
     ], className="top"),
     html.Div([

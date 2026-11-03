@@ -1,4 +1,4 @@
-# Marks & Margins (essay-style dashboard)
+# PaperRank (essay-style dashboard)
 
 1. Put this `retro/` folder inside the project folder, next to `clean/` and `interim/` (or set env var `DCV_ROOT` to the project folder).
 2. `pip install -r requirements.txt`

@@ -2,7 +2,7 @@
 config.py - the words you are most likely to edit: team, contributions, attributions.
 Everything here is plain text. Fill in the TODO lines before you submit.
 """
-TITLE = "Marks & Margins"
+TITLE = "PaperRank"
 SUBTITLE = "Does the NIRF Overall research score track OpenAlex papers and citations? 164 institutions, 2017 to 2025"
 COURSE = "DA2402 Data Curation and Visualisation, IIT Madras"
 REF = "DA2402/15"
