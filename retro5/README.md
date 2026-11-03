@@ -4,7 +4,7 @@
 2. `pip install -r requirements.txt`
 3. `python app.py`, open http://127.0.0.1:8050
 
-Edit: `config.py` (team, contributions, NIRF terms TODO), `institution_types.csv` (created on first run, edit labels), `assets/retro.css` (colours are the variables at the top), `charts.py`, `app.py`.
+`config.py` (team, contributions, licence and terms), `institution_types.csv` (created on first run, edit labels), `assets/retro.css` (colours are the variables at the top), `charts.py`, `app.py`.
 Fonts (Shrikhand, Fraunces, Jost) load from Google Fonts; offline you get fallback fonts.
 Tabs: Front page (3D spinning scatter, ranking race, Sankey), Does it track? (animated scatter, gauges, correlation, robustness), Flows (2 Sankeys, treemap, sunburst), Institutions (radar, trajectories, bump chart, rank calendar), Landscape (violin, 3D surface, parallel coordinates), Gaps (lollipop, churn, violin), Behind the data (before/after, funnel, dumbbell, outliers, log), Credits.
 

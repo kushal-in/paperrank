@@ -1,25 +1,19 @@
-"""
-config.py - the words you are most likely to edit: team, contributions, attributions.
-Everything here is plain text. Fill in the TODO lines before you submit.
-"""
 TITLE = "PaperRank"
 SUBTITLE = "Does the NIRF Overall research score track OpenAlex papers and citations? 164 institutions, 2017 to 2025"
 COURSE = "DA2402 Data Curation and Visualisation, IIT Madras"
 REF = "DA2402/15"
 
-# name, roll number, what they did   (TODO: replace with the real team and contributions)
 TEAM = [
     ("Bhanu Manideep", "DA25B024", "ROR and OpenAlex scraping, data cleaning"),
     ("Sasanka Mouli", "DA25B013", "NIRF scraping, data cleaning"),
     ("Kushal V", "DA25B019", "Visualisation and dashboard"),
 ]
 
-# source, what we took, licence or terms, date retrieved
 SOURCES = [
     ("NIRF Overall ranking pages, one per year 2017 to 2025: https://www.nirfindia.org/Rankings/<year>/OverallRanking.html",
      "Rank and the five component scores for each institution and year",
-     "Public government web pages. robots.txt (https://www.nirfindia.org/robots.txt) was saved on the day of the scrape. TODO: paste the relevant robots.txt lines and the site's terms of use here.",
-     "2026-10-31"),
+     "No robots.txt is published: https://www.nirfindia.org/robots.txt returns 404 in a browser (checked 2026-11-03; a plain curl request returned 403). No terms-of-use or licence page was found on the site. The only notice is the footer: “Copyright © 2023 Website Managed and Maintained by INFLIBNET CENTRE”. The data was collected for non-commercial academic research and is not redistributed. No licence is assumed beyond fair dealing for research (Copyright Act, 1957, s. 52(1)(a)).",
+     "2026-11-03"),
     ("OpenAlex API: https://api.openalex.org (institutions and works, grouped by publication year)",
      "Papers and citations per institution and year; institution records",
      "OpenAlex data is released under CC0 (public domain).",
