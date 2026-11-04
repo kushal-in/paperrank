@@ -8,3 +8,4 @@ dash>=2.9
 plotly>=5.18
 dash-bootstrap-components>=1.5
 jupyter>=1.0
+gunicorn

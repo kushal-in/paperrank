@@ -420,6 +420,6 @@ def render(tab, sel, ia, ib):
 # the home-page buttons must exist for the jump callback; keep hidden stubs so it is always valid
 if __name__ == "__main__":
     try:
-        app.run(debug=False, port=8050)
+        app.run(debug=True, port=8050)
     except AttributeError:
         app.run_server(debug=False, port=8050)
