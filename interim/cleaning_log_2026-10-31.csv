@@ -1,5 +1,0 @@
-step,rows_affected,detail
-2017 rows matched to a later id by name,85,of which via alias: 9
-placeholder ids (institution not matched in later years),15,15 institutions
-display name fixed by hand,2,{'C-41593': 'college of engineering pune'}
-location label standardised,43,raw label kept in location_raw
